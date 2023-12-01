@@ -1306,21 +1306,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、カギがかかってる……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　『いつでも遊びに来ていいよ』って言われてるけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　でかけてるのかな……？」"]
+              "parameters": [
+                "Boku: \"Huh, it's locked... Even though she said,\n'You can come over anytime,' I wonder if she's\nout...?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1479,21 +1470,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あれ、カギがかかってる……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　『いつでも遊びに来ていいよ』って言われてるけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　でかけてるのかな……？」"]
+              "parameters": [
+                "Boku: \"Huh, it's locked... Even though she said\n'Feel free to come over anytime,' I wonder if\nshe's out...?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2034,11 +2016,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクくん、学校にあそびにきたの？」"]
+              "parameters": [
+                "Girl: \"Boku-kun, did you come to play at school?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2296,12 +2279,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「繁華街の側を通ると美味しそうな匂いでお腹が空くわね」"
+                "Woman: \"Passing by the downtown area, the\ndelicious smells really make me hungry.\""
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2659,16 +2641,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「公園前で待ち合わせって言われたのに……"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　まだ来ないのかなぁ……」"]
+              "parameters": [
+                "Boy: \"I was told to meet in front of the park... I\nwonder if they're not here yet...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2954,19 +2932,19 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「カードショップはこっちじゃないぜ？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「でも、こっちには海があるから、また今度行こうな！」"
+                "Takeru: \"The card shop isn't this way, you know?\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Takeru: \"But there's the ocean this way, so let's\ngo another time!\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -3083,11 +3061,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 23] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ユイ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「繁華街はこっちじゃないよ」"]
+              "parameters": [
+                "Yui: \"The entertainment district isn't this way.\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -3328,11 +3307,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["急いでいる男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「待ち合わせに遅れちゃう～！！」"]
+              "parameters": [
+                "Hurried Boy: \"I'm going to be late for our\nmeeting~!!\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3396,11 +3376,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["青年"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁー、最近暑くなってきたな」"]
+              "parameters": [
+                "Young man: \"Haa-, it's been getting hot lately.\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3468,11 +3449,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の人"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「バス、遅いなぁ……」"]
+              "parameters": ["Man: \"The bus is late...\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3585,11 +3565,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「花に水をあげてるのよ」"]
+              "parameters": ["Girl: \"I'm watering the flowers.\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3837,86 +3816,76 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おっす、ボク！　あそびにいこーぜ！」"]
-            },
-            { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
-            { "code": 117, "indent": 0, "parameters": [2] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「タケルくん！　きょうのぶんのしゅくだいはやったの？」"
+                "Takeru\\se[1]: \"Hey, Boku! Let's go out and play!\""
+              ]
+            },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
+            { "code": 117, "indent": 0, "parameters": [2] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Boku\\se[4]: \"Takeru-kun! Have you done today's\nhomework?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「だーいじょぶだって！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　しゅくだいは夏休み終わりにパパっとやれば！」"]
+              "parameters": [
+                "Takeru\\se[4]: \"It's all good! I'll just whip\nthrough the homework at the end of summer break!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それよりも『イマ』を楽しむべきだろ！」"]
+              "parameters": [
+                "Takeru\\se[0]: \"We should be enjoying the 'now'\ninstead!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そ、そうなのかなぁ……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　でも、どこにいくの？」"]
+              "parameters": [
+                "Boku\\se[1]: \"Is that really okay...? But where are\nwe going?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「繁華街のカードショップに行こうぜ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　新作のカードゲームが出てるらしいし！」"]
+              "parameters": [
+                "Takeru: \"Let's head to the card shop in the\ndowntown area! I heard there's a new card game\nout!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「新作のカードゲーム？」"]
+              "parameters": ["Boku: \"A new card game?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ちょっときになるかも……）"]
+              "parameters": [
+                "Boku\\se[0]: (That does pique my interest a bit...)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクも気になるだろ？　ほら、行こうぜ！」"]
+              "parameters": [
+                "Takeru\\se[1]: \"You're curious too, right? Come on,\nlet's go!\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 204, "indent": 0, "parameters": [4, 22, 6] },
@@ -3924,16 +3893,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「カードショップは『繁華街』の『雑居ビル』だな。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　はやくいくぞっ！」"]
+              "parameters": [
+                "Takeru: \"The card shop is in the 'downtown'\n'multi-tenant building'. Let's hurry up and go!\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 204, "indent": 0, "parameters": [6, 22, 6] },
@@ -4037,11 +4002,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おいおい、そっちからじゃ遠回りだぜ？」"]
+              "parameters": [
+                "Takeru: \"Hey, hey, isn't that way a longer route?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -4147,11 +4113,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 23] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ユイ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「繁華街はこっちじゃないよ」"]
+              "parameters": [
+                "Yui: \"The entertainment district isn't this way.\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -4358,11 +4325,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「こっちは繁華街と逆方向だぞ？」"]
+              "parameters": [
+                "Takeru: \"This is the opposite direction from the\ndowntown area, you know?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -4468,11 +4436,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 23] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ユイ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「繁華街はこっちじゃないよ」"]
+              "parameters": [
+                "Yui: \"The entertainment district isn't this way.\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -6951,16 +6920,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おう、ボクじゃないか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　宿題はちゃんとやってるのか？」"]
+              "parameters": [
+                "Boy: \"Oh, if it isn't Boku. Are you doing your\nhomework properly?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7005,16 +6970,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「もうすぐ夏休みも終わりだな、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ボクはしっかり楽しんでるか？」"]
+              "parameters": [
+                "Boy: \"Summer vacation is almost over, huh? Are you\nhaving a good time, Boku?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7068,11 +7029,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["青年"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「もうそろそろ夏祭りの時期か～」"]
+              "parameters": [
+                "Young man: \"It's almost time for the summer\nfestival, huh~\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7117,11 +7079,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["青年"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「今年の祭りも楽しかったなぁ」"]
+              "parameters": [
+                "Young man: \"This year's festival was really fun,\nhuh?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7175,11 +7138,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["若い女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「北にある神社でもうすぐ夏祭りが始まるそうよ」"]
+              "parameters": [
+                "Young Woman: \"I heard that the summer festival at\nthe shrine to the north is about to start soon.\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -7241,11 +7205,10 @@
             },
             { "code": 213, "indent": 0, "parameters": [0, 4, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「へへっ……スキありっ！」"]
+              "parameters": ["Brat: \"Heheh... found an opening!\""]
             },
             { "code": 122, "indent": 0, "parameters": [48, 48, 0, 2, 1, 5] },
             {
@@ -7273,28 +7236,26 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
-            { "code": 401, "indent": 0, "parameters": ["「きゃああっ！？」"] },
+            { "code": 401, "indent": 0, "parameters": ["Woman: \"Kyaaah!?\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（わっ……女の人のスカートがっ……！？）"]
+              "parameters": ["Boku: \"Whoa... her skirt just...!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「へへっ、パンツ見えたぜっ！」"]
+              "parameters": ["Brat: \"Heheh, I saw your panties!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「こらっ、もう、そういうことをしないのっ！」"]
+              "parameters": [
+                "Woman: \"Hey, stop that, no more of this behavior!\""
+              ]
             },
             {
               "code": 250,
@@ -7309,30 +7270,26 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
-            { "code": 401, "indent": 0, "parameters": ["「へぶっ……！？」"] },
+            { "code": 401, "indent": 0, "parameters": ["Brat: \"Hep...!?\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ぐっ、いいのをもらっちまった、ぜ……」"]
+              "parameters": ["Brat: \"Guh, I got a good one this time...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「これに懲りたらもうこんなことはしないようにね？」"
+                "Woman: \"Let this be a lesson to you, don't do this\nkind of thing again, okay?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ご、ごめんなさい……」"]
+              "parameters": ["Brat: \"I'm sorry...\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -7449,11 +7406,10 @@
             },
             { "code": 213, "indent": 0, "parameters": [62, 4, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「へへっ……スキありっ！」"]
+              "parameters": ["Brat: \"Heheh... found an opening!\""]
             },
             { "code": 122, "indent": 0, "parameters": [48, 48, 0, 2, 1, 5] },
             {
@@ -7481,28 +7437,24 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
-            { "code": 401, "indent": 0, "parameters": ["「きゃああっ！？」"] },
+            { "code": 401, "indent": 0, "parameters": ["Woman: \"Kyaaah!?\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（わっ……女の人のスカートがっ……！？）"]
+              "parameters": ["Boku: \"Whoa... her skirt just...!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「へへっ、パンツ見えたぜっ！」"]
+              "parameters": ["Brat: \"Heheh, I saw your panties!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「こらっ、もう、そういうことをしないのっ！」"]
+              "parameters": ["Woman: \"Hey, stop that, don't do such things!\""]
             },
             {
               "code": 250,
@@ -7517,30 +7469,26 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
-            { "code": 401, "indent": 0, "parameters": ["「へぶっ……！？」"] },
+            { "code": 401, "indent": 0, "parameters": ["Brat: \"Hep...!?\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ぐっ、いいのをもらっちまった、ぜ……」"]
+              "parameters": ["Brat: \"Guh, I got a good one this time...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「これに懲りたらもうこんなことはしないようにね？」"
+                "Woman: \"Let this be a lesson to you, don't do this\nkind of thing again, okay?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["悪ガキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ご、ごめんなさい……」"]
+              "parameters": ["Brat: \"I'm sorry...\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -7779,21 +7727,17 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここの窓から何か見えそうかも……？）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（行動を１消費します）"]
+              "parameters": [
+                "Boku: \"I might be able to see something from this\nwindow...?\" (This will consume 1 action)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["のぞく", "のぞかない"], 1, 0, 2, 0]
+              "parameters": [["Peek inside", "Don't peek"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "のぞく"] },
             { "code": 117, "indent": 1, "parameters": [16] },
@@ -7825,11 +7769,10 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -7930,21 +7873,17 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここの窓から何か見えそうかも……？）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（行動を１消費します）"]
+              "parameters": [
+                "Boku: (I might be able to see something from this\nwindow...?) (This will consume one action.)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["のぞく", "のぞかない"], 1, 0, 2, 0]
+              "parameters": [["Peek", "Don't peek"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "のぞく"] },
             { "code": 117, "indent": 1, "parameters": [16] },
@@ -7976,11 +7915,10 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -8081,21 +8019,23 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここの窓から何か見えそうかも……？）"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（行動を１消費します）"]
+              "parameters": [
+                "Boku: (I might be able to see something from this\nwindow...?) (This will consume 1 action.)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["のぞく", "のぞかない"], 1, 0, 2, 0]
+              "parameters": [
+                ["Peek through the window (Uses 1 action)", "Don't peek"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "のぞく"] },
             { "code": 117, "indent": 1, "parameters": [16] },
@@ -8127,11 +8067,10 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -8253,12 +8192,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["連れ歩いているキャラと解散しますか？"]
+              "parameters": [
+                "Would you like to part ways with the character\nyou're accompanying?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 1, 0]
+              "parameters": [["Yes", "No"], 1, 0, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -8323,11 +8264,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8384,7 +8326,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8441,7 +8383,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

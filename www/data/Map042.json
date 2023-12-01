@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-116", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "回想マップ",
+  "displayName": "Reminiscence Map",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -160,11 +160,15 @@
               "parameters": [1, "[HCG]01_1", 0, 0, 0, 0, 100, 100, 125, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -235,11 +239,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -301,11 +309,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -367,11 +379,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -433,11 +449,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -499,11 +519,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -565,11 +589,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },
@@ -631,11 +659,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["回想を見ますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Would you like to view the flashback?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [39, 39, 0] },

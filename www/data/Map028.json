@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-138", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "雑居ビル3F",
+  "displayName": "Mixed-Tenancy Building 3F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -153,11 +153,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ふぅ、一休みっと」"]
+              "parameters": ["Woman: \"Phew, let's take a break.\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -396,11 +395,12 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「こっちは女子トイレだよ……！」"]
+              "parameters": [
+                "Boku\\se[3]: \"This is the ladies' restroom...!\""
+              ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -411,11 +411,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　先へ進むには「ゆうき」が20以上必要です。"]
+              "parameters": ["You need more than 20 \"courage\" to proceed."]
             },
             {
               "code": 205,
@@ -555,11 +554,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おかあさん、早くいこうよ～」"]
+              "parameters": ["Girl: \"Mom, let's go quickly~\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -613,11 +611,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いろんなドリンクが並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There's a variety of\ndrinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -721,154 +720,127 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 41] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ミヤビちゃん」"]
+              "parameters": ["Boku: \"Ah, Miyabi-chan.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「やっほー、ボクちんじゃん♪」"]
+              "parameters": ["Miyabi\\se[2]: \"Yaho-, it's Boku-chin♪\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「こんにちは、ミヤビちゃんは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　なにをしてるの？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[default]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「んー？　アタシはショッピングの合間の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　休憩ってカンジ？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「２階の雑貨屋見てたんだけど、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ここなら自販機もあるから休めるしね」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
-            { "code": 401, "indent": 0, "parameters": ["「そうなんだ」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[1]"] },
-            { "code": 401, "indent": 0, "parameters": ["「うんうんっ♪」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「つかさ、８月ってことは、もうすぐ毎年恒例の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　夏祭りが神社であるよねぇ♪」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[default]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ボクちんは誰と回るか決まってるの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　誰か女の子とお祭りデートしちゃうとかぁ？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「そっ、そんなことはないよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いつもはタケルくんとおまつりに行ってるよ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「んー、そっかぁ……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　まあボクちんくらいだったらそんなもんかぁ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「はーあ、アタシも素敵なカレシとかできないかなぁ……」"
+                "Boku: \"Hello, what are you doing, Miyabi-chan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「み、見つかるといいね……？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ふふっ、それともボクちんがカレシになる？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ぼ、ぼぼぼっ、ボクがっ……！？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[7]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「なーんて、ジョーダンジョーダンっ♪"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ま、どっちみち今年も夏祭り楽しみだねー♪」"]
+              "parameters": [
+                "Miyabi\\se[default]: \"Hmm? I'm just taking a break\nbetween shopping sprees, you know?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「そ、そうだね……」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi: \"I was looking at the variety store on the\nsecond floor, but I can rest here since there's a\nvending machine too.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[4]: \"I see.\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Miyabi\\se[1]: \"Yep yep♪\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi: \"By the way, since it's August, the annual\nsummer festival at the shrine is coming up soon,\nisn't it♪\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi\\se[default]: \"Have you decided who you're\ngoing to go around with, Boku-chin? Maybe you'll\nhave a festival date with some girl?\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Boku\\se[3]: \"No, nothing like that! I always go to\nthe festival with Takeru-kun.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi: \"Hmm, I see... Well, I guess that's about\nright for someone like Boku-chin.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi: \"Sigh, I wonder if I'll ever find a\nwonderful boyfriend...\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[4]: \"I-I hope you find someone...?\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi\\se[2]: \"Hehe, or maybe Boku-chin will\nbecome my boyfriend?\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[3]: \"Bo-bo-bo-Boku as...!?\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miyabi\\se[7]: \"Just kidding, just kidding♪ Anyway,\nlooking forward to the festival this year too♪\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Yeah... me too...\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -890,11 +862,10 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　　ミヤビとの仲が深まった！"]
+              "parameters": ["My relationship with Miyabi deepened!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1028,11 +999,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いろんなドリンクが並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There's a variety of\ndrinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1086,11 +1058,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いろんなドリンクが並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There's a variety of\ndrinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

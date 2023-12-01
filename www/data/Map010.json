@@ -1118,11 +1118,10 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「こっちは女子トイレだよ……！」"]
+              "parameters": ["Boku\\se[3]: \"This is the girls' bathroom...!\""]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -1133,11 +1132,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　先へ進むには「ゆうき」が20以上必要です。"]
+              "parameters": ["You need more than 20 \"courage\" to proceed."]
             },
             {
               "code": 205,
@@ -1277,11 +1275,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏休みなのに補習があるなんて……」"]
+              "parameters": [
+                "Boy: \"To have supplementary lessons even during\nsummer vacation...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1335,11 +1334,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「学校ってあついよね……クーラーとかつかないかな」"]
+              "parameters": [
+                "Girl: \"School is so hot... I wonder if they'll\never use the air conditioner.\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1393,16 +1393,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくんも補習？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ってボクくんがそんなわけないか……」"]
+              "parameters": [
+                "Girl: \"Oh, Boku-kun, you're here for supplementary\nlessons too? No, that can't be right...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1630,11 +1626,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1688,11 +1685,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

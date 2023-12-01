@@ -191,69 +191,52 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["倉庫作業員"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁ、この量の仕事をひとりでやるって、"]
+              "parameters": [
+                "Warehouse Worker: \"Sigh, doing all this work alone\nis just too tough...\""
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["　キツすぎるよ……」"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["倉庫作業員"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「少しでいいから手伝ってくれる人がいたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いいんだけどなぁ……」"]
+              "parameters": [
+                "Warehouse Worker: \"I wish there was someone who\ncould help out, even if just a little...\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（困っているみたいだから、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　お手伝いしたほうがいいかな？）"]
+              "parameters": [
+                "Boku: \"(It looks like they're in trouble, maybe I\nshould offer to help?)\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お手伝いをしますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（行動回数を1消費します）"]
+              "parameters": [
+                "Will you help out? (This will use up 1 action\npoint)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["倉庫作業員"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「もしかして僕を手伝ってくれるのかい！？"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　それは助かる！　猫の手も借りたいくらいだったからね」"
+                "Warehouse Worker: \"Could it be that you're going\nto help me!? That would be a lifesaver! I'm so\ndesperate I'd even welcome a cat's paw.\""
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -266,21 +249,20 @@
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　　　　ボクはお手伝いを頑張った。"]
+              "parameters": ["Boku worked hard to help out."]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["倉庫作業員"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ありがとう、おかげで助かったよ。"]
+              "parameters": [
+                "Warehouse Worker: \"Thank you, you really saved me.\nHere's a little something for your trouble.\""
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["　これはお駄賃だ」"] },
             { "code": 122, "indent": 1, "parameters": [47, 47, 0, 2, 65, 90] },
             {
               "code": 250,
@@ -298,11 +280,10 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to get back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -357,13 +338,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["倉庫作業員"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ありがとう、今日はもう大丈夫だよ。"]
+              "parameters": [
+                "Warehouse Worker: \"Thank you, we're good for\ntoday. You've been a big help.\""
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["　助かったよ」"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

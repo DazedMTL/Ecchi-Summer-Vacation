@@ -726,11 +726,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　～　7月31日、夏休み前日　～"]
+              "parameters": ["~July 31st, the day before summer vacation~"]
             },
             { "code": 204, "indent": 0, "parameters": [6, 5, 4] },
             { "code": 204, "indent": 0, "parameters": [6, 0, 4] },
@@ -744,25 +743,20 @@
             },
             { "code": 213, "indent": 0, "parameters": [5, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「はーい、明日から夏休みね。"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　休みだからってキケンなことはしないようにするのよ」"
+                "Homeroom Teacher: \"Okay, summer vacation starts\ntomorrow. Make sure not to do anything dangerous\njust because you're on break.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それと、夏休みの宿題もきちんとやること！」"]
+              "parameters": [
+                "Homeroom Teacher: \"And don't forget to do your\nsummer homework!\""
+              ]
             },
             {
               "code": 250,
@@ -793,23 +787,18 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 100] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁ、夏休みにシュクダイがなかったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　最高なのになぁ……」"]
+              "parameters": [
+                "Takeru\\se[4]: \"Sigh, it would be the best if we\ndidn't have homework during summer vacation...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクもそう思うだろ？」"]
+              "parameters": ["Takeru\\se[0]: \"You think so too, right?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 122, "indent": 0, "parameters": [43, 43, 0, 0, 10] },
@@ -817,8 +806,11 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[6]"] },
-            { "code": 401, "indent": 0, "parameters": ["「そ、そうだね……」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[6]: \"Yeah, that's right...\""]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -828,11 +820,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [5, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ちょっとタケルくん、おしゃべりしないの！」"]
+              "parameters": [
+                "Homeroom Teacher: \"Takeru-kun, no chatting now!\""
+              ]
             },
             {
               "code": 205,
@@ -855,47 +848,46 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 100] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[2]"] },
-            { "code": 401, "indent": 0, "parameters": ["「は、はいっ」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わかればよろしいっ」"]
+              "parameters": ["Takeru\\se[2]: \"Yes, ma'am!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それと、夏休みの宿題の作文のテーマが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　決まったからみんなに伝えておくわね」"]
+              "parameters": ["Homeroom Teacher: \"As long as you understand.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「作文のテーマは『将来の夢』について書くこと！」"]
+              "parameters": [
+                "Homeroom Teacher: \"Also, I've decided on the theme\nfor the summer vacation essay, so I'll let\neveryone know.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（しょうらいのゆめか……ぼくは……）"]
+              "parameters": [
+                "Homeroom Teacher: \"The theme for the essay is\n'Your Dream for the Future'!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（……まだよくわからないかも）"]
+              "parameters": [
+                "Boku\\se[0]: (My dream for the future, huh... I...)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: (...might not really know yet.)"]
             },
             {
               "code": 250,
@@ -906,39 +898,41 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「しょうらいのゆめか……オレはプロサッカー選手だな！」"
+                "Takeru\\se[1]: \"A dream for the future, huh... I'm\ngonna be a pro soccer player!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（タケルくんはサッカーせんしゅかぁ。"]
+              "parameters": [
+                "Boku: (Takeru-kun wants to be a soccer player,\nhuh. He does go to soccer club after all.)"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　サッカークラブにもかよってるもんね）"]
+              "parameters": [
+                "Homeroom Teacher: \"Well then everyone, take care\nand have a good time.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["担任の先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それじゃみんな、気をつけて過ごすのよ」"]
+              "parameters": ["Takeru: \"Yes ma'am!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
-            { "code": 401, "indent": 0, "parameters": ["「はーいっ」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
-            { "code": 401, "indent": 0, "parameters": ["「はいっ」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[4]: \"Yes ma'am!\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 21, 9, 2, 0] },

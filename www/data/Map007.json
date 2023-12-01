@@ -382,15 +382,17 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あーっ、ボクじゃん！」"]
+              "parameters": ["Riri\\se[4]: \"Ah-! It's Boku!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            { "code": 401, "indent": 0, "parameters": ["「あっ……！？」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[3]: \"Ah...!?\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 122, "indent": 0, "parameters": [43, 43, 0, 0, 6] },
             { "code": 117, "indent": 0, "parameters": [13] },
@@ -399,63 +401,52 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（リリちゃんに会うなんて……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いつもボクにいたずらしてくるんだよなぁ）"]
+              "parameters": [
+                "Boku\\se[3]: (To think I'd run into Riri-chan...\nShe's always playing pranks on me.)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（また何かされるのかな……）"]
+              "parameters": [
+                "Boku\\se[2]: (I wonder what she's going to do to me\nthis time...)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[5]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、てナニよ？　としうえは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　うやまわないといけないんだよ？」"]
+              "parameters": [
+                "Riri\\se[5]: \"Ah, what's that? You know you're\nsupposed to respect your elders, right?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["リリ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクはゲボクなんだから、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ちゃんとしてよねー！」"]
+              "parameters": [
+                "Riri: \"Since you're my servant, you better behave\nproperly!\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 70] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ララ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そう……あいさつしないと」"]
+              "parameters": [
+                "Lala: \"That's right... You need to greet\nproperly.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ララちゃんも……！？」"]
+              "parameters": ["Boku\\se[3]: \"Lala-chan too...!?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 122, "indent": 0, "parameters": [43, 43, 0, 0, 7] },
@@ -467,90 +458,82 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ううっ、この双子が揃ったら、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　もうにげられないよぉ……）"]
+              "parameters": [
+                "Boku\\se[3]: (Ugh, when these twins are together,\nthere's no escaping...)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ\\se[3]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクくんはオモチャなんだから。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　今日はどうやって遊ぼうかなぁ」"]
+              "parameters": [
+                "Lala\\se[3]: \"Boku-kun is just a toy. I wonder how\nwe should play with him today.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[6]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うーん、そうだなぁ……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　何かオモシロいことさせたいなぁ……」"]
+              "parameters": [
+                "Riri\\se[6]: \"Hmm, that's right... I want to make\nhim do something fun...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうだ！　逆立ちで公園一周させるのは？」"]
+              "parameters": [
+                "Riri\\se[2]: \"I got it! How about making him do a\nhandstand and go around the park?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「えぇ……？　もっと面白いことが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ありそうじゃない？」"]
+              "parameters": [
+                "Lala\\se[4]: \"Eh...? Isn't there something more\ninteresting we could do?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「じゃあ、ララが考えてよ！」"]
+              "parameters": [
+                "Riri\\se[4]: \"Then you come up with something,\nLala!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ\\se[default]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「今かんがえてるところなの」"]
+              "parameters": [
+                "Lala\\se[default]: \"I'm thinking about it right\nnow.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[1]"] },
-            { "code": 401, "indent": 0, "parameters": ["「……」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[1]: \"...\""]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（逃げるなら、今がチャンスかな……？）"]
+              "parameters": [
+                "Boku: (If I'm going to escape, now's my chance...)"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そ、それじゃボクはこれで……」"]
+              "parameters": [
+                "Boku\\se[3]: \"So, then I'll be taking my leave...\""
+              ]
             },
             {
               "code": 250,
@@ -565,23 +548,18 @@
               "parameters": ["skit slideOut boku t"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あーっ！　ゲボクがにげた！」"]
+              "parameters": ["Riri\\se[4]: \"Ah-! The servant is escaping!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ\\se[7]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あーあ……じゃあオモチャで遊ぶのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　次に会ったときだねぇ」"]
+              "parameters": [
+                "Lala\\se[7]: \"Ah-ah... Well, we'll just have to\nplay with our toy next time we meet.\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -683,8 +661,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女学生"] },
-            { "code": 401, "indent": 0, "parameters": ["「あー、あづい……」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Female Student: \"Ah-, it's hot...\""]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1301,11 +1282,12 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク\\se[3]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「こっちは女子トイレだよ……！」"]
+              "parameters": [
+                "Boku\\se[3]: \"This is the ladies' restroom...!\""
+              ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -1316,11 +1298,10 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　先へ進むには「ゆうき」が20以上必要です。"]
+              "parameters": ["You need more than 20 'courage' to proceed."]
             },
             {
               "code": 205,
@@ -1452,11 +1433,10 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 71] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ボクくんが女の子といるー」"]
+              "parameters": ["Rara: \"Ah, Boku-kun is with a girl—\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1545,11 +1525,10 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 71] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ララ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ボクくんが女の子といるー」"]
+              "parameters": ["Rara: \"Ah, Boku-kun is with a girl--\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1652,11 +1631,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 61] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ゲボクがオンナと歩いてるー♪」"]
+              "parameters": [
+                "Riri: \"Ah, look, Boku is walking with a woman—♪\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1745,11 +1725,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 61] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リリ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ゲボクがオンナと歩いてるー♪」"]
+              "parameters": [
+                "Riri: \"Ah, look, Boku is walking with a woman—♪\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1853,11 +1834,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクくんも遊びにきたの？」"]
+              "parameters": ["Girl: \"Did you come to play too, Boku-kun?\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1911,11 +1891,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「この公園はみんな遊びにくるんだよ」"]
+              "parameters": ["Boy: \"Everyone comes to play in this park.\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

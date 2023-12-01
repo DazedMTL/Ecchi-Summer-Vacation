@@ -172,7 +172,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["You can't just talk to someone from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -214,23 +214,20 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ボクか、私は夏の『コミマート』の原稿で"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　忙しくてね、ゲームはしてあげられないんだ」"]
+              "parameters": [
+                "Akane: \"Whether it's me or Boku, I'm too busy with\nthe manuscript for the summer 'ComiMart', so I\ncan't play games.\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「アイスなら冷凍庫にあるから勝手に食べていいよ」"]
+              "parameters": [
+                "Akane: \"There's ice cream in the freezer, feel\nfree to help yourself.\""
+              ]
             },
             {
               "code": 205,
@@ -262,40 +259,26 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（アカネおねえちゃんだ……。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　あんまり外で会うことはないけど、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　いつも家で絵を描いてるみたい）"]
+              "parameters": [
+                "Boku: (It's Akane Onee-san... We don't meet\noutside much, but she always seems to be drawing\nat home.)"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（でも、おうちに遊びに来るといつも"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　ゲームをさせてくれるんだよね）"]
+              "parameters": [
+                "Boku: (But whenever I visit her house, she always\nlets me play games.)"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（今は忙しいみたい……）"]
+              "parameters": ["Boku: (It seems like she's busy right now...)"]
             },
             { "code": 122, "indent": 1, "parameters": [57, 57, 0, 0, 100] },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -348,7 +331,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["I can't talk to you from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -382,23 +365,20 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ボクか、私は夏の『コミマート』の原稿で"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　忙しくてね、ゲームはしてあげられないんだ」"]
+              "parameters": [
+                "Akane: \"Whether it's Boku or me, I'm busy with the\nmanuscript for the summer 'ComiMart,' so I can't\nplay games with you.\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「アイスなら冷凍庫にあるから勝手に食べていいよ」"]
+              "parameters": [
+                "Akane: \"You can help yourself to some ice cream\nfrom the freezer if you want.\""
+              ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -477,7 +457,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["You can't just talk to someone from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -492,18 +472,20 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[2]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「うーん、原稿が煮詰まってきたな」"]
+              "parameters": [
+                "Akane\\se[2]: \"Hmm, the manuscript is really coming\nto a boil.\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ムラムラするしそろそろ……」"]
+              "parameters": [
+                "Akane: \"I'm getting horny, and it's about time...\""
+              ]
             },
             {
               "code": 205,
@@ -568,31 +550,29 @@
               "parameters": [{ "code": 25, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「ボクっ！？　いつからそこに！？」"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[default]"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「悪いね、今日はちょっと忙しくて。"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　しばらく原稿に集中したいから、また今度来てくれる？」"
+                "Akane\\se[1]: \"Boku!? Since when have you been\nthere!?\""
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Akane\\se[default]: \"Sorry, I'm a bit busy today. I\nwant to focus on my manuscript for a while, so can\nyou come back another time?\""
               ]
             },
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
-            { "code": 401, "indent": 1, "parameters": ["「わかった！」"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Boku: \"Understood!\""]
+            },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
               "code": 250,
@@ -654,7 +634,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["I can't talk to you from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -688,16 +668,12 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「はあ、はあっ……♪　おや、ボクか……♪"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　ど、どうしたんだい？」"]
+              "parameters": [
+                "Akane: \"Haa, haa...♪ Oh, is that you, Boku...♪\nWhat's up?\""
+              ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -816,7 +792,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["You can't just talk to someone from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -831,12 +807,11 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[3]"] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「むっふふ……調子に乗ってデカいの買っちゃった……♪」"
+                "Akane\\se[3]: \"Mufufu... I got carried away and\nbought a big one...♪\""
               ]
             },
             {
@@ -902,23 +877,18 @@
               "parameters": [{ "code": 25, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[1]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ボクっ！？　来ていたのか！？」"]
+              "parameters": ["Akane\\se[1]: \"Boku!? Were you here!?\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ\\se[default]"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「原稿があるからゲームはできないけど、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　アイスなら食べていいよ」"]
+              "parameters": [
+                "Akane\\se[default]: \"I can't play games because I\nhave a manuscript to work on, but you can have\nsome ice cream.\""
+              ]
             },
             {
               "code": 205,
@@ -948,19 +918,19 @@
               "parameters": [{ "code": 35, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「さて、原稿原稿！」"]
+              "parameters": ["Akane: \"Now then, manuscript, manuscript!\""]
             },
             { "code": 213, "indent": 1, "parameters": [0, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「はぁ、明日あたり使ってみるか……」"]
+              "parameters": [
+                "Akane: \"Sigh, maybe I'll try using it tomorrow...\""
+              ]
             },
             { "code": 122, "indent": 1, "parameters": [57, 57, 0, 0, 350] },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -1013,7 +983,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["後ろからでは話しかけられない。"]
+              "parameters": ["I can't talk to you from behind."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1047,28 +1017,20 @@
             { "code": 122, "indent": 1, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 1, "parameters": [2] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「はあ、はあっ……♪　おや、ボクか……♪"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　ど、どうしたんだい？」"]
+              "parameters": [
+                "Akane: \"Haa, haa...♪ Oh, it's you, Boku...♪ What's\nup?\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「私は相変わらず原稿で忙しくてね……♪"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　これから追い込みなんだ」"]
+              "parameters": [
+                "Akane: \"I'm as busy as ever with the\nmanuscript...♪ I'm about to start the final push.\""
+              ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -1268,18 +1230,16 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（え、えっちなポスターだ……！）"]
+              "parameters": ["Boku: (Eh, it's an ecchi poster...!)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（こんなポスターがあるんだ……）"]
+              "parameters": ["Boku: (So there are posters like this...)"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1333,11 +1293,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（なにかのアニメのポスターが貼ってある……）"]
+              "parameters": ["Boku: \"There's a poster of some anime up...\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1399,16 +1358,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（マッサージ機？　みたいなものがある……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　肩がこってるのかな？）"]
+              "parameters": [
+                "Boku: \"Is this some kind of massage device...?\nMaybe my shoulders are stiff?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1471,11 +1426,12 @@
             },
             { "code": 213, "indent": 1, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（ぶあつさの薄い本が沢山ならんでる……）"]
+              "parameters": [
+                "Boku: \"There are so many thin books lined up...\""
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1557,20 +1513,20 @@
             },
             { "code": 213, "indent": 0, "parameters": [2, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「こ、こらこらっ！　その棚をのぞいちゃイカンよ少年！」"
+                "Akane: \"Hey, hey! You shouldn't be peeking at that\nshelf, young man!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そこには私のお気に入りの……いや、なんでもない」"]
+              "parameters": [
+                "Akane: \"That's where I keep my favorite... No,\nnever mind.\""
+              ]
             },
             {
               "code": 205,
@@ -1645,7 +1601,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミ袋が雑に置かれている。"]
+              "parameters": ["The trash bags are carelessly placed."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1702,7 +1658,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミ袋が雑に置かれている。"]
+              "parameters": ["The trash bags are carelessly placed."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1756,7 +1712,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["きれいな台所だ。"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It's a beautiful kitchen."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1812,7 +1772,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["『BLデッサンポーズ集』という本がある。"]
+              "parameters": [
+                "There's a book called \"BL Sketch Pose Collection\"."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

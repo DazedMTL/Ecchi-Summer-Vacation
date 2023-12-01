@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "マンション",
+  "displayName": "Mansion",
   "encounterList": [],
   "encounterStep": 30,
   "height": 14,
@@ -126,19 +126,17 @@
             },
             { "code": 213, "indent": 0, "parameters": [0, 6, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「た、助けて～！！　虫がっ！　虫がぁ！！」"]
+              "parameters": ["Woman: \"He-help me~!! There's a bug! A bug!!\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　ボクは虫を窓から逃した。"]
+              "parameters": ["Boku released the bug out of the window."]
             },
             {
               "code": 205,
@@ -187,18 +185,18 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ありがと～！！　助かったわ……」"]
+              "parameters": ["Woman: \"Thank you~!! You saved me...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「また虫が出たら、お願いね？」"]
+              "parameters": [
+                "Woman: \"If another bug comes out, please help me\nagain, okay?\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [59, 59, 0, 2, 1, 2] },
             { "code": 117, "indent": 0, "parameters": [17] },
@@ -246,11 +244,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「また虫が出たら、お願いね？」"]
+              "parameters": [
+                "Woman: \"If another bug comes out, could you please\ntake care of it?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

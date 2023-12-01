@@ -354,11 +354,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏休みなのに補習なんて……」"]
+              "parameters": [
+                "Boy: \"Even though it's summer vacation, I have to\ntake supplementary lessons...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -412,11 +413,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うぅ……むずかしくて分からないよぅ……」"]
+              "parameters": [
+                "Boy: \"Ugh... It's so difficult, I don't\nunderstand...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -470,11 +472,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["先生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくんは補習じゃないでしょう？」"]
+              "parameters": [
+                "Teacher: \"Oh, Boku-kun, you're not supposed to be\nin supplementary lessons, are you?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -531,7 +534,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先生の机には様々な書類が積みあがっている。"]
+              "parameters": [
+                "The teacher's desk is piled high with various\ndocuments."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -588,7 +593,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先生の机には様々な書類が積みあがっている。"]
+              "parameters": [
+                "Various documents are piled up on the teacher's\ndesk."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

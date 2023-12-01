@@ -664,8 +664,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男性"] },
-            { "code": 401, "indent": 0, "parameters": ["「ここは倉庫だよ」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Man: \"This is a warehouse.\""]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -718,11 +721,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -776,11 +780,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -834,11 +839,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["水とスポーツドリンクがたくさん並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There are lots of water\nand sports drinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -895,7 +901,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -952,7 +958,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1009,7 +1015,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1066,7 +1072,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゴミはきちんと分別しよう。"]
+              "parameters": ["Let's make sure to sort the trash properly."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1123,12 +1129,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["シャッターが降りている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今は使われていないようだ。"]
+              "parameters": [
+                "The shutter is down. It seems to be out of use\nright now."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1185,12 +1188,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["シャッターが降りている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今は使われていないようだ。"]
+              "parameters": [
+                "The shutter is down. It seems to be out of use\nright now."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

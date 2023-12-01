@@ -520,7 +520,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["扉越しにかすかに声が聞こえてくる……。"]
+              "parameters": ["I can faintly hear a voice through the door..."]
             },
             {
               "code": 250,
@@ -531,21 +531,19 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 4, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性の声"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「んっ、あっ……はぁっ……♪」"]
+              "parameters": ["Woman's Voice: \"Mmm, ah...haa...♪\""]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 11] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（何の声なんだろう……）"]
+              "parameters": ["Boku: (I wonder what that voice is...)"]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -778,7 +776,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["掃除道具が入っているロッカーだ。"]
+              "parameters": ["It's a locker where the cleaning tools are kept."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

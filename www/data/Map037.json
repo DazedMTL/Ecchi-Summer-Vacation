@@ -1233,131 +1233,111 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　　　　　　　　　　～ 秘密基地 ～"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["~ Secret Base ~"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ここに来るのも久しぶりだね～」"]
+              "parameters": [
+                "Boku: \"It's been a while since we've come here,\nhuh~\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 101] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「なつやすみは時間もあるし、いっぱい来れるな！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「オレもたまには来るから、ボクも誰かが来ないように"
+                "Takeru\\se[1]: \"We have a lot of time during summer\nvacation, so we can come here a lot!\""
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ちゃんと見回りするんだぞ！」"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「わ、わかったよ……」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[4]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「とくに公園にいる奴らには気をつけろよ？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　なにをしてくるか分からないからな！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[1]"] },
-            { "code": 401, "indent": 0, "parameters": ["「公園？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ああ、リリとララって双子の女子なんだけど、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いろんなやつらにイタズラしてるらしいぜ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あっ、リリちゃんとララちゃん……」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「なんだ、知ってるのか？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（あの二人は公園にいつもいて、ボクを見つけると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いたずらをしてくるんだよね……）"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[1]"] },
-            { "code": 401, "indent": 0, "parameters": ["「うん、まぁね……」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「そうか……なんかボクもタイヘンなんだな……」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「まあとにかく、このひみつきちが荒らされないように、"
+                "Takeru\\se[0]: \"I'll come by occasionally too, so\nmake sure you patrol properly to ensure no one\nelse comes!\""
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　ちゃんと二人で見回らないとな！」"]
+              "parameters": ["Boku\\se[3]: \"O-okay...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[0]"] },
-            { "code": 401, "indent": 0, "parameters": ["「そうだね！」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Takeru\\se[4]: \"Especially watch out for those guys\nin the park, okay? You never know what they might\ndo!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[1]: \"The park?\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Takeru: \"Yeah, there are these twin girls, Riri\nand Lala, who seem to be playing pranks on various\npeople.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[3]: \"Ah, Riri-chan and Lala-chan...\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Takeru: \"What, you know them?\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Boku: (Those two are always at the park, and they\nplay pranks on me whenever they find me...)"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[1]: \"Yeah, well...\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Takeru: \"I see... Sounds like you've got it tough\ntoo...\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Takeru: \"Anyway, we have to make sure to patrol\ntogether so that our secret base doesn't get\nmessed up!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[0]: \"Right!\""]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -1385,28 +1365,24 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[0]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おっともうこんな時間だ！"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　それじゃあ、おれはサッカークラブに行ってくる！」"
+                "Takeru\\se[0]: \"Oh shoot, look at the time! I'm off\nto soccer club then!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[0]"] },
-            { "code": 401, "indent": 0, "parameters": ["「頑張ってね！」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おうよ！　ボク、またな！」"]
+              "parameters": ["Boku\\se[0]: \"Good luck!\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Takeru\\se[1]: \"You bet! See you later, Boku!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -1499,11 +1475,10 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「もう行っちゃった……」"]
+              "parameters": ["Boku: \"He's already gone...\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -1610,11 +1585,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「何か落ちてる……？　なんだろう？」"]
+              "parameters": [
+                "Boku: \"What's this on the ground...? What could it\nbe?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -1628,14 +1604,12 @@
               "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「！！！！！」"] },
+            { "code": 401, "indent": 0, "parameters": ["Boku: \"!!!!\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「こ、これは……えっちな本！？」"]
+              "parameters": ["Boku: \"Th-This is... an erotic book!?\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1643,38 +1617,38 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんでこんなところにえっちな本が……」"]
+              "parameters": [
+                "Boku: \"Why is there an erotic book in a place like\nthis...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「誰かが捨てていったのかな？」"]
+              "parameters": ["Boku: \"Did someone throw it away, I wonder?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボクはエロ本を"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku picks up the erotic book."]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["見る", "見ない"], 1, 0, 2, 0]
+              "parameters": [["Look at it", "Don't look at it"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "見る"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「……なんだか、これを見てると、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おちんちんがムズムズする……」"]
+              "parameters": [
+                "Boku: \"...Somehow, looking at this is making my\ndick itch...\""
+              ]
             },
             {
               "code": 250,
@@ -1695,23 +1669,20 @@
               "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「お、おちんちんが固くなってる……！？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　どういうことなんだろう……」"]
+              "parameters": [
+                "Boku: \"M-My dick is getting hard...!? What's going\non...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（触ったらおさまるかな……？）"]
+              "parameters": [
+                "Boku: (Maybe if I touch it, it'll settle down...?)"
+              ]
             },
             {
               "code": 231,
@@ -1724,41 +1695,37 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「な、なんか、こすると、ヘンなカンジ……」"]
+              "parameters": ["Boku: \"Wh-When I rub it, it feels strange...\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「はあ、はあっ……！」"]
+              "parameters": ["Boku: \"Haa, haa...!\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（な、なにか出そう……っ！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おしっこかな……！？）"]
+              "parameters": [
+                "Boku: (It feels like something's about to come\nout...! Is it pee...!?)"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（で、でも、止められないっ……！）"]
+              "parameters": ["Boku: (But, I can't stop it...!)"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
-            { "code": 401, "indent": 1, "parameters": ["「あ、ああっ……！」"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Boku: \"Ah, aahh...!\""]
+            },
             {
               "code": 231,
               "indent": 1,
@@ -1775,8 +1742,11 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
-            { "code": 401, "indent": 1, "parameters": ["「ううううっ……！」"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Boku: \"Uuuuuh...!\""]
+            },
             {
               "code": 231,
               "indent": 1,
@@ -1788,72 +1758,58 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「な、なにこれ……白くて……。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おしっこ、じゃなさそう……」"]
+              "parameters": [
+                "Boku: \"Wh-What's this... It's white... Doesn't\nseem like pee...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（これってもしかして、動画でみた白い液体……？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　なのかな……わからないけど……）"]
+              "parameters": [
+                "Boku: (Could this be the white liquid I saw in\nvideos...? I'm not sure but...)"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「本におもいっきりかけちゃったし……」"]
+              "parameters": [
+                "Boku: \"I ended up splashing it all over the\nbook...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「と、とりあえずこの本は汚しちゃったし、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　こっそり捨てておこう……」"]
+              "parameters": [
+                "Boku: \"A-Anyway, since I've dirtied this book, I\nshould discreetly throw it away...\""
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 235, "indent": 1, "parameters": [1] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　ボクは町の隅にある人気のない場所の"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　　ゴミ箱にエロ本を捨てた。"]
+              "parameters": [
+                "Boku throws away the erotic book in a trash can\nlocated in a deserted corner of town."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [2, 2, 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "見ない"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「先生も言ってたし、こんなの見ちゃだめだよね……」"]
+              "parameters": [
+                "Boku: \"The teacher said so too, it's bad to look\nat stuff like this...\""
+              ]
             },
             {
               "code": 205,
@@ -1895,11 +1851,10 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「ここに隠しておこう」"]
+              "parameters": ["Boku: \"I'll hide it here\""]
             },
             { "code": 121, "indent": 1, "parameters": [22, 22, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2085,24 +2040,24 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["えっちな本がある"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There's an erotic book here."]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["見る", "見ない"], 1, 0, 2, 0]
+              "parameters": [["Look at it", "Don't look"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "見る"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「……なんだか、これを見てると、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おちんちんがムズムズする……」"]
+              "parameters": [
+                "Boku: \"...Somehow, looking at this makes my dick\ntingle...\""
+              ]
             },
             {
               "code": 250,
@@ -2123,23 +2078,20 @@
               "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「お、おちんちんが固くなってる……！？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　どういうことなんだろう……」"]
+              "parameters": [
+                "Boku: \"My, my dick is getting hard...!? What's\nhappening...?\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（触ったらおさまるかな……？）"]
+              "parameters": [
+                "Boku: (Maybe it'll settle down if I touch it...?)"
+              ]
             },
             {
               "code": 231,
@@ -2152,41 +2104,39 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「な、なんか、こすると、ヘンなカンジ……」"]
+              "parameters": [
+                "Boku: \"When I, when I rub it, it feels strange...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「はあ、はあっ……！」"]
+              "parameters": ["Boku: \"Haa, haa...!\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（な、なにか出そう……っ！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おしっこかな……！？）"]
+              "parameters": [
+                "Boku: (It feels like something's going to come\nout...! Is it pee...!?)"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["（で、でも、止められないっ……！）"]
+              "parameters": ["Boku: (But, but I can't stop it...!)"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
-            { "code": 401, "indent": 1, "parameters": ["「あ、ああっ……！」"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Boku: \"Ah, aahh...!\""]
+            },
             {
               "code": 231,
               "indent": 1,
@@ -2203,8 +2153,11 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
-            { "code": 401, "indent": 1, "parameters": ["「ううううっ……！」"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Boku: \"Uuuuuh...!\""]
+            },
             {
               "code": 231,
               "indent": 1,
@@ -2216,35 +2169,28 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「な、なにこれ……白くて……。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　おしっこ、じゃなさそう……」"]
+              "parameters": [
+                "Boku: \"What is this... It's white... Doesn't seem\nlike pee...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「本におもいっきりかけちゃったし……」"]
+              "parameters": [
+                "Boku: \"I ended up splashing it all over the\nbook...\""
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「と、とりあえずこの本は汚しちゃったし、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　こっそり捨てておこう……」"]
+              "parameters": [
+                "Boku: \"Anyway, since I've dirtied this book, I\nshould secretly throw it away...\""
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 235, "indent": 1, "parameters": [1] },
@@ -2252,23 +2198,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ボクは町の隅にある人気のない場所の"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ゴミ箱にエロ本を捨てた。"]
+              "parameters": [
+                "Boku threw the erotic book into a trash can in a\ndeserted corner of town."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [2, 2, 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "見ない"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["「やっぱり、やめておこうかな……」"]
+              "parameters": ["Boku: \"Maybe I should just stop this...\""]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -2375,35 +2317,43 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["連れ歩いているキャラと野球拳ができます。"]
+              "parameters": [
+                "You can play Strip Rock-Paper-Scissors with the\ncharacter you're walking with."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["野球拳をしますか？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（行動を１消費します）"]
+              "parameters": [
+                "Will you play Strip Rock-Paper-Scissors? (It will\nconsume one action)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [
+                [
+                  "Yes, let's play Rock-Paper-Scissors (This will use up one action point)",
+                  "No"
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 111, "indent": 1, "parameters": [1, 75, 0, 1, 0] },
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 21] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ユイ\\se[8]"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「えぇ！やきゅうけんって……"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　じゃんけんで負けたら脱ぐやつだよね！？」"]
+              "parameters": [
+                "Yui\\se[8]: \"Eh?! Strip Rock-Paper-Scissors...\nthat's the game where you strip if you lose at\nrock-paper-scissors, right?!\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2411,16 +2361,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 31] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ヒロミ"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「あら、ボクくん……そんなえっちな遊び"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　覚えちゃって♡いいわよ、相手してあげる♡」"]
+              "parameters": [
+                "Hiromi: \"Oh my, Boku-kun... you've learned such a\nnaughty game♡ Sure, I'll play with you♡\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2428,16 +2374,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 41] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ミヤビ"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「なにそれ〜♪　おもしろそーじゃん？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　いいよ、やろっか♪」"]
+              "parameters": [
+                "Miyabi: \"What's that〜♪ Sounds fun- right? Sure,\nlet's do it♪\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2445,16 +2387,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「ぬ、じゃんけんなら負けんぞ！"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　正々堂々戦ってやろう♪」"]
+              "parameters": [
+                "Shoko: \"Nu, if it's rock-paper-scissors, I won't\nlose! Let's fight fair and square♪\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2462,16 +2400,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 61] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["リリ"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「ヤキューケンってなに？ま、何にせよ"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　ゲボクにリリが負けるワケないじゃーん？」"]
+              "parameters": [
+                "Riri: \"What's Strip Rock-Paper-Scissors? Well,\nwhatever it is, there's no way Riri could lose to\nGeboku, right?\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2479,16 +2413,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 71] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ララ\\se[3]"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「遊んでくれるのぉ……？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　くすくす、じゃんけんはトクイだよぉ♪」"]
+              "parameters": [
+                "Rara\\se[3]: \"You want to play with me...? Teehee,\nI'm good at rock-paper-scissors♪\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2496,16 +2426,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 81] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ミユキ\\se[3]"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「野球拳って、も、もうっ！オトナを"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　からかっちゃいけないのよっ……本気？」"]
+              "parameters": [
+                "Miyuki\\se[3]: \"Strip Rock-Paper-Scissors, oh come\non! You shouldn't tease adults like that... are\nyou serious?\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2513,16 +2439,12 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 91] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ナギサ"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「脱がし甲斐ないかもしれないケド……"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　勝負事なら受けて立つよっ♪」"]
+              "parameters": [
+                "Nagisa: \"I might not be much to look at when\nundressed... but if it's a challenge, I accept♪\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -2539,11 +2461,10 @@
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 2, "parameters": [2] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home already...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -2725,16 +2646,12 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　　　　　どこかで「精通」をすると、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　エッチなイベントが起こるかも……？"]
+              "parameters": [
+                "Maybe if you experience your \"first time\"\nsomewhere, an erotic event might happen...?"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -2983,18 +2900,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["持っているパンツを見ることができます。"]
+              "parameters": ["You can see the panties I'm wearing."]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "ユイのパンツif(s[261])",
-                  "ヒロミのパンツif(s[262])",
-                  "ミヤビのパンツif(s[263])",
-                  "ミユキのパンツif(s[264])",
-                  "やめる"
+                  "Look at Yui's pantiesif(s[261])",
+                  "Look at Hiromi's pantiesif(s[262])",
+                  "Look at Miyabi's pantiesif(s[263])",
+                  "Look at Miyuki's pantiesif(s[264])",
+                  "Stop looking"
                 ],
                 4,
                 0,
@@ -3132,7 +3049,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ボロボロになったぬいぐるみが横たわっている。"]
+              "parameters": ["A tattered stuffed animal lies on its side."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3189,7 +3106,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["タケルがどこからか拾ってきたタイヤだ。"]
+              "parameters": [
+                "It's a tire that Takeru picked up from somewhere."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-109", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ユイの家２F",
+  "displayName": "Yui's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 24,
@@ -848,11 +848,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 21] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ユイ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ボクくん、誰かと一緒にいるんだね」"]
+              "parameters": [
+                "Yui: \"Ah, Boku-kun, you're with someone else,\naren't you?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1138,11 +1139,12 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　調べるには「ゆうき」が10以上必要です。"]
+              "parameters": [
+                "You need more than 10 \"Courage\" to investigate."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1150,17 +1152,23 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["クローゼットを調べてみますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["（行動回数を１消費します）"]
+              "parameters": [
+                "Would you like to check the closet? (This will use\nup 1 action point.)"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [
+                [
+                  "Yes, let's check the closet (This will use up 1 action point)",
+                  "No"
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "はい"] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
@@ -1179,11 +1187,10 @@
             { "code": 122, "indent": 3, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 3, "parameters": [2] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },
@@ -1330,12 +1337,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんが使っているベッドだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["微かに良い匂いがする。"]
+              "parameters": [
+                "It's the bed Yui-chan uses. There's a faint, nice\nsmell."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1392,12 +1396,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんが使っているベッドだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["微かに良い匂いがする。"]
+              "parameters": [
+                "It's the bed Yui-chan uses. There's a faint, nice\nsmell."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1454,7 +1455,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しい本が並んでいる。"]
+              "parameters": ["Difficult books are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1511,7 +1512,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しい本が並んでいる。"]
+              "parameters": ["Difficult books are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1568,7 +1569,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑誌が並んでいる。"]
+              "parameters": ["All sorts of magazines are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1625,7 +1626,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["様々な小物がきちんと整頓されて置かれている。"]
+              "parameters": [
+                "Various knick-knacks are neatly arranged and\nplaced."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1682,7 +1685,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんのぬいぐるみだろうか。"]
+              "parameters": ["Could this be Yui-chan's stuffed animal?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1739,7 +1742,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんの両親が使っているタンスだ。"]
+              "parameters": ["It's the dresser that Yui-chan's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1796,7 +1799,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんの両親が使っているタンスだ。"]
+              "parameters": ["It's the dresser that Yui-chan's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1853,7 +1856,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんの両親が使っているベッドだ。"]
+              "parameters": ["It's the bed that Yui-chan's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1910,7 +1913,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ユイちゃんの両親が使っているベッドだ。"]
+              "parameters": ["It's the bed Yui-chan's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1967,7 +1970,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["机に行儀良く人形が座らされている。"]
+              "parameters": ["A doll is seated neatly at the desk."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

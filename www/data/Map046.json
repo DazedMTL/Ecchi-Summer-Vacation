@@ -124,18 +124,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまでプレイしていただきありがとうございます。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ゲームクリアとなります。"]
+              "parameters": [
+                "Thank you for playing up to this point. You have\ncleared the game."
+              ]
             },
             { "code": 112, "indent": 0, "parameters": [] },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["セーブする", "次の週へ"], 1, 0, 1, 0]
+              "parameters": [
+                ["Save your game?", "Move on to the next week"],
+                1,
+                0,
+                1,
+                0
+              ]
             },
             { "code": 402, "indent": 1, "parameters": [0, "セーブする"] },
             { "code": 352, "indent": 2, "parameters": [] },
@@ -145,23 +148,19 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["好感度や所持金、ゆうきポイント、"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["一部のアイテムを引き継いで"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["次の週をプレイすることができます。"]
+              "parameters": [
+                "You can play the next week carrying over affection\npoints, money, courage points, and some items."
+              ]
             },
             {
               "code": 102,
               "indent": 2,
               "parameters": [
-                ["引き継いで次の週へ", "引き継がずに次の週へ", "やめる"],
+                [
+                  "Carry over to the next week",
+                  "Proceed to the next week without carrying over",
+                  "Quit"
+                ],
                 2,
                 0,
                 2,

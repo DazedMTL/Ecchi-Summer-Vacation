@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-138", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "雑居ビル2F",
+  "displayName": "Mixed-Tenancy Building 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -154,74 +154,58 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["オタク男"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うぐ、ぐぅっ…ボキの狙ってた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　魔法少女マジカルルーナの限定フィギュアァ…」"]
+              "parameters": [
+                "Otaku Guy: \"Ugh, guhh... The limited edition\nMagical Luna figure I was aiming for...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["オタク男"] },
-            { "code": 401, "indent": 0, "parameters": ["「抽選落ちちゃった…"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　欲しかったのにぃ…グスッ」"]
+              "parameters": [
+                "Otaku Guy: \"I didn't win the lottery... I wanted\nit so badly... *sniffle*\""
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 51] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["美少女フィギュアを渡しますか？"]
+              "parameters": ["Will you hand over the beautiful girl figure?"]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "はい"] },
             { "code": 126, "indent": 2, "parameters": [51, 1, 0, 1] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["オタク男"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「ブフォォオオオオオオオ！！！！"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　マ！？コレ本物！？本物じゃん！！」"]
+              "parameters": [
+                "Otaku Guy: \"Bwahahahahaha!! Wha!? Is this the real\ndeal!? It's authentic!!\""
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["オタク男"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「神か？wwwwルーナたんとボキをつなぐ"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　恋のキューピッドかお主は？wwww」"]
+              "parameters": [
+                "Otaku Guy: \"Are you a god? wwww Is it you who's\nthe cupid connecting me and Luna-tan? wwww\""
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["オタク男"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「んじゃコレお返しですwwwルーナたんのライバル"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["　マーメイディなりきりセットwwwレアですぞwww」"]
+              "parameters": [
+                "Otaku Guy: \"Then, here's something in return wwww\nA rival Mar-Maidy cosplay set wwww It's rare wwww\""
+              ]
             },
             { "code": 126, "indent": 2, "parameters": [52, 0, 0, 1] },
             {
@@ -281,11 +265,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["オタク男"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「大事にしますぞwww」"]
+              "parameters": ["Otaku Man: \"I'll take good care of it www\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -438,35 +421,28 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ここはいろんな商品があって面白いわね」"]
+              "parameters": [
+                "Woman: \"There are so many interesting products\nhere.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「とくにこの”イカサマトランプ”なんかは、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　この辺じゃここしか扱ってないのよねぇ」"]
+              "parameters": [
+                "Woman: \"Especially these trick playing cards,\nthey're only available around here in this shop.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「え、イカサマをしてどうするのかって？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　それは知らないほうが身のためよ、ボウヤ……♪」"]
+              "parameters": [
+                "Woman: \"Eh, what would one do with trick cards?\nIt's better for your own good not to know,\nboy...♪\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -579,16 +555,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["雑貨屋の店主"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いらっしゃい、何か見ていくかい？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　うちでは買取もやってるよ」"]
+              "parameters": [
+                "General Store Owner: \"Welcome, are you looking for\nsomething? We also buy items here.\""
+              ]
             },
             { "code": 302, "indent": 0, "parameters": [0, 10, 0, 0, false] },
             { "code": 605, "indent": 0, "parameters": [0, 12, 0, 0] },
@@ -701,11 +673,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いろんなドリンクが並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There's a variety of\ndrinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -762,7 +735,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んなお菓子が並んでいる。"]
+              "parameters": ["All sorts of sweets are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -819,7 +792,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んなお菓子が並んでいる。"]
+              "parameters": ["All sorts of sweets are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -876,7 +849,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑貨が並んでいる。"]
+              "parameters": ["All sorts of sundries are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -933,7 +906,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑貨が並んでいる。"]
+              "parameters": ["All sorts of sundries are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -990,7 +963,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑貨が並んでいる。"]
+              "parameters": ["All sorts of knick-knacks are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1047,7 +1020,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑貨が並んでいる。"]
+              "parameters": ["All sorts of sundries are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1104,7 +1077,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな電化製品が並んでいる。"]
+              "parameters": ["All sorts of electrical appliances are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1161,7 +1134,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな電化製品が並んでいる。"]
+              "parameters": ["All sorts of electrical appliances are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1218,7 +1191,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな電化製品が並んでいる。"]
+              "parameters": ["All sorts of electronic appliances are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1275,7 +1248,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな電化製品が並んでいる。"]
+              "parameters": ["All sorts of electronic appliances are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-138", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "雑居ビル1F",
+  "displayName": "Mixed-Tenancy Building 1F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 17,
@@ -352,11 +352,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「カードショップはそっちじゃないぜ？」"]
+              "parameters": [
+                "Takeru: \"The card shop isn't that way, you know?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -533,97 +534,75 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「やあ、いらっしゃい。タケル君、ボク君」"]
+              "parameters": [
+                "Card Shop Owner: \"Hey, welcome. Takeru-kun, Boku-\nkun.\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「おっす！　新作のカードが出たって聞いたからきたぜ！」"
+                "Takeru\\se[1]: \"Yo! I heard there's a new card set\nout, so I came to check it out!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「お、『コレマ』のことだね」"]
+              "parameters": [
+                "Card Shop Owner: \"Oh, you mean 'Korema,' right?\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[1]"] },
-            { "code": 401, "indent": 0, "parameters": ["「これま……？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「『コレクションマスターズ』といってね、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　今日から発売のコレクションカードだよ」"]
+              "parameters": ["Boku\\se[1]: \"Korema...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「主にカードを集めるのを楽しむものだね」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[4]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「なんだ、バトルできるわけじゃないのか。"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["　つまんねーの」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[0]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ちょっと面白そうかも……？」"]
+              "parameters": [
+                "Card Shop Owner: \"'Collection Masters' is what\nit's called. It's a collection card set that goes\non sale today.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
+              "parameters": [
+                "Card Shop Owner: \"It's mainly for those who enjoy\ncollecting cards.\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボク君は興味を持ってくれたのかな？"]
+              "parameters": [
+                "Takeru\\se[4]: \"What, you can't battle with them?\nThat's boring.\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　それじゃあこれをあげよう」"]
+              "parameters": [
+                "Boku\\se[0]: \"It might be kind of interesting...?\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Card Shop Owner: \"Boku-kun seems interested, huh?\nThen I'll give you this.\""
+              ]
             },
             {
               "code": 250,
@@ -639,72 +618,46 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「これがあれば集めた『コレマ』カードを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　確認するのに便利だと思うよ」"]
+              "parameters": [
+                "Card Shop Owner: \"With this, it'll be convenient\nto check the 'Korema' cards you've collected.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わっ、ありがとうございます！」"]
+              "parameters": ["Boku\\se[4]: \"Wow, thank you so much!\""]
             },
             { "code": 213, "indent": 0, "parameters": [0, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「販促品でうちに来たんだけど、数が多すぎて。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　こんな小さい店なんだから数を考えてほしいよ……」"]
+              "parameters": [
+                "Card Shop Owner: \"They were promotional items that\ncame to the shop, but there were too many. I wish\nthey'd consider the size of small shops like\nthis...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんかよくわかんねーけど、"]
+              "parameters": [
+                "Takeru\\se[1]: \"I don't really get it, but hey,\nfree stuff is good stuff!\""
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　タダでもらえてよかったな！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[6]"] },
-            { "code": 401, "indent": 0, "parameters": ["「そ、そうだね……」"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カードショップの店長"]
+              "parameters": ["Boku\\se[6]: \"Yeah, that's true...\""]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「カードパックはうちで買えるから、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ぜひ見ていってね」"]
+              "parameters": [
+                "Card Shop Owner: \"You can buy card packs here too,\nso make sure to take a look.\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -714,28 +667,28 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おっと！　俺はそろそろサッカークラブの時間だ。"]
+              "parameters": [
+                "Takeru: \"Oops! It's almost time for soccer club.\nI'm off!\""
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["　いってくるぜ！」"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうなんだ、がんばってね！」"]
+              "parameters": ["Boku\\se[4]: \"Really? Good luck!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ああ、たくさんシュート決めてくるぜ！」"]
+              "parameters": [
+                "Takeru\\se[1]: \"Yeah, I'm gonna score a ton of\ngoals!\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -788,17 +741,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\$カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「カードパック引いてくかい？」"]
+              "parameters": ["Card Shop Manager: \"Wanna pull a card pack?\""]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["カードを引く（300円）", "やめる"], 1, 0, 2, 0]
+              "parameters": [["Draw a card (300 yen)", "Decline"], 1, 0, 2, 0]
             },
             {
               "code": 402,
@@ -813,17 +761,12 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["\\$カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["「もう１回引くかい？」"]
+              "parameters": ["Card Shop Manager: \"Gonna pull one more time?\""]
             },
             {
               "code": 102,
               "indent": 3,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No, thanks"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 3, "parameters": [0, "はい"] },
             { "code": 111, "indent": 4, "parameters": [7, 300, 0] },
@@ -847,12 +790,9 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["「お金を貯めてからまたおいで」"]
+              "parameters": [
+                "Card Shop Manager: \"Save up some money and come\nback again.\""
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -863,18 +803,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["カードショップの店長"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「カードを売りたかったら２階の雑貨屋に行ってね。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "　親戚が経営していて、そっちで買取もやってるんだ」"
+                "Card Shop Manager: \"If you want to sell cards, go\nto the general store on the second floor. It's run\nby a relative of mine, and they also buy cards\nthere.\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -936,11 +866,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「僕のターン！　ドロー！！」"]
+              "parameters": ["Boy: \"My turn! Draw!!\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -994,11 +923,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「僕はこのカードを発動！！」"]
+              "parameters": ["Boy: \"I activate this card!!\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1052,11 +980,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「よーし！　レアカード当てるぞ～！！」"]
+              "parameters": ["Boy: \"Alright! I'm gonna win that rare card!!\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1110,11 +1037,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の人"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いっぱい買ったのにレアカードが出ないなんて……」"]
+              "parameters": [
+                "Man: \"I bought so many, but still no rare\ncards...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1224,11 +1152,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["サングラスの男"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「このターン、俺のすべてを賭ける！」"]
+              "parameters": [
+                "Sunglasses Man: \"This turn, I'm betting everything\nI've got!\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1282,11 +1211,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["自動販売機だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いろんなドリンクが並んでいる。"]
+              "parameters": [
+                "It's a vending machine. There's a variety of\ndrinks lined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "MusMus-BGM-109", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ユイの家",
+  "displayName": "Yui's House",
   "encounterList": [],
   "encounterStep": 30,
   "height": 24,
@@ -1039,7 +1039,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["冷蔵庫を勝手に開けたらユイちゃんに怒られちゃう。"]
+              "parameters": [
+                "If I open the fridge without asking, Yui-chan will\nget mad at me."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1096,7 +1098,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな雑誌が並んでいる。"]
+              "parameters": ["All sorts of magazines are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1153,7 +1155,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しい本が並んでいる。"]
+              "parameters": ["Difficult books are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1207,11 +1209,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["室内パネルだ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで来訪者の顔を見ることが出来る。"]
+              "parameters": [
+                "It's an indoor panel. With this, I can see the\nfaces of visitors."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

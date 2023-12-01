@@ -412,13 +412,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏休みには神社で夏祭りがあるんだよ！"]
+              "parameters": [
+                "Girl: \"There's a summer festival at the shrine\nduring summer vacation! Are you going too?\""
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["　キミもいくの？」"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -471,11 +471,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏休みでも学校はあいてるから遊びにきたんだ」"]
+              "parameters": [
+                "Boy: \"I came to play because the school is open\neven during summer vacation.\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -569,11 +570,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくんも遊びにきたの？」"]
+              "parameters": [
+                "Girl: \"Oh, did you come to play too, Boku-kun?\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -667,16 +669,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「遊びに来たけど、夏休みの宿題も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　やらないといけないんだよね……」"]
+              "parameters": [
+                "Girl: \"I came over to play, but I still have to do\nmy summer vacation homework...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -871,11 +869,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんだボク、いっちょまえに逢引か？」"]
+              "parameters": [
+                "Shoko: \"What's this, Boku? Are you trying to\narrange a secret rendezvous?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -964,11 +963,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「なんだボク、いっちょまえに逢引か？」"]
+              "parameters": [
+                "Shoko: \"What's this, Boku? Trying to arrange a\nsecret rendezvous?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1031,81 +1031,68 @@
             },
             { "code": 213, "indent": 0, "parameters": [0, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おいボク、知ってるか？」"]
+              "parameters": ["Boy: \"Hey Boku, do you know?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 13] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「な、なにを？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ビーチにある海の家なんだけどな、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　女の着替えをのぞける場所があるらしいぜ！」"]
+              "parameters": ["Boku: \"What are you talking about?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[3]"] },
-            { "code": 401, "indent": 0, "parameters": ["「の、のぞき……！？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　そんなことしたら大人に怒られるよ……」"]
+              "parameters": [
+                "Boy: \"It's about the beach house at the beach, I\nheard there's a spot where you can peek at girls\nchanging!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「でも、ボクは興味ないのか？」"]
+              "parameters": [
+                "Boku\\se[3]: \"Peeking...!? If we do that, we'll get\nin trouble with the adults...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「べ、別にそんなに……っ」"]
+              "parameters": ["Boy: \"But aren't you curious, Boku?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ふーん、そうなのか……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　オレは今度ビーチに行ったときに探してみるぜ」"]
+              "parameters": ["Boku: \"I'm not really that interested...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「が、がんばってね……」"]
+              "parameters": [
+                "Boy: \"Huh, is that so... Well, I'm going to look\nfor it next time I go to the beach.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（海の家で着替えをのぞける場所……。"]
+              "parameters": ["Boku: \"Good luck with that...\""]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　本当にあるのかなぁ……？）"]
+              "parameters": [
+                "Boku\\se[2]: (A place in the beach house where you\ncan peek at changing... Does such a place really\nexist...?)"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 121, "indent": 0, "parameters": [127, 127, 0] },
@@ -1152,16 +1139,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男の子"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ビーチにある海の家なんだけどな、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　女の着替えをのぞける場所があるらしいぜ！」"]
+              "parameters": [
+                "Boy: \"I heard there's a spot at the beach house\nwhere you can peek at girls changing!\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

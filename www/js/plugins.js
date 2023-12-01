@@ -340,7 +340,7 @@ var $plugins = [
       "Font Name": "GameFont",
       "Font Name CH": "SimHei, Heiti TC, sans-serif",
       "Font Name KR": "Dotum, AppleGothic, sans-serif",
-      "Font Size": "28",
+      "Font Size": "24",
       "Font Size Change": "12",
       "Font Changed Max": "96",
       "Font Changed Min": "12",

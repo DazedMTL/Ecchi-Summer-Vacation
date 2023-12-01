@@ -668,11 +668,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　入るには「ゆうき」が30以上必要です"]
+              "parameters": ["You need more than 30 \"courage\" to enter."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -914,11 +913,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　入るには「ゆうき」が30以上必要です"]
+              "parameters": ["You need more than 30 \"Courage\" to enter."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

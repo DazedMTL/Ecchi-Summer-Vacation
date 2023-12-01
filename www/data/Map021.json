@@ -252,11 +252,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 101] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ようボク！　夏休み楽しんでるか！」"]
+              "parameters": [
+                "Takeru: \"Yo Boku! Are you enjoying the summer\nbreak?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -378,11 +379,12 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　調べるには「ゆうき」が10以上必要です。"]
+              "parameters": [
+                "You need more than 10 \"Courage\" to investigate."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -390,17 +392,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["クローゼットを調べてみますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["（行動回数を１消費します）"]
+              "parameters": [
+                "Would you like to check the closet? (This will use\nup 1 action point)"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "はい"] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
@@ -419,11 +418,10 @@
             { "code": 122, "indent": 3, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 3, "parameters": [2] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },
@@ -753,7 +751,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな漫画が並んでいる。"]
+              "parameters": ["All sorts of manga are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -810,7 +808,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["タケルの服が並んでいる。"]
+              "parameters": ["Takeru's clothes are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -864,7 +862,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケルのベッドだ。"] },
+            { "code": 401, "indent": 0, "parameters": ["It's Takeru's bed."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -920,7 +918,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["タケルの両親が使っているタンスだ。"]
+              "parameters": ["It's the dresser that Takeru's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -977,7 +975,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな本が並んでいる。"]
+              "parameters": ["All sorts of books are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1034,7 +1032,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んな小物が並んでいる。"]
+              "parameters": ["Various knick-knacks are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1091,12 +1089,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["様々な化粧品が並んでいる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["タケルママの物だろうか。"]
+              "parameters": [
+                "Various cosmetics are lined up. Could they belong\nto Takeru's mom?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1153,7 +1148,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["タケルの両親が使っているベッドだ。"]
+              "parameters": ["It's the bed that Takeru's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1210,7 +1205,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["タケルの両親が使っているベッドだ。"]
+              "parameters": ["It's the bed that Takeru's parents use."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

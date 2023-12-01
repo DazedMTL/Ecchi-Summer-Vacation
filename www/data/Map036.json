@@ -242,12 +242,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アダルトショップの店員"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あら、かわいいお客さんね」"]
+              "parameters": ["Adult Shop Clerk: \"Oh, what a cute customer.\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -352,37 +347,34 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 111] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ぼ、ボボボ、ボクっ！？　どうしてここに！？」"]
+              "parameters": [
+                "Akane\\se[1]: \"Bo-Bo-Bo, Boku!? Why are you here!?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「わ、私は決してやましいものを買いに来たとか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　そういうわけではなくて、ただ資料として……！」"]
+              "parameters": [
+                "Akane: \"I-I wasn't here to buy anything\nsuspicious, I was just... for research\npurposes...!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「し、しりょう……？」"]
+              "parameters": ["Boku: \"Re-research...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そ、そそ、そうだ！　ではさらば！」"]
+              "parameters": [
+                "Akane: \"Ye-ye-yes, that's right! Farewell then!\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -397,11 +389,12 @@
             { "code": 122, "indent": 0, "parameters": [57, 57, 0, 0, 300] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（あわてていたけどなんだったんだろう……？）"]
+              "parameters": [
+                "Boku: (She was in such a hurry, but what was that\nall about...?)"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -503,11 +496,10 @@
             },
             { "code": 213, "indent": 0, "parameters": [3, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["アカネ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁ……まさか壊してしまうとは……」"]
+              "parameters": ["Akane: \"Haa... I can't believe I broke it...\""]
             },
             {
               "code": 205,
@@ -776,7 +768,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["裸の女性が写った雑誌がたくさん並んでいる。"]
+              "parameters": [
+                "There are many magazines lined up with naked women\npictured in them."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -834,7 +828,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "裸の女性がパッケージに写ったDVDがたくさん並んでいる。"
+                "There are many DVDs lined up with naked women\npictured on the packaging."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -892,7 +886,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["男性器のような形をした玩具が並んでいる。"]
+              "parameters": ["Toys shaped like male genitalia are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -949,12 +943,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「オナホ用ローション」と書かれた液体の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ボトルが並んでいる。"]
+              "parameters": [
+                "Bottles of liquid labeled \"Onahole Lotion\" are\nlined up."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1011,7 +1002,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["男性器のような形をした玩具が並んでいる。"]
+              "parameters": ["Toys shaped like male genitals are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1068,7 +1059,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["男性器のような形をした玩具が並んでいる。"]
+              "parameters": ["Toys shaped like male genitals are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1126,7 +1117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "女性の股間や胸を模したシリコンの玩具が並んでいる。"
+                "Silicone toys modeled after women's crotches and\nbreasts are lined up."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1185,7 +1176,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "女性の股間や胸を模したシリコンの玩具が並んでいる。"
+                "Silicone toys modeled after women's crotches and\nbreasts are lined up."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1243,9 +1234,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["注射器のようなものやその他よくわからない"]
+              "parameters": [
+                "There are things like syringes and other\nunidentifiable objects lined up."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ものが並んでいる。"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1301,9 +1293,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["注射器のようなものやその他よくわからない"]
+              "parameters": [
+                "There are things like syringes and other stuff I\ndon't really understand lined up."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ものが並んでいる。"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1359,7 +1352,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きわどいデザインの水着が展示してある。"]
+              "parameters": ["Risqué swimsuits are on display."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1416,7 +1409,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きわどいデザインの水着が展示してある。"]
+              "parameters": ["Swimsuits with daring designs are on display."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1473,7 +1466,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きわどいデザインの水着が展示してある。"]
+              "parameters": ["Risqué swimsuits are on display."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1530,7 +1523,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マネキンが麻縄で亀甲縛りにされている。"]
+              "parameters": [
+                "The mannequin is tied up in a tortoise shell\nbondage with hemp rope."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1587,7 +1582,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ボンデージが展示されている。"]
+              "parameters": ["Bondage is on display."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1644,7 +1639,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["スケスケのベビードールが展示されている。"]
+              "parameters": ["Sheer babydolls are on display."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1698,16 +1693,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["男性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「な、なんだキミはっ！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　話しかけないでくれ、恥ずかしいだろ」"]
+              "parameters": [
+                "Man: \"Wh-what do you want!? Don't talk to me, it's\nembarrassing.\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1761,16 +1752,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女性"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ハア、ハアッ……とにかく太くて大きい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　バイブが欲しいわ……♪」"]
+              "parameters": [
+                "Woman: \"Haa, haa... Anyway, I want a thick and big\nvibrator...♪\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

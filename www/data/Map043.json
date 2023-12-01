@@ -575,28 +575,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女学生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ここのマンションに『小天使Morpho』の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ミヤビちゃんが住んでるらしいわよ」"]
+              "parameters": [
+                "Female Student: \"I heard that Miyabi-chan from\n'Little Angel Morpho' lives in this apartment\ncomplex.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["女学生"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「学生なのに一人暮らししてるらしいわ……。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ううっ、涙ぐましいわよねぇ……」"]
+              "parameters": [
+                "Female Student: \"Even though she's a student, it\nseems she lives alone... Ahh, it's so touching...\""
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -701,60 +693,56 @@
             { "code": 356, "indent": 0, "parameters": ["skit mob 女学生A"] },
             { "code": 356, "indent": 0, "parameters": ["skit mob 女学生B"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　　　　～マンション前～"]
+              "parameters": ["~In front of the apartment complex~"]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 40] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女学生A"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「きゃーっ！　ミヤビちゃんよ！」"]
+              "parameters": ["Female Student A: \"Kyaa! It's Miyabi-chan!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["女学生B"] },
-            { "code": 401, "indent": 0, "parameters": ["「カワイイーっ！」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「いつもアリガトねーっ♪」"]
+              "parameters": ["Female Student B: \"So cute!\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Miyabi\\se[2]: \"Thank you as always♪\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 11] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ミヤビちゃんだ……女の子に囲まれてる）"]
+              "parameters": ["Boku: (It's Miyabi-chan... surrounded by girls.)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、ボクちんじゃーんっ♪」"]
+              "parameters": ["Miyabi\\se[0]: \"Ah, if it isn't Boku-chan♪\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（こっちに気づいたみたい……！）"]
+              "parameters": ["Boku: (She noticed me...!)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「んじゃ、アタシはこれでーっ♪」"]
+              "parameters": ["Miyabi\\se[1]: \"Well then, I'll be off♪\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -765,107 +753,86 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 41] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「やっほー、ボクちん元気？」"]
+              "parameters": ["Miyabi: \"Hey there, Boku-chan, doing well?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うんっ！　さっきの人たちは？」"]
+              "parameters": ["Boku: \"Yeah! Who were those people just now?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「あー、あれは『小天使Morpho』のファンのコたちだよ♪」"
+                "Miyabi: \"Ah, those were fans of 'Little Angel\nMorpho'♪\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「こてんし……？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うんっ、まあギャルグループみたいな？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　それのリーダーやってるからねぇ♪」"]
+              "parameters": ["Boku: \"Little angel...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「たまにああやってファンのコたちが"]
+              "parameters": [
+                "Miyabi\\se[1]: \"Yep, kind of like a gal group? I'm\nthe leader of it♪\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　声かけてくれるんだ♪」"]
+              "parameters": [
+                "Miyabi\\se[2]: \"Sometimes fans like them come up to\ntalk to me♪\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「そうなんだ……！」"] },
+            { "code": 401, "indent": 0, "parameters": ["Boku: \"I see...!\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そそ、まあリーダーっても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ナリユキみたいなもんだけどね」"]
+              "parameters": [
+                "Miyabi\\se[0]: \"Yep yep, though being a leader is\nmore about going with the flow.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「でもま、アタシのこと好きって言ってくれるなら、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ちゃんと応えてあげないと、ってカンジかな♪」"]
+              "parameters": [
+                "Miyabi\\se[2]: \"But well, if they say they love me,\nI have to respond properly, that's the feeling♪\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[0]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ボクちんも、期待に応えられるような"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　オトコ目指すんだよ♪」"]
+              "parameters": [
+                "Miyabi\\se[0]: \"Boku-chan, you should also aim to\nbe a man who can live up to expectations♪\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「きたいにこたえる……うん、がんばってみる！」"]
+              "parameters": [
+                "Boku: \"Live up to expectations... Yeah, I'll try\nmy best!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミヤビ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「んっふふーっ♪　良いヘンジ！」"]
+              "parameters": ["Miyabi\\se[2]: \"Nfufu♪ Good response!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -901,11 +868,10 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　　ミヤビとの仲が深まった！"]
+              "parameters": ["Your relationship with Miyabi has deepened!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1261,8 +1227,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「わあっ！？」"] },
+            { "code": 401, "indent": 0, "parameters": ["Boku: \"Wah!?\""] },
             {
               "code": 205,
               "indent": 0,
@@ -1606,11 +1571,10 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「び、びっくりしたぁ……」"]
+              "parameters": ["Boku: \"I-I was surprised...\""]
             },
             { "code": 122, "indent": 0, "parameters": [59, 59, 0, 2, 1, 2] },
             { "code": 117, "indent": 0, "parameters": [17] },
@@ -1667,11 +1631,10 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（近づかないでおこう……）"]
+              "parameters": ["Boku: (I should keep my distance...)"]
             },
             {
               "code": 205,
@@ -1744,23 +1707,18 @@
           "list": [
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（ここのおうちのイヌ……いつもボクを追いかけてきて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　怖いんだよなぁ……）"]
+              "parameters": [
+                "Boku: \"The dog from this house... It always chases\nafter me and it's scary...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（近づかないでおこう）"]
+              "parameters": ["Boku: \"I should stay away from it.\""]
             },
             {
               "code": 205,

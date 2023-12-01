@@ -471,7 +471,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["掃除道具が入っているロッカーだ。"]
+              "parameters": ["It's a locker where the cleaning tools are kept."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

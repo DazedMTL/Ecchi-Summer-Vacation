@@ -614,32 +614,32 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「よしっ、神社についたな」"]
+              "parameters": [
+                "Takeru: \"Alright, we've made it to the shrine.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「それじゃ、二手にわかれてエロ本を探すぞ！」"]
+              "parameters": [
+                "Takeru\\se[1]: \"Then, let's split up and search for\nthe erotic books!\""
+              ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[4]"] },
-            { "code": 401, "indent": 0, "parameters": ["「……うん！」"] },
-            { "code": 221, "indent": 0, "parameters": [] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　　　　３０分後……"]
+              "parameters": ["Boku\\se[4]: \"...Yeah!\""]
             },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["30 minutes later..."] },
             { "code": 203, "indent": 0, "parameters": [4, 0, 18, 15, 4] },
             { "code": 201, "indent": 0, "parameters": [0, 32, 16, 15, 6, 0] },
             {
@@ -652,15 +652,19 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[4]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はー、ぜんぜん見つからないな……」"]
+              "parameters": [
+                "Takeru\\se[4]: \"Ha-, can't find anything at all...\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク\\se[2]"] },
-            { "code": 401, "indent": 0, "parameters": ["「そうだね……」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku\\se[2]: \"That's true...\""]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -703,13 +707,13 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タケル\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「お！　こっちも行けそうだぜ！"]
+              "parameters": [
+                "Takeru\\se[1]: \"Oh! This way looks passable too!\nShall we check it out?\""
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["　見てみるか！」"] },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
               "code": 250,
@@ -814,11 +818,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["手水舎だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な水が流れている。"]
+              "parameters": [
+                "It's the water purification pavilion. Clean water\nis flowing."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -893,20 +898,14 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　　　　　　　　　　　～　神社　～"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["~Shrine~"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 50] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「では、失礼しました！」"]
+              "parameters": ["Shoko: \"Then, excuse me!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -915,109 +914,96 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、あれはショウコちゃん？」"]
+              "parameters": ["Boku: \"Ah, is that Shoko-chan?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おお、なんだ、ボクか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　神社まで来てどうしたんだ、信心深いやつめ」"]
+              "parameters": [
+                "Shoko: \"Oh, what's this, Boku? What brings you to\nthe shrine, you pious fellow?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「しんじ……？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　ショウコちゃんはどうしたの？」"]
+              "parameters": [
+                "Boku: \"Pious...? What are you doing here, Shoko-\nchan?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ワタシは夏祭り準備の打ち合わせに来たのだ」"]
+              "parameters": [
+                "Shoko: \"I came for a meeting about the\npreparations for the summer festival.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏祭りの準備……ショウコちゃんが？」"]
+              "parameters": [
+                "Boku: \"Preparations for the summer festival... by\nShoko-chan?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ！　町の皆への奉仕活動も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　生徒会長たる者のツトメだからな！」"]
+              "parameters": [
+                "Shoko\\se[1]: \"Indeed! Serving the townspeople is\nalso a duty of the student council president!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうなんだ……すごいね」"]
+              "parameters": ["Boku: \"I see... that's amazing.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ははは！　そうだろう！　すごいだろう！」"]
+              "parameters": [
+                "Shoko\\se[2]: \"Hahaha! Right? It's impressive,\nisn't it!\""
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ、そうだな……ボク！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ワタシが茶でもおごってやろう！」"]
+              "parameters": [
+                "Shoko: \"Hmm, that's right... Boku! I shall treat\nyou to some tea!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「い、いきなり！？」"]
+              "parameters": ["Boku: \"S-Suddenly!? \""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ、ワタシは今キゲンが良いからな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　よし、町に出るぞ！」"]
+              "parameters": [
+                "Shoko: \"Indeed, I'm in a good mood right now!\nAlright, let's head to town!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「う、うん……！」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Y-Yeah...!\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -1032,148 +1018,125 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「どうだ、ワタシの買ってやったサイダーは"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["　美味いか！？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、おいしいよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ありがとう、ショウコちゃん！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うむうむ！　それはよかった！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……そういえば、ショウコちゃんは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　どうしてそんなにいろんなお手伝いをしてるの？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おこづかいがもらえるから、とか……？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ばっ、お小遣いなどはもらっていないぞ！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　それはワイロというものになってしまう……！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「ワイロって……」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うむ……まあ、そうだな。"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　やはり、皆の笑顔を見ると、嬉しい気持ちになるからな」"
+                "Shoko\\se[1]: \"How is it? Is the cider I bought for\nyou delicious!?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そのためなら、頑張ろうと思えるものなのだ」"]
+              "parameters": [
+                "Boku: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[2]: \"Mmm mmm! I'm glad to hear that!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「嬉しい気持ち……そうなんだ……」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
-            { "code": 401, "indent": 0, "parameters": ["「うむ！　そうだ！"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　だからボクも人には優しくするんだぞ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「そうすれば、自分にも優しさが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　返ってくるものだからな！」"]
+              "parameters": [
+                "Boku: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん！　ボクもショウコちゃんみたいに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ひとに優しくできるようにする……！」"]
+              "parameters": [
+                "Boku: \"Is it because you get an allowance or\nsomething...?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はは！　よい心がけだ！」"]
+              "parameters": [
+                "Shoko\\se[3]: \"Wha-, I don't receive any allowance!\nThat would be considered a bribe...!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"A bribe...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「では、ワタシはそろそろ次の手伝いに"]
+              "parameters": [
+                "Shoko\\se[1]: \"Indeed... well, yes. After all,\nseeing everyone's smiles makes me feel happy.\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　行かないといけないから、行ってくるぞ」"]
+              "parameters": [
+                "Shoko: \"For that reason, I feel motivated to work\nhard.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Feeling happy... I see...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「うん、またね！」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[2]: \"Exactly! That's why you should also\nbe kind to others.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[1]: \"If you do so, kindness will come\nback to you as well!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Boku: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Shoko\\se[2]: \"Ha ha! That's a good attitude!\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[1]: \"Well then, I must be off to my next\ntask soon, so I'll be going now.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Yeah, see you later!\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1197,11 +1160,10 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　ショウコとの仲が深まった！"]
+              "parameters": ["Your bond with Shoko has deepened!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1307,20 +1269,14 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　　　　　　　　　　　　～神社～"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["~Shrine~"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 50] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「では、失礼しました！」"]
+              "parameters": ["Shoko: \"Then, excuse me!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1329,109 +1285,96 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あっ、あれはショウコちゃん？」"]
+              "parameters": ["Boku: \"Ah, is that Shoko-chan?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「おお、なんだ、ボクか。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　神社まで来てどうしたんだ、信心深いやつめ」"]
+              "parameters": [
+                "Shoko: \"Oh, what's this, Boku? What brings you to\nthe shrine, you devout fellow?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「しんじ……？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　ショウコちゃんはどうしたの？」"]
+              "parameters": [
+                "Boku: \"Devout...? What are you doing here, Shoko-\nchan?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ワタシは夏祭り準備の打ち合わせに来たのだ」"]
+              "parameters": [
+                "Shoko: \"I came for a meeting about the\npreparations for the summer festival.\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「夏祭りの準備……ショウコちゃんが？」"]
+              "parameters": [
+                "Boku: \"Preparations for the summer festival... by\nShoko-chan?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ！　町の皆への奉仕活動も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　生徒会長たる者のツトメだからな！」"]
+              "parameters": [
+                "Shoko\\se[1]: \"Indeed! Serving the townspeople is\nalso a duty of the student council president!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そうなんだ……すごいね」"]
+              "parameters": ["Boku: \"I see... that's amazing.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ははは！　そうだろう！　すごいだろう！」"]
+              "parameters": [
+                "Shoko\\se[2]: \"Hahaha! Right? It's impressive,\nisn't it!\""
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ、そうだな……ボク！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ワタシが茶でもおごってやろう！」"]
+              "parameters": [
+                "Shoko: \"Hmm, that's right... Boku! I shall treat\nyou to some tea!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「い、いきなり！？」"]
+              "parameters": ["Boku: \"S-suddenly!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うむ、ワタシは今キゲンが良いからな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　よし、町に出るぞ！」"]
+              "parameters": [
+                "Shoko: \"Indeed, I'm in a good mood right now!\nAlright, let's head to town!\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「う、うん……！」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Y-yeah...!\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -1446,148 +1389,123 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「どうだ、ワタシの買ってやったサイダーは"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["　美味いか！？」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うん、おいしいよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ありがとう、ショウコちゃん！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うむうむ！　それはよかった！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「……そういえば、ショウコちゃんは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　どうしてそんなにいろんなお手伝いをしてるの？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「おこづかいがもらえるから、とか……？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[3]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「ばっ、お小遣いなどはもらっていないぞ！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　それはワイロというものになってしまう……！」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「ワイロって……」"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「うむ……まあ、そうだな。"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　やはり、皆の笑顔を見ると、嬉しい気持ちになるからな」"
+                "Shoko\\se[1]: \"How is it? Is the cider I bought for\nyou delicious!?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「そのためなら、頑張ろうと思えるものなのだ」"]
+              "parameters": [
+                "Boku: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Shoko\\se[2]: \"Mmm mmm! That's good to hear!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「嬉しい気持ち……そうなんだ……」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
-            { "code": 401, "indent": 0, "parameters": ["「うむ！　そうだ！"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　だからボクも人には優しくするんだぞ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「そうすれば、自分にも優しさが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　返ってくるものだからな！」"]
+              "parameters": [
+                "Boku: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「うん！　ボクもショウコちゃんみたいに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　ひとに優しくできるようにする……！」"]
+              "parameters": [
+                "Boku: \"Is it because you get an allowance or\nsomething...?\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[2]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はは！　よい心がけだ！」"]
+              "parameters": [
+                "Shoko\\se[3]: \"Wha-, I don't receive any allowance\nfor it!? That would be considered a bribe...!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"A bribe...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ショウコ\\se[1]"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「では、ワタシはそろそろ次の手伝いに"]
+              "parameters": [
+                "Shoko\\se[1]: \"Hmm... well, yes. After all, seeing\neveryone's smiles makes me feel happy.\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　行かないといけないから、行ってくるぞ」"]
+              "parameters": [
+                "Shoko: \"For that reason, I feel motivated to work\nhard.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Feeling happy... I see...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ボク"] },
-            { "code": 401, "indent": 0, "parameters": ["「うん、またね！」"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[2]: \"Yes! That's right! So Boku should\nalso be kind to others.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[1]: \"If you do so, kindness will come\nback to you as well!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Boku: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Shoko\\se[2]: \"Ha ha! That's a good attitude!\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shoko\\se[1]: \"Well then, I must be off to my next\ntask soon, so I'll be going now.\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Boku: \"Yeah, see you later!\""]
+            },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1611,11 +1529,10 @@
               "parameters": [[255, 255, 255, 170], 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　ショウコとの仲が深まった！"]
+              "parameters": ["Your bond with Shoko has deepened!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1713,7 +1630,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ずっしりと重そうな賽銭箱だ。"]
+              "parameters": ["It's a hefty-looking offering box."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1767,11 +1684,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["狐の守り神だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["参拝者を見守るかのように佇んでいる。"]
+              "parameters": [
+                "It's the guardian fox deity. It stands as if\nwatching over the worshippers."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1825,11 +1743,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["狐の守り神だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["参拝者を見守るかのように佇んでいる。"]
+              "parameters": [
+                "It's the guardian deity of the fox. It stands as\nif watching over the worshippers."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1886,7 +1805,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["扉は固く閉ざされていて開きそうにない。"]
+              "parameters": [
+                "The door is firmly closed and doesn't seem like it\nwill open."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1940,11 +1861,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["鐘楼だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["手入れされているのか錆ひとつ見当たらない。"]
+              "parameters": [
+                "It's the bell tower. There's not a single spot of\nrust; it must be well-maintained."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1998,11 +1920,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["手水舎だ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な水が流れている。"]
+              "parameters": [
+                "It's a water purification pavilion. Clean water is\nflowing."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

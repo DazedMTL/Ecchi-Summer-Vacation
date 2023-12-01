@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ゲーム開始",
+  "displayName": "Game Start",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -133,33 +133,24 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "このたびは「おねショタ町のえっちな夏休み」体験版を"
+                "Thank you for downloading the trial version of\n\"Onee-shota Town's Naughty Summer Vacation.\""
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ダウンロードしていただきありがとうございます。"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "体験版では「８月７日」までの行動を楽しんでいただく"
+                "In the trial version, you can enjoy the activities\nup to \"August 7th.\""
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["ことができます。"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ゲームの雰囲気、作風が少しでもプレイヤーの"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["皆様に伝われば幸いです。"]
+              "parameters": [
+                "We hope that the game's atmosphere and style will\nresonate with all players."
+              ]
             },
             { "code": 230, "indent": 1, "parameters": [60] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -171,16 +162,15 @@
             { "code": 121, "indent": 0, "parameters": [4, 4, 1] },
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　　　　　　　プロローグを飛ばしますか？"]
+              "parameters": ["Would you like to skip the prologue?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 1, 1, 1]
+              "parameters": [["Yes", "No"], 1, 1, 1, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 121, "indent": 1, "parameters": [70, 70, 0] },
@@ -202,62 +192,42 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 204, "indent": 1, "parameters": [6, 31, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　　　　　尾根諸田（おねしょた）町。"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　 　ここは郊外にあるのどかな町。"]
+              "parameters": [
+                "Onee-shota Town. This is a peaceful town located\nin the suburbs."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 29, 25, 8, 0, 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 204, "indent": 1, "parameters": [4, 21, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　田舎すぎずかといって都会すぎない、"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　ほどよい便利さを兼ね備え、ファミリー層に人気がある。"
+                "Not too rural, yet not too urban, it boasts a\nmoderate convenience that makes it popular among\nfamilies."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 201, "indent": 1, "parameters": [0, 17, 42, 9, 0, 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　そして「\\n[1]」はそんな町で暮らす、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　　ちょっとだけ内気な男の子……。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　　　　もうすぐ夏休み、"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　　ボクのちょっとエッチな物語が始まろうとしていた。"
+                "And \"\\n[1]\" is a slightly shy boy who lives in\nsuch a town..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Summer vacation is just around the corner, and my\nslightly naughty story is about to begin."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },

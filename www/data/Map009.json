@@ -284,11 +284,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 31] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ヒロミ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくん……女の人と一緒なのね……？」"]
+              "parameters": [
+                "Hiromi: \"Oh, Boku-kun... you're with a woman...?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -377,11 +378,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 31] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ヒロミ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくん……女の人と一緒なのね……？」"]
+              "parameters": [
+                "Hiromi: \"Oh, Boku-kun... you're with a woman...?\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -444,11 +446,12 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　調べるには「ゆうき」が10以上必要です。"]
+              "parameters": [
+                "You need more than 10 \"Courage\" to investigate."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -456,17 +459,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["棚を調べてみますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["（行動回数を１消費します）"]
+              "parameters": [
+                "Would you like to check the shelf? (This will use\nup 1 action point.)"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "はい"] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
@@ -485,11 +485,10 @@
             { "code": 122, "indent": 3, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 3, "parameters": [2] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },
@@ -633,7 +632,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["骨格標本だ。"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It's a skeletal specimen."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -689,9 +692,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["冷蔵庫にはお菓子が入っている。"]
+              "parameters": [
+                "The fridge is stocked with snacks. Maybe they're\nfor guests?"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["来客用だろうか。"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -744,8 +748,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["食器が並んでいる。"] },
-            { "code": 401, "indent": 0, "parameters": ["来客用だろうか。"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The dishes are lined up. Perhaps they're for\nguests?"
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -801,12 +810,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["様々な書類が並んでいる。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見るのはやめておこう。"]
+              "parameters": [
+                "Various documents are lined up. I should stop\nlooking at them."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -860,8 +866,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["食器が並んでいる。"] },
-            { "code": 401, "indent": 0, "parameters": ["来客用だろうか。"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The dishes are lined up. Perhaps they're for\nguests?"
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

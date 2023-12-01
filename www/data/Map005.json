@@ -389,12 +389,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["jrアイドルの生写真を渡しますか？"]
+              "parameters": [
+                "Would you like to hand over the junior idol's\nphoto?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 117, "indent": 1, "parameters": [95] },
@@ -468,11 +470,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 81] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミユキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくん……女の子と一緒なのね……」"]
+              "parameters": [
+                "Miyuki: \"Oh, Boku-kun... you're with a girl...\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -561,11 +564,12 @@
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 81] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ミユキ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「あら、ボクくん……女の子と一緒なのね……」"]
+              "parameters": [
+                "Miyuki: \"Oh, Boku-kun... you're with a girl...\""
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1231,7 +1235,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しい本が並んでいる。"]
+              "parameters": ["Difficult books are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1288,7 +1292,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色んなアイドル雑誌が並んでいる。"]
+              "parameters": ["Various idol magazines are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1342,11 +1346,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["室内パネルだ。"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで来訪者の顔を見ることが出来る。"]
+              "parameters": [
+                "It's an indoor panel. With this, I can see the\nface of the visitor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

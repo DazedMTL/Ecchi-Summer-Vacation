@@ -139,11 +139,12 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": [""] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　　　　調べるには「ゆうき」が10以上必要です。"]
+              "parameters": [
+                "You need more than 10 \"Courage\" to investigate."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -151,17 +152,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["クローゼットを調べてみますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["（行動回数を１消費します）"]
+              "parameters": [
+                "Would you like to check the closet? (This will use\nup 1 action point.)"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "はい"] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
@@ -180,11 +178,10 @@
             { "code": 122, "indent": 3, "parameters": [6, 6, 0, 0, 10] },
             { "code": 117, "indent": 3, "parameters": [2] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["ボク"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },
@@ -1122,7 +1119,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["勝手に冷蔵庫を見ると怒られそうだ。"]
+              "parameters": [
+                "I'll probably get scolded for looking in the\nfridge without permission."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1179,7 +1178,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["様々な化粧品が並んでいる。"]
+              "parameters": ["Various cosmetics are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1236,12 +1235,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミヤビちゃんのベッドだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["微かに良い匂いがする。"]
+              "parameters": [
+                "It's Miyabi-chan's bed. There's a faint, nice\nsmell."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1298,12 +1294,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミヤビちゃんのベッドだ。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["微かに良い匂いがする。"]
+              "parameters": [
+                "It's Miyabi-chan's bed. There's a faint, nice\nsmell."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
