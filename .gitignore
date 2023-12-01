@@ -1,0 +1,34 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ks
+!.gitignore
+!srp.pac
+!README.md
+
+# Images
+!Menu_Record01\[NonVirgin\].rpgmvp
+!Menu_Record01\[Virgin\].rpgmvp
+!Menu_Record02.rpgmvp
+!MainMenuName.rpgmvp
+!Manual_EnemyType.rpgmvp
+!Manual_Human&TenType.rpgmvp
+!MAPM_ClothInfo_F.rpgmvp
+!MAPM_ClothInfo_FL.rpgmvp
+!MAPM_ClothInfo_L.rpgmvp
+!MAPM_HikariInfo_FL.rpgmvp
+!MAPM_LVUPInfo.rpgmvp
+!MAPM_MemoInfo.rpgmvp
+!MAPM_PantyLinerEndF.rpgmvp
+!MAPM_PantyLinerEndL.rpgmvp
+!MAPM_PantyLinerF.rpgmvp
+!MAPM_PantyLinerL.rpgmvp
+!MAPM_ShinmituiInfo.rpgmvp
+!Menu_MemoBG.rpgmvp
+!Menu_MemoBGEND.rpgmvp

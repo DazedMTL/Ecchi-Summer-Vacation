@@ -1,0 +1,305 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "魔王魂  アコースティック06",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "kuria",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 17,
+  "data": [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Chime1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ここまでプレイしていただきありがとうございます。"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ゲームクリアとなります。"]
+            },
+            { "code": 112, "indent": 0, "parameters": [] },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [["セーブする", "次の週へ"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 1, "parameters": [0, "セーブする"] },
+            { "code": 352, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 402, "indent": 1, "parameters": [1, "次の週へ"] },
+            { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["好感度や所持金、ゆうきポイント、"]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["一部のアイテムを引き継いで"]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["次の週をプレイすることができます。"]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [
+                ["引き継いで次の週へ", "引き継がずに次の週へ", "やめる"],
+                2,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [0, "引き継いで次の週へ"]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": ["//スイッチと変数リセット"]
+            },
+            { "code": 121, "indent": 3, "parameters": [41, 64, 1] },
+            { "code": 121, "indent": 3, "parameters": [2, 3, 1] },
+            { "code": 121, "indent": 3, "parameters": [67, 74, 1] },
+            { "code": 121, "indent": 3, "parameters": [21, 21, 1] },
+            { "code": 121, "indent": 3, "parameters": [127, 127, 1] },
+            { "code": 121, "indent": 3, "parameters": [151, 151, 1] },
+            { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [41, 41, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [44, 44, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [55, 56, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [80, 80, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [57, 57, 0, 0, 0] },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": ["// セルフスイッチリセット"]
+            },
+            {
+              "code": 355,
+              "indent": 3,
+              "parameters": ["$gameSelfSwitches.clear();"]
+            },
+            { "code": 121, "indent": 3, "parameters": [4, 4, 0] },
+            { "code": 126, "indent": 3, "parameters": [6, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [7, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [24, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [41, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [58, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [59, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [60, 1, 0, 99] },
+            { "code": 126, "indent": 3, "parameters": [61, 1, 0, 99] },
+            { "code": 121, "indent": 3, "parameters": [4, 4, 1] },
+            { "code": 221, "indent": 3, "parameters": [] },
+            { "code": 201, "indent": 3, "parameters": [0, 1, 1, 0, 0, 0] },
+            { "code": 222, "indent": 3, "parameters": [] },
+            { "code": 113, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [1, "引き継がずに次の週へ"]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": ["//ゆうきポイントリセット"]
+            },
+            { "code": 122, "indent": 3, "parameters": [58, 58, 0, 0, 0] },
+            { "code": 108, "indent": 3, "parameters": ["//好感度リセット"] },
+            { "code": 122, "indent": 3, "parameters": [11, 18, 0, 0, 0] },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": ["//スイッチと変数リセット"]
+            },
+            { "code": 121, "indent": 3, "parameters": [41, 64, 1] },
+            { "code": 121, "indent": 3, "parameters": [2, 3, 1] },
+            { "code": 121, "indent": 3, "parameters": [67, 74, 1] },
+            { "code": 121, "indent": 3, "parameters": [21, 21, 1] },
+            { "code": 121, "indent": 3, "parameters": [127, 127, 1] },
+            { "code": 121, "indent": 3, "parameters": [151, 151, 1] },
+            { "code": 122, "indent": 3, "parameters": [21, 21, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [41, 41, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [44, 44, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [55, 56, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [80, 80, 0, 0, 0] },
+            { "code": 122, "indent": 3, "parameters": [57, 57, 0, 0, 0] },
+            { "code": 111, "indent": 3, "parameters": [8, 43] },
+            { "code": 121, "indent": 4, "parameters": [259, 259, 0] },
+            { "code": 0, "indent": 4, "parameters": [] },
+            { "code": 411, "indent": 3, "parameters": [] },
+            { "code": 121, "indent": 4, "parameters": [259, 259, 1] },
+            { "code": 0, "indent": 4, "parameters": [] },
+            { "code": 412, "indent": 3, "parameters": [] },
+            {
+              "code": 355,
+              "indent": 3,
+              "parameters": ["$gameSelfSwitches.clear();"]
+            },
+            {
+              "code": 655,
+              "indent": 3,
+              "parameters": ["$gameParty.initAllItems();"]
+            },
+            { "code": 121, "indent": 3, "parameters": [4, 4, 0] },
+            { "code": 111, "indent": 3, "parameters": [0, 259, 0] },
+            { "code": 126, "indent": 4, "parameters": [43, 0, 0, 1] },
+            { "code": 0, "indent": 4, "parameters": [] },
+            { "code": 412, "indent": 3, "parameters": [] },
+            { "code": 121, "indent": 3, "parameters": [4, 4, 1] },
+            { "code": 221, "indent": 3, "parameters": [] },
+            { "code": 201, "indent": 3, "parameters": [0, 1, 1, 0, 0, 0] },
+            { "code": 222, "indent": 3, "parameters": [] },
+            { "code": 113, "indent": 3, "parameters": [] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 402, "indent": 2, "parameters": [2, "やめる"] },
+            { "code": 0, "indent": 3, "parameters": [] },
+            { "code": 404, "indent": 2, "parameters": [] },
+            { "code": 0, "indent": 2, "parameters": [] },
+            { "code": 404, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
