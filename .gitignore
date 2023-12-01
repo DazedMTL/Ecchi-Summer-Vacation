@@ -8,8 +8,8 @@
 !*.7z
 !*.csv
 !*.ks
-!.gitignore
 !srp.pac
+!.gitignore
 !README.md
 
 # Images
