@@ -3379,7 +3379,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["　早くここからはなれよう……）"]
+              "parameters": ["Boku: (I should get away from here quickly...)"]
             },
             { "code": 122, "indent": 1, "parameters": [59, 59, 0, 2, 1, 2] },
             { "code": 117, "indent": 1, "parameters": [17] },
@@ -3443,7 +3443,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["「もうお家に帰らなきゃ……」"]
+              "parameters": ["Boku: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },

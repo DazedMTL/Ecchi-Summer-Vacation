@@ -513,7 +513,7 @@ var $plugins = [
     status: true,
     description: "メインメニューにコモンイベント実行用のコマンドを追加します。",
     parameters: {
-      command1: '{"name":"プロフィール帳","commonEventId":"32"}',
+      command1: '{"name":"Profile","commonEventId":"32"}',
       command2: '{"name":"","commonEventId":"0"}',
       command3: '{"name":"","commonEventId":"0"}',
       command4: '{"name":"","commonEventId":"0"}',

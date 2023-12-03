@@ -3,8 +3,18 @@
   "autoplayBgs": false,
   "battleback1Name": "",
   "battleback2Name": "",
-  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
-  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
   "disableDashing": false,
   "displayName": "Game Start",
   "encounterList": [],
@@ -118,17 +128,38 @@
             "tileId": 0
           },
           "list": [
-            { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_DISABLE"] },
-            { "code": 111, "indent": 0, "parameters": [0, 20, 0] },
-            { "code": 121, "indent": 1, "parameters": [20, 20, 0] },
+            {
+              "code": 356,
+              "indent": 0,
+              "parameters": ["HALF_MOVE_DISABLE"]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [0, 20, 0]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [20, 20, 0]
+            },
             {
               "code": 250,
               "indent": 1,
               "parameters": [
-                { "name": "Chime1", "volume": 90, "pitch": 100, "pan": 0 }
+                {
+                  "name": "Chime1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
               ]
             },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -136,7 +167,11 @@
                 "Thank you for downloading the trial version of\n\"Onee-shota Town's Naughty Summer Vacation.\""
               ]
             },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -144,7 +179,11 @@
                 "In the trial version, you can enjoy the activities\nup to \"August 7th.\""
               ]
             },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -152,16 +191,56 @@
                 "We hope that the game's atmosphere and style will\nresonate with all players."
               ]
             },
-            { "code": 230, "indent": 1, "parameters": [60] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 412, "indent": 0, "parameters": [] },
-            { "code": 281, "indent": 0, "parameters": [1] },
-            { "code": 121, "indent": 0, "parameters": [4, 4, 0] },
-            { "code": 126, "indent": 0, "parameters": [7, 0, 0, 1] },
-            { "code": 126, "indent": 0, "parameters": [6, 0, 0, 1] },
-            { "code": 121, "indent": 0, "parameters": [4, 4, 1] },
-            { "code": 211, "indent": 0, "parameters": [0] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [60]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 281,
+              "indent": 0,
+              "parameters": [1]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [4, 4, 0]
+            },
+            {
+              "code": 126,
+              "indent": 0,
+              "parameters": [7, 0, 0, 1]
+            },
+            {
+              "code": 126,
+              "indent": 0,
+              "parameters": [6, 0, 0, 1]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [4, 4, 1]
+            },
+            {
+              "code": 211,
+              "indent": 0,
+              "parameters": [0]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 0,
@@ -172,26 +251,83 @@
               "indent": 0,
               "parameters": [["Yes", "No"], 1, 1, 1, 1]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "はい"] },
-            { "code": 121, "indent": 1, "parameters": [70, 70, 0] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [0, "はい"]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [70, 70, 0]
+            },
             {
               "code": 249,
               "indent": 1,
               "parameters": [
-                { "name": "Inn", "volume": 90, "pitch": 100, "pan": 0 }
+                {
+                  "name": "Inn",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
               ]
             },
-            { "code": 230, "indent": 1, "parameters": [300] },
-            { "code": 122, "indent": 1, "parameters": [1, 1, 0, 0, 1] },
-            { "code": 201, "indent": 1, "parameters": [0, 3, 28, 7, 2, 0] },
-            { "code": 211, "indent": 1, "parameters": [1] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "いいえ"] },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 201, "indent": 1, "parameters": [0, 17, 13, 9, 0, 0] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 204, "indent": 1, "parameters": [6, 31, 4] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [300]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [1, 1, 0, 0, 1]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [0, 3, 28, 7, 2, 0]
+            },
+            {
+              "code": 211,
+              "indent": 1,
+              "parameters": [1]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "いいえ"]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [0, 17, 13, 9, 0, 0]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 204,
+              "indent": 1,
+              "parameters": [6, 31, 4]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -199,11 +335,31 @@
                 "Onee-shota Town. This is a peaceful town located\nin the suburbs."
               ]
             },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 201, "indent": 1, "parameters": [0, 29, 25, 8, 0, 0] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 204, "indent": 1, "parameters": [4, 21, 4] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [0, 29, 25, 8, 0, 0]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 204,
+              "indent": 1,
+              "parameters": [4, 21, 4]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -211,10 +367,26 @@
                 "Not too rural, yet not too urban, it boasts a\nmoderate convenience that makes it popular among\nfamilies."
               ]
             },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 201, "indent": 1, "parameters": [0, 17, 42, 9, 0, 0] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [0, 17, 42, 9, 0, 0]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -222,7 +394,11 @@
                 "And \"\\n[1]\" is a slightly shy boy who lives in\nsuch a town..."
               ]
             },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": ["", 0, 1, 1]
+            },
             {
               "code": 401,
               "indent": 1,
@@ -230,16 +406,45 @@
                 "Summer vacation is just around the corner, and my\nslightly naughty story is about to begin."
               ]
             },
-            { "code": 221, "indent": 1, "parameters": [] },
-            { "code": 201, "indent": 1, "parameters": [0, 35, 15, 10, 2, 0] },
-            { "code": 222, "indent": 1, "parameters": [] },
-            { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 404, "indent": 0, "parameters": [] },
-            { "code": 0, "indent": 0, "parameters": [] }
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [0, 35, 15, 10, 2, 0]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
           ],
           "moveFrequency": 3,
           "moveRoute": {
-            "list": [{ "code": 0, "parameters": [] }],
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
             "repeat": true,
             "skippable": false,
             "wait": false

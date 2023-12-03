@@ -12,7 +12,14 @@
       "variance": 20
     },
     "description": "Restores 500 HP.",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 500 }],
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 500
+      }
+    ],
     "hitType": 0,
     "iconIndex": 304,
     "itypeId": 1,
@@ -38,7 +45,14 @@
       "variance": 20
     },
     "description": "Restores 1000 HP.",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 1000 }],
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 1000
+      }
+    ],
     "hitType": 0,
     "iconIndex": 304,
     "itypeId": 1,
@@ -64,7 +78,14 @@
       "variance": 20
     },
     "description": "Completely restores HP.",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 320,
     "itypeId": 1,
@@ -90,7 +111,14 @@
       "variance": 20
     },
     "description": "Restores 100 MP points.",
-    "effects": [{ "code": 12, "dataId": 0, "value1": 0, "value2": 100 }],
+    "effects": [
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 100
+      }
+    ],
     "hitType": 0,
     "iconIndex": 306,
     "itypeId": 1,
@@ -116,7 +144,14 @@
       "variance": 20
     },
     "description": "Restores 200 MP points.",
-    "effects": [{ "code": 12, "dataId": 0, "value1": 0, "value2": 200 }],
+    "effects": [
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 200
+      }
+    ],
     "hitType": 0,
     "iconIndex": 306,
     "itypeId": 1,
@@ -142,7 +177,14 @@
       "variance": 20
     },
     "description": "Completely restores MP.",
-    "effects": [{ "code": 12, "dataId": 0, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 322,
     "itypeId": 1,
@@ -167,26 +209,116 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Completely recovers HP and MP, and cures all status abnormalities except for incapacitation.",
+    "description": "Completely recovers HP and MP, and cures all\nstatus abnormalities except for incapacitation.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 1, "value2": 0 },
-      { "code": 12, "dataId": 0, "value1": 1, "value2": 0 },
-      { "code": 13, "dataId": 0, "value1": 100, "value2": 0 },
-      { "code": 22, "dataId": 4, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 17, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 5, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 6, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 10, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 12, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 13, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 16, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 301, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 302, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 303, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 304, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 37, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 34, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 35, "value1": 1, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 100,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 17,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 10,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 12,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 13,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 16,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 301,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 302,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 303,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 304,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 37,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 34,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 35,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 326,
@@ -212,10 +344,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Cures the poison status. *Removes states: Poison, Deadly Poison",
+    "description": "Cures the poison status. *Removes states: Poison,\nDeadly Poison",
     "effects": [
-      { "code": 22, "dataId": 4, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 17, "value1": 1, "value2": 0 }
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 17,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 166,
@@ -241,16 +383,56 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Cures status ailments other than incapacitation. ※State Removal: Poison, Deadly Poison, Blindness,\nSilence, Seal, Amnesia, Pain",
+    "description": "Cures status ailments other than incapacitation.\n※State Removal: Poison, Deadly Poison, Blindness,\nSilence, Seal, Amnesia, Pain",
     "effects": [
-      { "code": 22, "dataId": 4, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 17, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 5, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 6, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 10, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 12, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 13, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 16, "value1": 1, "value2": 0 }
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 17,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 10,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 12,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 13,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 16,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 195,
@@ -277,7 +459,14 @@
       "variance": 20
     },
     "description": "A mysterious herb that fully restores TP.",
-    "effects": [{ "code": 13, "dataId": 0, "value1": 100, "value2": 0 }],
+    "effects": [
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 100,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 165,
     "itypeId": 1,
@@ -302,8 +491,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A cloth towel that can be used to wipe off milky liquids or ink that have adhered during battle on\nthe spot.",
-    "effects": [{ "code": 44, "dataId": 221, "value1": 1, "value2": 0 }],
+    "description": "A cloth towel that can be used to wipe off milky\nliquids or ink that have adhered during battle on\nthe spot.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 221,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 412,
     "itypeId": 1,
@@ -329,7 +525,14 @@
       "variance": 20
     },
     "description": "Increase maximum HP by 10 points.",
-    "effects": [{ "code": 42, "dataId": 0, "value1": 10, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 0,
+        "value1": 10,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -355,7 +558,14 @@
       "variance": 20
     },
     "description": "Increase maximum MP by 10 points.",
-    "effects": [{ "code": 42, "dataId": 1, "value1": 10, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 1,
+        "value1": 10,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -381,7 +591,14 @@
       "variance": 20
     },
     "description": "Increase attack power by 1 point.",
-    "effects": [{ "code": 42, "dataId": 2, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 2,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -407,7 +624,14 @@
       "variance": 20
     },
     "description": "Increase defense power by 1 point.",
-    "effects": [{ "code": 42, "dataId": 3, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 3,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -433,7 +657,14 @@
       "variance": 20
     },
     "description": "Increase magical power by 1 point.",
-    "effects": [{ "code": 42, "dataId": 4, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -459,7 +690,14 @@
       "variance": 20
     },
     "description": "Increase magic defense by 1 point.",
-    "effects": [{ "code": 42, "dataId": 5, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -485,7 +723,14 @@
       "variance": 20
     },
     "description": "Increase agility by 1 point.",
-    "effects": [{ "code": 42, "dataId": 6, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -511,7 +756,14 @@
       "variance": 20
     },
     "description": "Increase luck by 1 point.",
-    "effects": [{ "code": 42, "dataId": 7, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 42,
+        "dataId": 7,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 270,
     "itypeId": 1,
@@ -536,8 +788,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A forbidden syrup that reduces HP to 0. Can be used any number of times during battle.",
-    "effects": [{ "code": 11, "dataId": 0, "value1": -1, "value2": 0 }],
+    "description": "A forbidden syrup that reduces HP to 0. Can be\nused any number of times during battle.",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": -1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 161,
     "itypeId": 1,
@@ -562,14 +821,44 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Dried pumpkin seeds. Restores 30% of HP and MP, and removes status debilitations such as Weapon\nCurse.",
+    "description": "Dried pumpkin seeds. Restores 30% of HP and MP,\nand removes status debilitations such as Weapon\nCurse.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0.3, "value2": 0 },
-      { "code": 12, "dataId": 0, "value1": 0.3, "value2": 0 },
-      { "code": 22, "dataId": 301, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 302, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 303, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 304, "value1": 1, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.3,
+        "value2": 0
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0.3,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 301,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 302,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 303,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 304,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 270,
@@ -595,22 +884,92 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A dried fruit of the spirit medicine Kuko. Restores 50% of HP and MP, cures status abnormalities\nexcept for incapacitation, and removes weakened states such as weapon curses.",
+    "description": "A dried fruit of the spirit medicine Kuko.\nRestores 50% of HP and MP, cures status\nabnormalities except for incapacitation, and\nremoves weakened states such as weapon curses.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0.5, "value2": 0 },
-      { "code": 12, "dataId": 0, "value1": 0.5, "value2": 0 },
-      { "code": 22, "dataId": 4, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 17, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 5, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 6, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 10, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 12, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 13, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 16, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 301, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 302, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 303, "value1": 1, "value2": 0 },
-      { "code": 22, "dataId": 304, "value1": 1, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.5,
+        "value2": 0
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0.5,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 17,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 10,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 12,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 13,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 16,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 301,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 302,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 303,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 22,
+        "dataId": 304,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 270,
@@ -636,8 +995,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Can definitely escape from battle. (Excludes boss battles and certain special event battles)",
-    "effects": [{ "code": 44, "dataId": 222, "value1": 1, "value2": 0 }],
+    "description": "Can definitely escape from battle. (Excludes boss\nbattles and certain special event battles)",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 222,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 396,
     "itypeId": 1,
@@ -662,10 +1028,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Seeds of a lewd grass that heighten indecent feelings. Increases \\N[1]'s lewdness by 1 point.",
+    "description": "Seeds of a lewd grass that heighten indecent\nfeelings. Increases \\N[1]'s lewdness by 1 point.",
     "effects": [
-      { "code": 21, "dataId": 29, "value1": 1, "value2": 0 },
-      { "code": 44, "dataId": 44, "value1": 1, "value2": 0 }
+      {
+        "code": 21,
+        "dataId": 29,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 44,
+        "dataId": 44,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 425,
@@ -691,10 +1067,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A mysterious drink that increases lewdness. Lewdness increases by 5 points.",
+    "description": "A mysterious drink that increases lewdness.\nLewdness increases by 5 points.",
     "effects": [
-      { "code": 21, "dataId": 29, "value1": 1, "value2": 0 },
-      { "code": 44, "dataId": 45, "value1": 1, "value2": 0 }
+      {
+        "code": 21,
+        "dataId": 29,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 44,
+        "dataId": 45,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 341,
@@ -720,10 +1106,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A therapeutic drug to reform a lewd mind. Lowers lewdness by 5 points.",
+    "description": "A therapeutic drug to reform a lewd mind. Lowers\nlewdness by 5 points.",
     "effects": [
-      { "code": 21, "dataId": 29, "value1": 1, "value2": 0 },
-      { "code": 44, "dataId": 46, "value1": 1, "value2": 0 }
+      {
+        "code": 21,
+        "dataId": 29,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 44,
+        "dataId": 46,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 323,
@@ -749,8 +1145,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A talisman that breaks curses from the East. It is expensive because it is difficult to obtain.\n*State Removal: Curse (The curse of the void cannot be lifted)",
-    "effects": [{ "code": 22, "dataId": 37, "value1": 1, "value2": 0 }],
+    "description": "A talisman that breaks curses from the East. It is\nexpensive because it is difficult to obtain.\n*State Removal: Curse (The curse of the void\ncannot be lifted)",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 37,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 411,
     "itypeId": 1,
@@ -775,8 +1178,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "An oral medication that can treat sexually transmitted diseases on the spot. It is somewhat\nexpensive due to the valuable ingredients it contains.",
-    "effects": [{ "code": 22, "dataId": 34, "value1": 1, "value2": 0 }],
+    "description": "An oral medication that can treat sexually\ntransmitted diseases on the spot. It is somewhat\nexpensive due to the valuable ingredients it\ncontains.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 34,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 325,
     "itypeId": 1,
@@ -801,8 +1211,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "An anal treatment medicine that can cure itchy bottom on the spot. It is somewhat expensive because\nit contains valuable ingredients.",
-    "effects": [{ "code": 22, "dataId": 35, "value1": 1, "value2": 0 }],
+    "description": "An anal treatment medicine that can cure itchy\nbottom on the spot. It is somewhat expensive\nbecause it contains valuable ingredients.",
+    "effects": [
+      {
+        "code": 22,
+        "dataId": 35,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 324,
     "itypeId": 1,
@@ -827,10 +1244,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Magical panty liners for girls. Fluffy and comfortable. All statuses increase while wearing them.",
+    "description": "Magical panty liners for girls. Fluffy and\ncomfortable. All statuses increase while wearing\nthem.",
     "effects": [
-      { "code": 21, "dataId": 29, "value1": 1, "value2": 0 },
-      { "code": 44, "dataId": 232, "value1": 1, "value2": 0 }
+      {
+        "code": 21,
+        "dataId": 29,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 44,
+        "dataId": 232,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 423,
@@ -856,7 +1283,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Used maiden sheet. It's a bit naughty and has a sweet scent of a girl.",
+    "description": "Used maiden sheet. It's a bit naughty and has a\nsweet scent of a girl.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 424,
@@ -882,7 +1309,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Used maiden sheet. It's a bit naughty and has a sweet scent of a girl.",
+    "description": "Used maiden sheet. It's a bit naughty and has a\nsweet scent of a girl.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 424,
@@ -908,10 +1335,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A candy that makes you feel happy when you lick it.",
+    "description": "A candy that makes you feel happy when you lick\nit.",
     "effects": [
-      { "code": 21, "dataId": 29, "value1": 1, "value2": 0 },
-      { "code": 44, "dataId": 220, "value1": 1, "value2": 0 }
+      {
+        "code": 21,
+        "dataId": 29,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 44,
+        "dataId": 220,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 431,
@@ -937,8 +1374,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the fire spirit. When synthesized with a magic stone, it\ncan create a Fire Scroll. In battle: Changes the attack attribute to fire.",
-    "effects": [{ "code": 44, "dataId": 225, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the fire\nspirit. When synthesized with a magic stone, it\ncan create a Fire Scroll. In battle: Changes the\nattack attribute to fire.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 225,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 345,
     "itypeId": 1,
@@ -963,8 +1407,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the wind spirit. When synthesized with a magic stone, it\ncan create a Scroll (Wind). In battle: Changes the attack attribute to Wind attribute.",
-    "effects": [{ "code": 44, "dataId": 226, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the wind\nspirit. When synthesized with a magic stone, it\ncan create a Scroll (Wind). In battle: Changes the\nattack attribute to Wind attribute.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 226,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 348,
     "itypeId": 1,
@@ -989,8 +1440,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the earth spirit. When synthesized with a magic stone, it\ncan create a Scroll (Earth). In battle: Changes the attack attribute to Earth attribute.",
-    "effects": [{ "code": 44, "dataId": 227, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the earth\nspirit. When synthesized with a magic stone, it\ncan create a Scroll (Earth). In battle: Changes\nthe attack attribute to Earth attribute.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 227,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 347,
     "itypeId": 1,
@@ -1015,8 +1473,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the water spirit. When combined with a magic stone, it can\ncreate a Water Scroll. In battle: Changes the attack attribute to Water.",
-    "effects": [{ "code": 44, "dataId": 228, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the water\nspirit. When combined with a magic stone, it can\ncreate a Water Scroll. In battle: Changes the\nattack attribute to Water.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 228,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 346,
     "itypeId": 1,
@@ -1041,8 +1506,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the spirit of light. When synthesized with a magic stone,\nit can create a Scroll (Light). In battle: Boosts light attribute (Attack power 150% UP).",
-    "effects": [{ "code": 44, "dataId": 229, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the\nspirit of light. When synthesized with a magic\nstone, it can create a Scroll (Light). In battle:\nBoosts light attribute (Attack power 150% UP).",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 229,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 343,
     "itypeId": 1,
@@ -1067,8 +1539,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magical medal imbued with the power of the spirit of darkness. When synthesized with a magic\nstone, it can create a Scroll (Darkness). In battle: Reset attributes added by the medal.",
-    "effects": [{ "code": 44, "dataId": 230, "value1": 1, "value2": 0 }],
+    "description": "A magical medal imbued with the power of the\nspirit of darkness. When synthesized with a magic\nstone, it can create a Scroll (Darkness). In\nbattle: Reset attributes added by the medal.",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 230,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 344,
     "itypeId": 1,
@@ -1093,7 +1572,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals fire attribute damage to all enemies.",
+    "description": "A magic scroll that deals fire attribute damage to\nall enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 330,
@@ -1119,7 +1598,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals wind attribute damage to all enemies.",
+    "description": "A magic scroll that deals wind attribute damage to\nall enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 331,
@@ -1145,7 +1624,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals earth attribute damage to all enemies.",
+    "description": "A magic scroll that deals earth attribute damage\nto all enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 332,
@@ -1171,7 +1650,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals water attribute damage to all enemies.",
+    "description": "A magic scroll that deals water attribute damage\nto all enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 333,
@@ -1197,7 +1676,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals light attribute damage to all enemies.",
+    "description": "A magic scroll that deals light attribute damage\nto all enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 334,
@@ -1223,7 +1702,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "A magic scroll that deals water attribute damage to all enemies.",
+    "description": "A magic scroll that deals water attribute damage\nto all enemies.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 335,
@@ -1275,10 +1754,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Fresh cucumbers that can be eaten whole. *Restores 5% HP, increases TP by 5.",
+    "description": "Fresh cucumbers that can be eaten whole. *Restores\n5% HP, increases TP by 5.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0.05, "value2": 0 },
-      { "code": 13, "dataId": 0, "value1": 5, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.05,
+        "value2": 0
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 5,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 477,
@@ -1304,8 +1793,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Rich in beta-carotene, sweet and delicious carrots. *TP20 increase",
-    "effects": [{ "code": 13, "dataId": 0, "value1": 20, "value2": 0 }],
+    "description": "Rich in beta-carotene, sweet and delicious\ncarrots. *TP20 increase",
+    "effects": [
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 240,
     "itypeId": 1,
@@ -1330,8 +1826,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A glossy purple summer vegetable. Rich in polyphenols and has antioxidant effects. *Restores 20% MP.",
-    "effects": [{ "code": 12, "dataId": 0, "value1": 0.2, "value2": 0 }],
+    "description": "A glossy purple summer vegetable. Rich in\npolyphenols and has antioxidant effects. *Restores\n20% MP.",
+    "effects": [
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0.2,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 479,
     "itypeId": 1,
@@ -1356,8 +1859,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Freshly picked cabbage. The crisp texture is pleasantly satisfying. *Restores 25% HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0.25, "value2": 0 }],
+    "description": "Freshly picked cabbage. The crisp texture is\npleasantly satisfying. *Restores 25% HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.25,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 476,
     "itypeId": 1,
@@ -1382,10 +1892,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A white, large, and juicy radish. *Restores 20% HP, increases TP by 10%.",
+    "description": "A white, large, and juicy radish. *Restores 20%\nHP, increases TP by 10%.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0.2, "value2": 0 },
-      { "code": 13, "dataId": 0, "value1": 10, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.2,
+        "value2": 0
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 10,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 478,
@@ -1411,10 +1931,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fruity tomato that has ripened to a bright red. Rich in lycopene. *Restores 15% HP, 15% MP",
+    "description": "A fruity tomato that has ripened to a bright red.\nRich in lycopene. *Restores 15% HP, 15% MP",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0.15, "value2": 0 },
-      { "code": 12, "dataId": 0, "value1": 0.15, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0.15,
+        "value2": 0
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0.15,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 264,
@@ -1466,8 +1996,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A blend coffee that offers a refreshing acidity. *TP20 increase",
-    "effects": [{ "code": 13, "dataId": 0, "value1": 20, "value2": 0 }],
+    "description": "A blend coffee that offers a refreshing acidity.\n*TP20 increase",
+    "effects": [
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 464,
     "itypeId": 1,
@@ -1492,10 +2029,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A sweet cocoa that allows you to enjoy the aroma of cacao. *Restores 30 HP, 20 MP.",
+    "description": "A sweet cocoa that allows you to enjoy the aroma\nof cacao. *Restores 30 HP, 20 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 30 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 464,
@@ -1521,10 +2068,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Chilled fresh milk. It's sweet and delicious. ※Restores 10 MP, increases TP by 20.",
+    "description": "Chilled fresh milk. It's sweet and delicious.\n※Restores 10 MP, increases TP by 20.",
     "effects": [
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 10 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 }
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 10
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 466,
@@ -1550,10 +2107,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A sandwich made with fresh vegetables, ham, and eggs. ※Restores 200 HP, 20 MP.",
+    "description": "A sandwich made with fresh vegetables, ham, and\neggs. ※Restores 200 HP, 20 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 200 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 200
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 467,
@@ -1579,10 +2146,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A hot dog packed with spicy sausage and plenty of vegetables. *Restores 300 HP, increases TP by 30.",
+    "description": "A hot dog packed with spicy sausage and plenty of\nvegetables. *Restores 300 HP, increases TP by 30.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 300 },
-      { "code": 13, "dataId": 0, "value1": 30, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 300
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 30,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 468,
@@ -1634,8 +2211,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Aromatic and sharp-tasting iced coffee *TP20 increase",
-    "effects": [{ "code": 13, "dataId": 0, "value1": 20, "value2": 0 }],
+    "description": "Aromatic and sharp-tasting iced coffee *TP20\nincrease",
+    "effects": [
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 480,
     "itypeId": 1,
@@ -1660,10 +2244,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Daily lunch menu using fresh river fish *Recovers 260 HP, 20 MP",
+    "description": "Daily lunch menu using fresh river fish *Recovers\n260 HP, 20 MP",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 260 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 260
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 471,
@@ -1689,10 +2283,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Creamy and rich pasta made with fresh salmon and spinach. ※Restores 320 HP, 40 MP.",
+    "description": "Creamy and rich pasta made with fresh salmon and\nspinach. ※Restores 320 HP, 40 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 320 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 40 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 320
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 40
+      }
     ],
     "hitType": 0,
     "iconIndex": 469,
@@ -1744,8 +2348,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fragrant, high-quality black tea harvested in the Da Zhilin region. *Increases TP by 25.",
-    "effects": [{ "code": 13, "dataId": 0, "value1": 25, "value2": 0 }],
+    "description": "A fragrant, high-quality black tea harvested in\nthe Da Zhilin region. *Increases TP by 25.",
+    "effects": [
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 25,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 465,
     "itypeId": 1,
@@ -1770,11 +2381,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A doria rich in cheese made with chicken and magic mushrooms. *Restores 150 HP, 75 MP, and cures\nsilence.",
+    "description": "A doria rich in cheese made with chicken and magic\nmushrooms. *Restores 150 HP, 75 MP, and cures\nsilence.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 150 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 75 },
-      { "code": 22, "dataId": 6, "value1": 1, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 150
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 75
+      },
+      {
+        "code": 22,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 501,
@@ -1800,10 +2426,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A popular menu item from the Tower of Time and Space. The accompanying Fukujinzuke is also a secret\nto its popularity. *Restores 300 HP, increases TP by 40.",
+    "description": "A popular menu item from the Tower of Time and\nSpace. The accompanying Fukujinzuke is also a\nsecret to its popularity. *Restores 300 HP,\nincreases TP by 40.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 340 },
-      { "code": 13, "dataId": 0, "value1": 40, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 340
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 40,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 470,
@@ -1829,10 +2465,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Soft serve ice cream made with fresh milk that's lightly sweetened. *Restores 25 HP, increases TP by\n20.",
+    "description": "Soft serve ice cream made with fresh milk that's\nlightly sweetened. *Restores 25 HP, increases TP\nby 20.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 25 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 25
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 496,
@@ -1884,8 +2530,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Freshly baked bread made with plenty of butter. *Restores 120 HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 120 }],
+    "description": "Freshly baked bread made with plenty of butter.\n*Restores 120 HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 120
+      }
+    ],
     "hitType": 0,
     "iconIndex": 508,
     "itypeId": 1,
@@ -1910,10 +2563,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A sweet bean paste bun with a subtle sweetness, using azuki bean paste. *Restores 130 HP, 10 MP.",
+    "description": "A sweet bean paste bun with a subtle sweetness,\nusing azuki bean paste. *Restores 130 HP, 10 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 130 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 10 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 130
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 10
+      }
     ],
     "hitType": 0,
     "iconIndex": 508,
@@ -1939,10 +2602,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A cream bun packed with plenty of custard. *Restores 130 HP, increases TP by 10.",
+    "description": "A cream bun packed with plenty of custard.\n*Restores 130 HP, increases TP by 10.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 130 },
-      { "code": 13, "dataId": 0, "value1": 10, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 130
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 10,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 508,
@@ -1968,8 +2641,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Freshly baked coronet filled with bitter-flavored chocolate. *Restores 140 HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 140 }],
+    "description": "Freshly baked coronet filled with bitter-flavored\nchocolate. *Restores 140 HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 140
+      }
+    ],
     "hitType": 0,
     "iconIndex": 523,
     "itypeId": 1,
@@ -1994,10 +2674,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A special koppe-pan sandwich with strawberry jam. *Restores 160 HP, increases TP by 20.",
+    "description": "A special koppe-pan sandwich with strawberry jam.\n*Restores 160 HP, increases TP by 20.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 160 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 160
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 524,
@@ -2049,10 +2739,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Moist and flaky freshly baked croissant. *Restores 100 HP, increases TP by 10.",
+    "description": "Moist and flaky freshly baked croissant. *Restores\n100 HP, increases TP by 10.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 100 },
-      { "code": 13, "dataId": 0, "value1": 10, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 100
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 10,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 511,
@@ -2078,8 +2778,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A spicy curry bread with a strong flavor of spices, for adults. ※HP 150",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 150 }],
+    "description": "A spicy curry bread with a strong flavor of\nspices, for adults. ※HP 150",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 150
+      }
+    ],
     "hitType": 0,
     "iconIndex": 508,
     "itypeId": 1,
@@ -2104,10 +2811,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The popular menu item at this store uses apples from Aomori. ※Restores 130 HP, 20 MP.",
+    "description": "The popular menu item at this store uses apples\nfrom Aomori. ※Restores 130 HP, 20 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 130 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 130
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 506,
@@ -2133,10 +2850,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A sandwich with thick slices of toast filled with lettuce, tomato, and bacon. *Restores 240 HP,\nincreases TP by 40.",
+    "description": "A sandwich with thick slices of toast filled with\nlettuce, tomato, and bacon. *Restores 240 HP,\nincreases TP by 40.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 240 },
-      { "code": 13, "dataId": 0, "value1": 40, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 240
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 40,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 522,
@@ -2188,11 +2915,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Full of nutrients! Freshly squeezed milk. *Restores 50 HP, 20 MP, and increases TP by 20.",
+    "description": "Full of nutrients! Freshly squeezed milk.\n*Restores 50 HP, 20 MP, and increases TP by 20.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 50 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 50
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 481,
@@ -2270,8 +3012,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Fried local chicken marinated in a special soy sauce. (Small) ※Restores 240 HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 240 }],
+    "description": "Fried local chicken marinated in a special soy\nsauce. (Small) ※Restores 240 HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 240
+      }
+    ],
     "hitType": 0,
     "iconIndex": 503,
     "itypeId": 1,
@@ -2296,8 +3045,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Fried local chicken marinated in a special soy sauce. (Large) ※Restores 360 HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 360 }],
+    "description": "Fried local chicken marinated in a special soy\nsauce. (Large) ※Restores 360 HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 360
+      }
+    ],
     "hitType": 0,
     "iconIndex": 503,
     "itypeId": 1,
@@ -2322,10 +3078,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A consommé-flavored dish made with pork meat stewed in tomatoes. *Restores 300 HP, increases TP by\n20.",
+    "description": "A consommé-flavored dish made with pork meat\nstewed in tomatoes. *Restores 300 HP, increases TP\nby 20.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 300 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 300
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2351,10 +3117,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A popular dish irresistible for its sweet and sour flavor, topped with tartar sauce. ※Restores 380\nHP, 20 MP.",
+    "description": "A popular dish irresistible for its sweet and sour\nflavor, topped with tartar sauce. ※Restores 380\nHP, 20 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 380 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 380
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 534,
@@ -2380,10 +3156,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A satisfying dish of heartily grilled local chicken. *Restores 480 HP, 50 MP.",
+    "description": "A satisfying dish of heartily grilled local\nchicken. *Restores 480 HP, 50 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 480 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 50 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 480
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 50
+      }
     ],
     "hitType": 0,
     "iconIndex": 535,
@@ -2435,10 +3221,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Moist and easy to eat, these cookies are rich in cheese flavor. *Restores 30 MP, removes debuff\nstatus (Attack Power).",
+    "description": "Moist and easy to eat, these cookies are rich in\ncheese flavor. *Restores 30 MP, removes debuff\nstatus (Attack Power).",
     "effects": [
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 30 },
-      { "code": 34, "dataId": 2, "value1": 1, "value2": 0 }
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      },
+      {
+        "code": 34,
+        "dataId": 2,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 253,
@@ -2464,10 +3260,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A stick pastry from a cheese specialty shop made with biscuit dough. *Restores 30 MP, removes\nweakened state (defense).",
+    "description": "A stick pastry from a cheese specialty shop made\nwith biscuit dough. *Restores 30 MP, removes\nweakened state (defense).",
     "effects": [
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 30 },
-      { "code": 34, "dataId": 3, "value1": 1, "value2": 0 }
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      },
+      {
+        "code": 34,
+        "dataId": 3,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 253,
@@ -2493,11 +3299,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Moist and fluffy steamed cheese bread. ※Restores 75 HP, 20 MP, and removes weakened state (magic\npower, magic defense).",
+    "description": "Moist and fluffy steamed cheese bread. ※Restores\n75 HP, 20 MP, and removes weakened state (magic\npower, magic defense).",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 75 },
-      { "code": 34, "dataId": 4, "value1": 1, "value2": 0 },
-      { "code": 34, "dataId": 5, "value1": 1, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 75
+      },
+      {
+        "code": 34,
+        "dataId": 4,
+        "value1": 1,
+        "value2": 0
+      },
+      {
+        "code": 34,
+        "dataId": 5,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 253,
@@ -2523,11 +3344,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A cheese pastry wrapped in a chewy dough with melty cheese. *Restores 50 MP, increases TP by 20, and\nremoves debuff status (Agility).",
+    "description": "A cheese pastry wrapped in a chewy dough with\nmelty cheese. *Restores 50 MP, increases TP by 20,\nand removes debuff status (Agility).",
     "effects": [
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 50 },
-      { "code": 13, "dataId": 0, "value1": 20, "value2": 0 },
-      { "code": 34, "dataId": 6, "value1": 1, "value2": 0 }
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 50
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 20,
+        "value2": 0
+      },
+      {
+        "code": 34,
+        "dataId": 6,
+        "value1": 1,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 253,
@@ -2579,10 +3415,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Omelette rice with plenty of demi-glace sauce and a soft-boiled egg. *Restores 300 HP, 10 MP.",
+    "description": "Omelette rice with plenty of demi-glace sauce and\na soft-boiled egg. *Restores 300 HP, 10 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 300 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 10 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 300
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 10
+      }
     ],
     "hitType": 0,
     "iconIndex": 486,
@@ -2608,10 +3454,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Spaghetti with a rich meat sauce made from ground magical beast meat. *Restores 280 HP, increases TP\nby 10.",
+    "description": "Spaghetti with a rich meat sauce made from ground\nmagical beast meat. *Restores 280 HP, increases TP\nby 10.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 280 },
-      { "code": 13, "dataId": 0, "value1": 10, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 280
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 10,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 472,
@@ -2637,10 +3493,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Ginger pork set meal using Madonea pork. *Restores 340 HP, 30 MP.",
+    "description": "Ginger pork set meal using Madonea pork. *Restores\n340 HP, 30 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 340 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 30 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 340
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2666,10 +3532,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A popular menu item topped with three kinds of daily fried foods. *Restores 400 HP, 20 MP.",
+    "description": "A popular menu item topped with three kinds of\ndaily fried foods. *Restores 400 HP, 20 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 400 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 20 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 400
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 20
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2695,8 +3571,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A plump and juicy hamburger made with the meat of magical beasts. *Restores 600 HP",
-    "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 600 }],
+    "description": "A plump and juicy hamburger made with the meat of\nmagical beasts. *Restores 600 HP",
+    "effects": [
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 600
+      }
+    ],
     "hitType": 0,
     "iconIndex": 533,
     "itypeId": 1,
@@ -2721,10 +3604,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A thick-cut steak of substantial monster meat. *Restores 800 HP, increases TP by 30%",
+    "description": "A thick-cut steak of substantial monster meat.\n*Restores 800 HP, increases TP by 30%",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 800 },
-      { "code": 13, "dataId": 0, "value1": 30, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 800
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 30,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 535,
@@ -2802,10 +3695,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A dish made by grilling plump scallops with butter and soy sauce. *Restores 160 HP, 40 MP.",
+    "description": "A dish made by grilling plump scallops with butter\nand soy sauce. *Restores 160 HP, 40 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 160 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 40 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 160
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 40
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2831,11 +3734,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A dish of sweet and spicy stewed deep-sea fish with bulging eyes. *Restores 100 HP, 50 MP, and\nincreases TP by 25.",
+    "description": "A dish of sweet and spicy stewed deep-sea fish\nwith bulging eyes. *Restores 100 HP, 50 MP, and\nincreases TP by 25.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 100 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 50 },
-      { "code": 13, "dataId": 0, "value1": 25, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 100
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 50
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 25,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 471,
@@ -2861,10 +3779,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Daily lunch using fresh seafood. Comes with miso soup. *Restores 320 HP, 30 MP.",
+    "description": "Daily lunch using fresh seafood. Comes with miso\nsoup. *Restores 320 HP, 30 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 320 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 30 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 320
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2890,10 +3818,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The popular menu item of this restaurant is a plumply grilled sea bream with its head and tail\nintact. Comes with miso soup. *Restores 400 HP, increases TP by 30.",
+    "description": "The popular menu item of this restaurant is a\nplumply grilled sea bream with its head and tail\nintact. Comes with miso soup. *Restores 400 HP,\nincreases TP by 30.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 400 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 30 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 400
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 30
+      }
     ],
     "hitType": 0,
     "iconIndex": 471,
@@ -2919,10 +3857,20 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A set meal of fried shrimp using Madagascar shrimp. *Restores 430 HP, 50 MP.",
+    "description": "A set meal of fried shrimp using Madagascar\nshrimp. *Restores 430 HP, 50 MP.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 430 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 50 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 430
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 50
+      }
     ],
     "hitType": 0,
     "iconIndex": 502,
@@ -2948,11 +3896,26 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A bowl of fresh sashimi topped generously. Comes with miso soup. *Restores 420 HP, 40 MP, and\nincreases TP by 40.",
+    "description": "A bowl of fresh sashimi topped generously. Comes\nwith miso soup. *Restores 420 HP, 40 MP, and\nincreases TP by 40.",
     "effects": [
-      { "code": 11, "dataId": 0, "value1": 0, "value2": 420 },
-      { "code": 12, "dataId": 0, "value1": 0, "value2": 40 },
-      { "code": 13, "dataId": 0, "value1": 40, "value2": 0 }
+      {
+        "code": 11,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 420
+      },
+      {
+        "code": 12,
+        "dataId": 0,
+        "value1": 0,
+        "value2": 40
+      },
+      {
+        "code": 13,
+        "dataId": 0,
+        "value1": 40,
+        "value2": 0
+      }
     ],
     "hitType": 0,
     "iconIndex": 488,
@@ -3238,7 +4201,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Fragments of Prism Stones that have accumulated the power of light can enhance \\iw[1] and \\iw[5].",
+    "description": "Fragments of Prism Stones that have accumulated\nthe power of light can enhance \\iw[1] and \\iw[5].",
     "effects": [],
     "hitType": 0,
     "iconIndex": 315,
@@ -3264,7 +4227,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A Madonea coin that was used in the distant past. Popular with collectors. It can be sold at a\nbuyback shop.",
+    "description": "A Madonea coin that was used in the distant past.\nPopular with collectors. It can be sold at a\nbuyback shop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 359,
@@ -3316,7 +4279,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A magic stone charged with magical power. It can be combined with a spirit medal to create a magic\nscroll.",
+    "description": "A magic stone charged with magical power. It can\nbe combined with a spirit medal to create a magic\nscroll.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 311,
@@ -3342,7 +4305,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A part of the slime that didn't melt. Can be sold at the purchase shop.",
+    "description": "A part of the slime that didn't melt. Can be sold\nat the purchase shop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 211,
@@ -3368,7 +4331,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Fresh monster meat. Can be sold at the purchase shop.",
+    "description": "Fresh monster meat. Can be sold at the purchase\nshop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 243,
@@ -3394,7 +4357,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Sharp demon beast fang. Can be sold at the purchase shop.",
+    "description": "Sharp demon beast fang. Can be sold at the\npurchase shop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 278,
@@ -3420,7 +4383,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Mysterious magical beast feathers. Can be sold at the purchase shop.",
+    "description": "Mysterious magical beast feathers. Can be sold at\nthe purchase shop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 281,
@@ -3498,7 +4461,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Valuable silver ore Can be sold at the purchase shop.",
+    "description": "Valuable silver ore Can be sold at the purchase\nshop.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 328,
@@ -3837,7 +4800,14 @@
       "variance": 20
     },
     "description": "A grimoire for learning \\ns[56].",
-    "effects": [{ "code": 44, "dataId": 235, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 235,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 218,
     "itypeId": 1,
@@ -3862,8 +4832,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire to learn \\ns[57]. Condition: Must have already learned \\ns[56].",
-    "effects": [{ "code": 44, "dataId": 236, "value1": 1, "value2": 0 }],
+    "description": "A grimoire to learn \\ns[57]. Condition: Must have\nalready learned \\ns[56].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 236,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 218,
     "itypeId": 1,
@@ -3888,8 +4865,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire for learning \\ns[58]. Condition: Must have already learned \\ns[57].",
-    "effects": [{ "code": 44, "dataId": 237, "value1": 1, "value2": 0 }],
+    "description": "A grimoire for learning \\ns[58]. Condition: Must\nhave already learned \\ns[57].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 237,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 218,
     "itypeId": 1,
@@ -3914,8 +4898,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire for learning \\ns[59]. Condition: Must have already learned \\ns[56].",
-    "effects": [{ "code": 44, "dataId": 238, "value1": 1, "value2": 0 }],
+    "description": "A grimoire for learning \\ns[59]. Condition: Must\nhave already learned \\ns[56].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 238,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 219,
     "itypeId": 1,
@@ -3940,8 +4931,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire to learn \\ns[60]. Condition: Must have already learned \\ns[59].",
-    "effects": [{ "code": 44, "dataId": 239, "value1": 1, "value2": 0 }],
+    "description": "A grimoire to learn \\ns[60]. Condition: Must have\nalready learned \\ns[59].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 239,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 219,
     "itypeId": 1,
@@ -3966,8 +4964,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire to learn \\ns[61]. Condition: Must have already learned \\ns[58] and \\ns[60].",
-    "effects": [{ "code": 44, "dataId": 240, "value1": 1, "value2": 0 }],
+    "description": "A grimoire to learn \\ns[61]. Condition: Must have\nalready learned \\ns[58] and \\ns[60].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 240,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 219,
     "itypeId": 1,
@@ -3993,7 +4998,14 @@
       "variance": 20
     },
     "description": "A grimoire for learning \\ns[62].",
-    "effects": [{ "code": 44, "dataId": 241, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 241,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 217,
     "itypeId": 1,
@@ -4018,8 +5030,15 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A grimoire for learning \\ns[63]. Condition: Must have already learned \\ns[62].",
-    "effects": [{ "code": 44, "dataId": 242, "value1": 1, "value2": 0 }],
+    "description": "A grimoire for learning \\ns[63]. Condition: Must\nhave already learned \\ns[62].",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 242,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 217,
     "itypeId": 1,
@@ -4045,7 +5064,14 @@
       "variance": 20
     },
     "description": "A grimoire for learning \\ns[64].",
-    "effects": [{ "code": 44, "dataId": 243, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 243,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 216,
     "itypeId": 1,
@@ -4122,7 +5148,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "One of the easiest fish to catch in sea fishing. It has a comical face.",
+    "description": "One of the easiest fish to catch in sea fishing.\nIt has a comical face.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4148,7 +5174,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A delicious fish also known as Gashira. Be careful of the spines on its fins.",
+    "description": "A delicious fish also known as Gashira. Be careful\nof the spines on its fins.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4174,7 +5200,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A representative fish of the rockfish that can be caught relatively easily. It is delicious when\nsimmered.",
+    "description": "A representative fish of the rockfish that can be\ncaught relatively easily. It is delicious when\nsimmered.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4200,7 +5226,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish that lives in sandy areas, flat like a leaf. It is delicious when simmered or deep-fried.",
+    "description": "A fish that lives in sandy areas, flat like a\nleaf. It is delicious when simmered or deep-fried.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4226,7 +5252,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Also known as Chinu. The larger ones have a very strong pull. A fish popular with anglers.",
+    "description": "Also known as Chinu. The larger ones have a very\nstrong pull. A fish popular with anglers.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4252,7 +5278,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A celebratory fish, the wild ones are valuable and considered a high-class fish. Its light pink body\nis beautiful.",
+    "description": "A celebratory fish, the wild ones are valuable and\nconsidered a high-class fish. Its light pink body\nis beautiful.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4278,7 +5304,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish popular for shore fishing, characterized by its striped pattern. Its beak-like jaw can crush\neven the shells of shellfish.",
+    "description": "A fish popular for shore fishing, characterized by\nits striped pattern. Its beak-like jaw can crush\neven the shells of shellfish.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4304,7 +5330,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A large migratory fish that has a very strong pull. The fillets are used in dishes like buri daikon\nor teriyaki.",
+    "description": "A large migratory fish that has a very strong\npull. The fillets are used in dishes like buri\ndaikon or teriyaki.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4330,7 +5356,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A migratory fish that is rarely seen. Luck and power are needed to catch it.",
+    "description": "A migratory fish that is rarely seen. Luck and\npower are needed to catch it.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4382,7 +5408,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish popular among anglers. It seems that there are not many people who eat it.",
+    "description": "A fish popular among anglers. It seems that there\nare not many people who eat it.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4408,7 +5434,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A bonus-like fish in bass fishing. It inhabits ponds and lakes in large numbers.",
+    "description": "A bonus-like fish in bass fishing. It inhabits\nponds and lakes in large numbers.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4434,7 +5460,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Speaking of lure fishing, this fish is known for it. It's a concern for the native species because\nit eats anything that moves.",
+    "description": "Speaking of lure fishing, this fish is known for\nit. It's a concern for the native species because\nit eats anything that moves.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4460,7 +5486,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A large carnivorous fish characterized by its beard. The flesh is white and surprisingly tasty.",
+    "description": "A large carnivorous fish characterized by its\nbeard. The flesh is white and surprisingly tasty.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4512,7 +5538,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish with a beautifully streamlined body. It's delicious when grilled with salt.",
+    "description": "A fish with a beautifully streamlined body. It's\ndelicious when grilled with salt.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4538,7 +5564,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish with a beautiful rainbow-colored body, relatively easy to catch. Delicious when grilled with\nsalt.",
+    "description": "A fish with a beautiful rainbow-colored body,\nrelatively easy to catch. Delicious when grilled\nwith salt.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4564,7 +5590,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A relatively ferocious fish that lives in a beautiful river. It seems that it can even swallow\nsnakes whole.",
+    "description": "A relatively ferocious fish that lives in a\nbeautiful river. It seems that it can even swallow\nsnakes whole.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4590,7 +5616,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A fish that is very cautious and not easily caught. It is traded at a relatively high price.",
+    "description": "A fish that is very cautious and not easily\ncaught. It is traded at a relatively high price.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -4616,7 +5642,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A phantom fish that lives in the river. The chances of catching it are quite low.",
+    "description": "A phantom fish that lives in the river. The\nchances of catching it are quite low.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 244,
@@ -6619,7 +7645,14 @@
       "variance": 20
     },
     "description": "Test play item",
-    "effects": [{ "code": 44, "dataId": 213, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 213,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 92,
     "itypeId": 2,
@@ -6696,7 +7729,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A mysterious book that contains an item encyclopedia and help. *Please select the Adventure Log from\nthe menu options.",
+    "description": "A mysterious book that contains an item\nencyclopedia and help. *Please select the\nAdventure Log from the menu options.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 214,
@@ -6723,7 +7756,14 @@
       "variance": 20
     },
     "description": "A mysterious book that can move to the memory room",
-    "effects": [{ "code": 44, "dataId": 208, "value1": 1, "value2": 0 }],
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 208,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
     "hitType": 0,
     "iconIndex": 218,
     "itypeId": 2,
@@ -6748,7 +7788,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A large leather book cover that can be slung over the shoulder. Makes it possible to carry \\ii[252].",
+    "description": "A large leather book cover that can be slung over\nthe shoulder. Makes it possible to carry \\ii[252].",
     "effects": [],
     "hitType": 0,
     "iconIndex": 427,
@@ -6774,7 +7814,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A book written by a great magician. It is called the book of prophecy, and the black chapter is\nabout the void.",
+    "description": "A book written by a great magician. It is called\nthe book of prophecy, and the black chapter is\nabout the void.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 377,
@@ -6800,7 +7840,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Adventurer's Guild registration card. Valid at guilds throughout the land.",
+    "description": "Adventurer's Guild registration card. Valid at\nguilds throughout the land.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 360,
@@ -6878,7 +7918,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A membership card that allows you to shop at the dark store.",
+    "description": "A membership card that allows you to shop at the\ndark store.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 361,
@@ -6930,7 +7970,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A medicinal herb said to clear the head and even cure memory disorders.",
+    "description": "A medicinal herb said to clear the head and even\ncure memory disorders.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 441,
@@ -7060,7 +8100,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A mithril silver magical pickaxe. Even those with weak strength can mine easily.",
+    "description": "A mithril silver magical pickaxe. Even those with\nweak strength can mine easily.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 200,
@@ -7086,7 +8126,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A special fishing rod that can handle any fish, from small fry to big game.",
+    "description": "A special fishing rod that can handle any fish,\nfrom small fry to big game.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 426,
@@ -7190,7 +8230,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A key to an underground temple that can only be handled by \\N[12].",
+    "description": "A key to an underground temple that can only be\nhandled by \\N[12].",
     "effects": [],
     "hitType": 0,
     "iconIndex": 442,

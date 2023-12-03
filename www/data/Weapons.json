@@ -3,7 +3,7 @@
   {
     "id": 1,
     "animationId": 0,
-    "description": "A magical sword that can only be wielded by the chosen one, capable of dispelling the void.",
+    "description": "A magical sword that can only be wielded by the\nchosen one, capable of dispelling the void.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },

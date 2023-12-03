@@ -3023,7 +3023,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Nagisa\\se[6]: “Ah! I didn’t hear a thing. Stop\nscaring me…!”"
+                "Nagisa\\se[6]: “Ah! I didn’t hear a thing. Stop\nscaring me...!"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -3031,7 +3031,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "L56 – Boku\\se[2]: “I feel like I heard something\nthough…”"
+                "L56 – Boku\\se[2]: “I feel like I heard something\nthough..."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -3046,7 +3046,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "L57 – Boku\\se[2]: “What’s this place…? It’s so\ndark that I can’t see a thing…”"
+                "L57 – Boku\\se[2]: “What’s this place...? It’s so\ndark that I can’t see a thing..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3054,33 +3054,33 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "L58 – Boku\\se[4]: “It’s mysterious how we can’t\nsee even with the light!”"
+                "L58 – Boku\\se[4]: “It’s mysterious how we can’t\nsee even with the light!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["L59 – ???: “--… ----…”"]
+              "parameters": ["L59 – ???: “--... ----..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["L60 – Boku\\se[1]: “What’s that sound?”"]
+              "parameters": ["L60 – Boku\\se[1]: “What’s that sound?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["L61 – ???: “--…!! -----…”"]
+              "parameters": ["L61 – ???: “--...!! -----..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "L62 – Boku\\se[2]: “I feel like I heard something\nthough…”"
+                "L62 – Boku\\se[2]: “I feel like I heard something\nthough..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -3088,7 +3088,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "L63 – Boku\\se[0]: “It seems like it was just my\nimagination.”"
+                "L63 – Boku\\se[0]: “It seems like it was just my\nimagination."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },

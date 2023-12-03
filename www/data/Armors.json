@@ -5,7 +5,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -17,7 +23,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -29,7 +41,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -41,7 +59,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------Protagonist",
     "note": "<book:no>",
@@ -53,7 +77,13 @@
     "atypeId": 2,
     "description": "The sailor uniform of the young lady's academy.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 560,
     "name": "Sailor Uniform",
     "note": "入手場所----------\n初期装備\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[5]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Costumes> ",
@@ -66,8 +96,16 @@
     "description": "A pink, sexy bunny suit.",
     "etypeId": 3,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0.05 },
-      { "code": 54, "dataId": 4, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 54,
+        "dataId": 4,
+        "value": 1
+      }
     ],
     "iconIndex": 561,
     "name": "Bunny Suit [Pink]",
@@ -78,9 +116,15 @@
   {
     "id": 7,
     "atypeId": 13,
-    "description": "A set of white gym clothes and bloomers. They're very easy to move in.",
+    "description": "A set of white gym clothes and bloomers. They're\nvery easy to move in.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 0, "value": 0.05 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      }
+    ],
     "iconIndex": 562,
     "name": "Gym Clothes",
     "note": "入手場所----------\n訓練場\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[7]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Costumes> ",
@@ -90,9 +134,15 @@
   {
     "id": 8,
     "atypeId": 2,
-    "description": "The pom-poms are adorable, a full-of-energy cheerleader costume.",
+    "description": "The pom-poms are adorable, a full-of-energy\ncheerleader costume.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 9, "value": 0.01 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 9,
+        "value": 0.01
+      }
+    ],
     "iconIndex": 563,
     "name": "Cheerleader [Blue]",
     "note": "入手場所----------\n雑貨屋[プリエージュ]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[8]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Costumes> ",
@@ -104,7 +154,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -116,7 +172,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -128,7 +190,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -141,8 +209,16 @@
     "description": "A super tiny swimsuit with lots of stretch.",
     "etypeId": 3,
     "traits": [
-      { "code": 22, "dataId": 2, "value": 0.1 },
-      { "code": 54, "dataId": 4, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.1
+      },
+      {
+        "code": 54,
+        "dataId": 4,
+        "value": 1
+      }
     ],
     "iconIndex": 567,
     "name": "Micro Bikini",
@@ -155,7 +231,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -167,7 +249,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -179,7 +267,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------",
     "note": "<book:no>",
@@ -191,7 +285,13 @@
     "atypeId": 1,
     "description": "The young lady's academy beret.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 576,
     "name": "Sailor Beret",
     "note": "初期装備\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[16]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -203,7 +303,13 @@
     "atypeId": 1,
     "description": "Bunny suit hair accessory with rabbit ears.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 577,
     "name": "Bunny Ears Band [Pink]",
     "note": "入手場所----------\nプリエージュの酒場\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[17]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -215,7 +321,13 @@
     "atypeId": 12,
     "description": "A bright red ribbon headband. [Shareable]",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 578,
     "name": "Ribbon Headband",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[18]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -227,7 +339,13 @@
     "atypeId": 1,
     "description": "A pair of beast-ear hair clips, one for each side.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 579,
     "name": "Beast Ear Clips [Brown]",
     "note": "入手場所----------\n雑貨屋[プリエージュ]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[19]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -240,9 +358,21 @@
     "description": "A cross-shaped hairpin. [Shareable]",
     "etypeId": 2,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 13, "dataId": 4, "value": 0.7 },
-      { "code": 13, "dataId": 17, "value": 0.7 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 13,
+        "dataId": 17,
+        "value": 0.7
+      }
     ],
     "iconIndex": 580,
     "name": "Cross Hairpin",
@@ -253,9 +383,15 @@
   {
     "id": 21,
     "atypeId": 12,
-    "description": "A barrette adorned with a large rose and a ribbon. [Common]",
+    "description": "A barrette adorned with a large rose and a ribbon.\n[Common]",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 581,
     "name": "Rose Hairpin",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[18]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -267,7 +403,13 @@
     "atypeId": 12,
     "description": "A gothic lolita-style small silk hat. [Common]",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 582,
     "name": "Black Silk Hat",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[18]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -280,9 +422,21 @@
     "description": "The hat worn by the great magician\\N[40]. [Common]",
     "etypeId": 2,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 11, "dataId": 7, "value": 0.75 },
-      { "code": 22, "dataId": 8, "value": 0.01 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.75
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      }
     ],
     "iconIndex": 583,
     "name": "Stella Hat",
@@ -295,7 +449,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -307,7 +467,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -319,7 +485,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------",
     "note": "<book:no>",
@@ -331,7 +503,13 @@
     "atypeId": 3,
     "description": "Cotton panties with a red ribbon.",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 544,
     "name": "Cotton Panties [Red Ribbon]",
     "note": "初期装備\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[27]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -343,7 +521,13 @@
     "atypeId": 14,
     "description": "Stretchy light blue striped panties. [Shareable]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 545,
     "name": "Border Panties [Light Blue]",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[28]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -355,7 +539,13 @@
     "atypeId": 14,
     "description": "Stretchy pink striped panties. [Shareable]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 546,
     "name": "Border Panties [Pink]",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[29]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -365,9 +555,15 @@
   {
     "id": 30,
     "atypeId": 14,
-    "description": "A pair of neat panties adorned with a small ribbon and lace. [Shareable]",
+    "description": "A pair of neat panties adorned with a small ribbon\nand lace. [Shareable]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 547,
     "name": "Cotton Panties [With Lace]",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[30]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -379,7 +575,13 @@
     "atypeId": 14,
     "description": "Cute star-patterned panties. [Shareable]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 548,
     "name": "Cotton Panties [Star]",
     "note": "購入場所----------\n雑貨屋[プリエージュ、サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[31]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -391,7 +593,13 @@
     "atypeId": 14,
     "description": "Thin panties with a ribbon on the side. [Common]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 549,
     "name": "Side Ribbon Panties",
     "note": "購入場所----------\n雑貨屋[プリエージュ]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[31]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -403,7 +611,13 @@
     "atypeId": 14,
     "description": "Frilly pink panties. [Common]",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 550,
     "name": "Frilly Panties",
     "note": "購入場所----------\n雑貨屋[サンタンデイル]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[31]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -416,8 +630,16 @@
     "description": "Sexy thong that's thin around the butt. [Common]",
     "etypeId": 4,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 2, "value": 0.02 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      }
     ],
     "iconIndex": 551,
     "name": "T-back Panties",
@@ -430,7 +652,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -442,7 +670,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -454,7 +688,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "Liese's Equipment",
     "note": "<book:no>",
@@ -464,9 +704,15 @@
   {
     "id": 38,
     "atypeId": 5,
-    "description": "Clothes made to enhance the magical power of the Priestess of Light.",
+    "description": "Clothes made to enhance the magical power of the\nPriestess of Light.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 568,
     "name": "Magical Dress",
     "note": "初期装備\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[38]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Costumes> ",
@@ -479,8 +725,16 @@
     "description": "A light blue sexy bunny suit.",
     "etypeId": 3,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0.05 },
-      { "code": 54, "dataId": 4, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 54,
+        "dataId": 4,
+        "value": 1
+      }
     ],
     "iconIndex": 569,
     "name": "Bunny Suit [Light Blue]",
@@ -491,9 +745,15 @@
   {
     "id": 40,
     "atypeId": 5,
-    "description": "The pom-poms are adorable, a full-of-energy cheerleader costume.",
+    "description": "The pom-poms are adorable, a full-of-energy\ncheerleader costume.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 9, "value": 0.01 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 9,
+        "value": 0.01
+      }
+    ],
     "iconIndex": 570,
     "name": "Cheerleader [Pink]",
     "note": "入手場所----------\n雑貨屋[プリエージュ]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[40]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Costumes> ",
@@ -503,9 +763,15 @@
   {
     "id": 41,
     "atypeId": 5,
-    "description": "A sailor uniform from the young ladies' academy. (For Liese)",
+    "description": "A sailor uniform from the young ladies' academy.\n(For Liese)",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 571,
     "name": "Sailor Uniform",
     "note": "<book:no>\n入手場所----------\n２週目\n",
@@ -517,7 +783,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -529,7 +801,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -541,7 +819,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------",
     "note": "<book:no>",
@@ -553,7 +837,13 @@
     "atypeId": 4,
     "description": "Bunny suit hair accessory with rabbit ears.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 584,
     "name": "Bunny Ear Band [Light Blue]",
     "note": "入手場所----------\nプリエージュの酒場\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[45]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -565,7 +855,13 @@
     "atypeId": 4,
     "description": "A pair of beast-ear hair clips, one for each side.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 585,
     "name": "Beast Ear Clip [Purple]",
     "note": "入手場所----------\n雑貨屋[プリエージュ]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[46]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Hair Accessories> ",
@@ -578,8 +874,16 @@
     "description": "A metal hairpin adorned with cherry blossoms.",
     "etypeId": 2,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 8, "value": 0.01 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      }
     ],
     "iconIndex": 586,
     "name": "Sakura Hairpin",
@@ -592,7 +896,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -604,7 +914,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -616,7 +932,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -628,7 +950,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------",
     "note": "<book:no>",
@@ -640,7 +968,13 @@
     "atypeId": 6,
     "description": "A pair of slightly slim cotton panties.",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 552,
     "name": "Cotton Panties [Slim]",
     "note": "初期装備\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[52]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Panties> ",
@@ -652,7 +986,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -664,7 +1004,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -676,7 +1022,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -688,7 +1040,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -700,7 +1058,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -712,7 +1076,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -724,7 +1094,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -736,7 +1112,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -748,7 +1130,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -760,7 +1148,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -772,7 +1166,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -784,7 +1184,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -796,7 +1202,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -808,7 +1220,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -820,7 +1238,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -832,7 +1256,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -844,7 +1274,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -856,7 +1292,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -868,7 +1310,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -880,7 +1328,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -892,7 +1346,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -904,7 +1364,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -916,7 +1382,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -928,7 +1400,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -940,7 +1418,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -952,7 +1436,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -964,7 +1454,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -976,7 +1472,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -988,7 +1490,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "---------- Ring",
     "note": "<book:no>",
@@ -998,9 +1506,15 @@
   {
     "id": 82,
     "atypeId": 8,
-    "description": "A magical ring that boosts magical power and reduces MP consumption.",
+    "description": "A magical ring that boosts magical power and\nreduces MP consumption.",
     "etypeId": 5,
-    "traits": [{ "code": 23, "dataId": 4, "value": 0.75 }],
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.75
+      }
+    ],
     "iconIndex": 145,
     "name": "Ring of Magical Power",
     "note": "入手場所----------\n遊歩道Ｂ、\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[82]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ring> ",
@@ -1010,11 +1524,19 @@
   {
     "id": 83,
     "atypeId": 8,
-    "description": "A magical ring that protects against poison states.",
+    "description": "A magical ring that protects against poison\nstates.",
     "etypeId": 5,
     "traits": [
-      { "code": 14, "dataId": 4, "value": 1 },
-      { "code": 14, "dataId": 17, "value": 1 }
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 17,
+        "value": 1
+      }
     ],
     "iconIndex": 145,
     "name": "Ring of Verdant Glow",
@@ -1027,7 +1549,13 @@
     "atypeId": 8,
     "description": "A black cat ring that increases luck.",
     "etypeId": 5,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 428,
     "name": "Black Cat Ring",
     "note": "購入場所----------\nルエンテ、プリエージュ、サンタンデイル\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[84]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: \\DATA[price]>\n<SGカテゴリ:Ring> ",
@@ -1037,9 +1565,15 @@
   {
     "id": 85,
     "atypeId": 8,
-    "description": "A ring of misfortune that reduces resistance values to 1 at the start of battle.",
+    "description": "A ring of misfortune that reduces resistance\nvalues to 1 at the start of battle.",
     "etypeId": 5,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 429,
     "name": "Skeleton Ring",
     "note": "購入場所----------\nルエンテ、プリエージュ、サンタンデイル\n入手場所----------\n青の神殿Ｂ、\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[85]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: \\DATA[price]>\n<SGカテゴリ:Ring> ",
@@ -1051,7 +1585,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1063,7 +1603,13 @@
     "atypeId": 8,
     "description": "A mysterious ring that boosts stamina.",
     "etypeId": 5,
-    "traits": [{ "code": 21, "dataId": 0, "value": 1.2 }],
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 1.2
+      }
+    ],
     "iconIndex": 145,
     "name": "Vital Ring",
     "note": "入手場所----------\nサンタンデイルの神殿長、\n\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[87]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ring> ",
@@ -1073,9 +1619,15 @@
   {
     "id": 88,
     "atypeId": 8,
-    "description": "A magical ring that has a 30% chance to counterattack when taking damage.",
+    "description": "A magical ring that has a 30% chance to\ncounterattack when taking damage.",
     "etypeId": 5,
-    "traits": [{ "code": 22, "dataId": 6, "value": 0.3 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 0.3
+      }
+    ],
     "iconIndex": 398,
     "name": "Ring of Counterattack",
     "note": "<CE_反撃スキルID:12>\n<CE_クロスカウンター>\n入手場所----------\nヴェナデ地下道、\n\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[88]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ring> ",
@@ -1085,9 +1637,15 @@
   {
     "id": 89,
     "atypeId": 8,
-    "description": "A magical ring that surprisingly boosts attack power.",
+    "description": "A magical ring that surprisingly boosts attack\npower.",
     "etypeId": 5,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 397,
     "name": "Ring of Destruction",
     "note": "入手場所----------\nミノタウロス\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[89]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ring> ",
@@ -1099,7 +1657,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1111,7 +1675,13 @@
     "atypeId": 8,
     "description": "An antique ring adorned with a golden star.",
     "etypeId": 5,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 430,
     "name": "Ring of Stars",
     "note": "入手場所----------\n氷の洞窟のアイスマン\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[91]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ring> ",
@@ -1124,10 +1694,26 @@
     "description": "A magical ring created by the Fairy King.",
     "etypeId": 5,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 13, "dataId": 10, "value": 0 },
-      { "code": 14, "dataId": 10, "value": 1 },
-      { "code": 22, "dataId": 8, "value": 0.01 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      }
     ],
     "iconIndex": 145,
     "name": "Fairy Ring",
@@ -1140,7 +1726,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1152,7 +1744,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1162,21 +1760,69 @@
   {
     "id": 95,
     "atypeId": 8,
-    "description": "A holy ring blessed by an angel. It protects against many status abnormalities.",
+    "description": "A holy ring blessed by an angel. It protects\nagainst many status abnormalities.",
     "etypeId": 5,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 14, "dataId": 4, "value": 1 },
-      { "code": 14, "dataId": 17, "value": 1 },
-      { "code": 14, "dataId": 5, "value": 1 },
-      { "code": 14, "dataId": 6, "value": 1 },
-      { "code": 14, "dataId": 7, "value": 1 },
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 10, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 13, "value": 1 },
-      { "code": 14, "dataId": 15, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 17,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 13,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 15,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      }
     ],
     "iconIndex": 145,
     "name": "Angel's Ring",
@@ -1189,7 +1835,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1201,7 +1853,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1213,7 +1871,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1225,7 +1889,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1237,7 +1907,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "---------- Accessory",
     "note": "<book:no>",
@@ -1249,7 +1925,13 @@
     "atypeId": 8,
     "description": "A simple copper bracelet adorned with decorations.",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": -0.01 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.01
+      }
+    ],
     "iconIndex": 378,
     "name": "Copper Bracelet",
     "note": "購入場所----------\nルエンテ、プリエージュ、ヴェナデ、\n\n入手場所----------\n遊歩道Ｃ、\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[101]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: \\DATA[price]>\n<SGカテゴリ:Ornament> ",
@@ -1261,7 +1943,13 @@
     "atypeId": 8,
     "description": "A simple iron bracelet adorned with decorations.",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": -0.01 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.01
+      }
+    ],
     "iconIndex": 407,
     "name": "Iron Bracelet",
     "note": "購入場所----------\nプリエージュ、サンタンデイル\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[102]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: \\DATA[price]>\n<SGカテゴリ:Ornament> ",
@@ -1274,8 +1962,16 @@
     "description": "A mysterious earring that enhances magical power.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 13, "dataId": 5, "value": 0.5 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.5
+      }
     ],
     "iconIndex": 392,
     "name": "Magical Earrings",
@@ -1286,11 +1982,19 @@
   {
     "id": 104,
     "atypeId": 8,
-    "description": "A mysterious pair of earrings that make you feel better.",
+    "description": "A mysterious pair of earrings that make you feel\nbetter.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 2, "value": 0.03 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      }
     ],
     "iconIndex": 155,
     "name": "Lucky Earrings",
@@ -1304,9 +2008,21 @@
     "description": "A necklace made from a rare seashell.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 14, "dataId": 7, "value": 1 },
-      { "code": 14, "dataId": 15, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 15,
+        "value": 1
+      }
     ],
     "iconIndex": 146,
     "name": "Shell Necklace",
@@ -1319,7 +2035,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1329,11 +2051,19 @@
   {
     "id": 107,
     "atypeId": 8,
-    "description": "A transparent raincoat that nullifies bukkake-style attacks.",
+    "description": "A transparent raincoat that nullifies bukkake-\nstyle attacks.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": -0.05 },
-      { "code": 11, "dataId": 5, "value": 0.75 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.05
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.75
+      }
     ],
     "iconIndex": 375,
     "name": "Raincoat",
@@ -1347,9 +2077,21 @@
     "description": "A beautiful brooch inlaid with pink coral.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 14, "dataId": 6, "value": 1 },
-      { "code": 14, "dataId": 13, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 13,
+        "value": 1
+      }
     ],
     "iconIndex": 300,
     "name": "Coral Brooch",
@@ -1360,9 +2102,15 @@
   {
     "id": 109,
     "atypeId": 8,
-    "description": "Leather gloves with iron plates embedded in the knuckle area.",
+    "description": "Leather gloves with iron plates embedded in the\nknuckle area.",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 0, "value": 0.1 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
     "iconIndex": 142,
     "name": "Power Glove",
     "note": "入手場所----------\nクレンペル山道Ｂ\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[109]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ornament> ",
@@ -1372,11 +2120,19 @@
   {
     "id": 110,
     "atypeId": 8,
-    "description": "A bracelet that wards off curses using black crystals.",
+    "description": "A bracelet that wards off curses using black\ncrystals.",
     "etypeId": 6,
     "traits": [
-      { "code": 13, "dataId": 37, "value": 0 },
-      { "code": 14, "dataId": 37, "value": 1 }
+      {
+        "code": 13,
+        "dataId": 37,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 37,
+        "value": 1
+      }
     ],
     "iconIndex": 408,
     "name": "Jet-Black Bracelet",
@@ -1390,8 +2146,16 @@
     "description": "A golden bell with a red ribbon.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 23, "dataId": 4, "value": 0.5 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      }
     ],
     "iconIndex": 189,
     "name": "Cat Bell",
@@ -1404,7 +2168,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1416,7 +2186,13 @@
     "atypeId": 8,
     "description": "A badge imbued with the soul of a beast.",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 444,
     "name": "Beast Badge",
     "note": "入手場所----------\nケモノランド[案件後]\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[113]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ornament> ",
@@ -1428,7 +2204,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1441,8 +2223,16 @@
     "description": "A palm-sized small horn.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 7, "value": 0.03 },
-      { "code": 23, "dataId": 2, "value": 1.05 }
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
     ],
     "iconIndex": 187,
     "name": "Unicorn Horn Flute",
@@ -1453,13 +2243,29 @@
   {
     "id": 116,
     "atypeId": 8,
-    "description": "A magical feather robe that protects against poison, deadly toxins, and even blocks enemy's\nejaculate.",
+    "description": "A magical feather robe that protects against\npoison, deadly toxins, and even blocks enemy's\nejaculate.",
     "etypeId": 6,
     "traits": [
-      { "code": 13, "dataId": 4, "value": 0 },
-      { "code": 13, "dataId": 17, "value": 0 },
-      { "code": 23, "dataId": 8, "value": 0 },
-      { "code": 11, "dataId": 2, "value": 0.75 }
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 17,
+        "value": 0
+      },
+      {
+        "code": 23,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.75
+      }
     ],
     "iconIndex": 376,
     "name": "Water Robe",
@@ -1473,10 +2279,26 @@
     "description": "A crescent-shaped magical pin badge.",
     "etypeId": 6,
     "traits": [
-      { "code": 13, "dataId": 23, "value": 1 },
-      { "code": 14, "dataId": 23, "value": 1 },
-      { "code": 13, "dataId": 24, "value": 1 },
-      { "code": 14, "dataId": 24, "value": 1 }
+      {
+        "code": 13,
+        "dataId": 23,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 23,
+        "value": 1
+      },
+      {
+        "code": 13,
+        "dataId": 24,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 24,
+        "value": 1
+      }
     ],
     "iconIndex": 410,
     "name": "Petra the Moon",
@@ -1490,8 +2312,16 @@
     "description": "A mysterious harp that enhances combat power.",
     "etypeId": 6,
     "traits": [
-      { "code": 22, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 9, "value": 0.02 }
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 9,
+        "value": 0.02
+      }
     ],
     "iconIndex": 183,
     "name": "Valkyrie's Harp",
@@ -1502,9 +2332,15 @@
   {
     "id": 119,
     "atypeId": 8,
-    "description": "A rosary imbued with the soul and prayers of an ancient saint.",
+    "description": "A rosary imbued with the soul and prayers of an\nancient saint.",
     "etypeId": 6,
-    "traits": [{ "code": 13, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 409,
     "name": "Rosary of Mysteries",
     "note": "入手場所----------\n混沌の淵Ｃ、\n\n■以下、「SceneGlossary」設定\n<SG説明:\\ia[117]\n-------------------------------------------------------------\n\\DATA[description]\nPrice: ―>\n<SGカテゴリ:Ornament> ",
@@ -1516,7 +2352,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1528,7 +2370,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 6,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1538,7 +2386,7 @@
   {
     "id": 122,
     "atypeId": 8,
-    "description": "A golden brooch bestowed upon the valiant. All stats +10.",
+    "description": "A golden brooch bestowed upon the valiant. All\nstats +10.",
     "etypeId": 6,
     "traits": [],
     "iconIndex": 148,
@@ -1552,7 +2400,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1564,7 +2418,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1576,7 +2436,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1588,7 +2454,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1600,7 +2472,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1612,7 +2490,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1624,7 +2508,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1636,7 +2526,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1648,7 +2544,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1660,7 +2562,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1672,7 +2580,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1684,7 +2598,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1696,7 +2616,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1708,7 +2634,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1720,7 +2652,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1732,7 +2670,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1744,7 +2688,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1756,7 +2706,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1768,7 +2724,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1780,7 +2742,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1792,7 +2760,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1804,7 +2778,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1816,7 +2796,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1828,7 +2814,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1840,7 +2832,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1852,7 +2850,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1864,7 +2868,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1876,7 +2886,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1888,7 +2904,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "----------",
     "note": "<book:no>",
@@ -1900,7 +2922,13 @@
     "atypeId": 10,
     "description": "For the use of the Three Generals",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "[Enemy 1] Costume",
     "note": "<book:no>",
@@ -1912,7 +2940,13 @@
     "atypeId": 10,
     "description": "For the use of the three generals.",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "[Enemy 1] Hair Accessory",
     "note": "<book:no>",
@@ -1924,7 +2958,13 @@
     "atypeId": 10,
     "description": "For the use of the Three Generals",
     "etypeId": 4,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "[Enemy 1] Panties",
     "note": "<book:no>",
@@ -1936,7 +2976,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1948,7 +2994,13 @@
     "atypeId": 10,
     "description": "For the use of the Three Generals.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "[Enemy 2] Costume",
     "note": "<book:no>",
@@ -1960,7 +3012,13 @@
     "atypeId": 10,
     "description": "For the use of the Three Generals.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "[Enemy 2] Stripped Panties",
     "note": "<book:no>",
@@ -1972,7 +3030,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1984,7 +3048,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -1996,7 +3066,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2008,7 +3084,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2020,7 +3102,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2032,7 +3120,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2044,7 +3138,13 @@
     "atypeId": 10,
     "description": "For Amakane.",
     "etypeId": 3,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "Amakane Costume",
     "note": "<book:no>",
@@ -2056,7 +3156,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2068,7 +3174,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2080,7 +3192,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2092,7 +3210,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2104,7 +3228,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2116,7 +3246,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2128,7 +3264,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2140,7 +3282,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2152,7 +3300,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2164,7 +3318,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2176,7 +3336,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2188,7 +3354,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2200,7 +3372,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2212,7 +3390,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2224,7 +3408,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2236,7 +3426,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2248,7 +3444,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2260,7 +3462,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2272,7 +3480,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2284,7 +3498,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2296,7 +3516,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2308,7 +3534,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2320,7 +3552,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2332,7 +3570,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2344,7 +3588,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2356,7 +3606,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2368,7 +3624,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2380,7 +3642,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2392,7 +3660,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2404,7 +3678,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2416,7 +3696,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2428,7 +3714,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2440,7 +3732,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2452,7 +3750,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2464,7 +3768,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
@@ -2476,7 +3786,13 @@
     "atypeId": 0,
     "description": "",
     "etypeId": 2,
-    "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
     "iconIndex": 0,
     "name": "",
     "note": "",
