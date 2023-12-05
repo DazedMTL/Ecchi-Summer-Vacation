@@ -620,7 +620,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:雑貨屋>"] },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["<namePop:General_Store>"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

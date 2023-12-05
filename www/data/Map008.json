@@ -776,7 +776,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ショウコ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Shoko>"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 4] },
             { "code": 117, "indent": 0, "parameters": [30] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -821,7 +821,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ショウコ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Shoko>"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 4] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -865,7 +865,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ショウコ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Shoko>"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -959,7 +959,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ショウコ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Shoko>"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

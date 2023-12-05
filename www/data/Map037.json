@@ -2305,7 +2305,11 @@
             "characterIndex": 7
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:野球拳>"] },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["<namePop:Strip_Rock-Paper-Scissors>"]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -2829,7 +2833,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["<namePop:パンツを見る>"]
+              "parameters": ["<namePop:Look_at_the_panties>"]
             },
             {
               "code": 108,

@@ -1469,7 +1469,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:保健室>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Infirmary>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1521,7 +1521,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:教室>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Classroom>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1573,7 +1573,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:教室>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Classroom>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

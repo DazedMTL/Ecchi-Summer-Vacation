@@ -1206,7 +1206,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:コンビニ>"] },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["<namePop:Convenience_Store>"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1317,7 +1321,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ミヤビ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Miyabi>"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 3] },
             { "code": 117, "indent": 0, "parameters": [30] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1402,7 +1406,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ミヤビ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Miyabi>"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 3] },
             { "code": 117, "indent": 0, "parameters": [30] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1447,7 +1451,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ミヤビ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Miyabi>"] },
             { "code": 122, "indent": 0, "parameters": [3, 3, 0, 0, 3] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1491,7 +1495,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ミヤビ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Miyabi>"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 41] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1583,7 +1587,7 @@
             "characterIndex": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ミヤビ>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Miyabi>"] },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 41] },
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1849,7 +1853,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:雑居ビル>"] },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["<namePop:Mixed-use_Building>"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

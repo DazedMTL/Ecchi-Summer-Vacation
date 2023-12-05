@@ -3627,7 +3627,7 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:自宅>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Home>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3679,7 +3679,11 @@
             "tileId": 0
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:ユイの家>"] },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": ["<namePop:Yui's_House>"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -3734,7 +3738,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["<namePop:タケルの家>"]
+              "parameters": ["<namePop:Takeru's_House>"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8134,7 +8138,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["<namePop:アカネの家>"]
+              "parameters": ["<namePop:Akane's_House>"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -8187,7 +8191,7 @@
             "characterIndex": 1
           },
           "list": [
-            { "code": 108, "indent": 0, "parameters": ["<namePop:解散>"] },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Disband>"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,

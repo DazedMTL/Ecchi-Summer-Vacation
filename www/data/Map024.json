@@ -156,7 +156,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": ["<namePop:デバッグ用所持金増加>"]
+              "parameters": ["<namePop:Debug_Use_Money_Increase>"]
             },
             { "code": 125, "indent": 0, "parameters": [0, 0, 9999999] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1095,11 +1095,7 @@
             "tileId": 0
           },
           "list": [
-            {
-              "code": 108,
-              "indent": 0,
-              "parameters": ["<namePop:カードショップ>"]
-            },
+            { "code": 108, "indent": 0, "parameters": ["<namePop:Card_Shop>"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
