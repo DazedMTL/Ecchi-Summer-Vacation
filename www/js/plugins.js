@@ -170,21 +170,21 @@ var $plugins = [
       "Menu Info Log Name": "",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
       "Get Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[24]手に入れた！",
+        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 \\C[24]Obtained!",
       "Lost Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[2]失った・・・",
+        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 \\C[2]Lost...",
       "Get Item Text":
-        "「\\I[_icon]_name」 を\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」 \\C[24]Obtained!\\n\\C[6]_desc1",
       "Lost Item Text":
-        "「\\I[_icon]_name」 を\\C[2]失った・・・\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」 \\C[2]Lost...\\n\\C[6]_desc1",
       "Get Item Text Num":
-        "「\\I[_icon]_name」 を\\C[14]_num個\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」 \\C[14]_num \\C[24]Obtained!\\n\\C[6]_desc1",
       "Lost Item Text Num":
-        "「\\I[_icon]_name」を\\C[14]_num個\\C[2]失った・・・\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」\\C[14]_num \\C[2]Lost...\\n\\C[6]_desc1",
       "Get Skill Text":
-        "_actorは「\\I[_icon]_name」 を\\C[24]覚えた！\\n\\C[6]_desc1",
+        "_actorは「\\I[_icon]_name」 \\C[24]Learned!\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」を \\C[2]忘れてしまった・・・\\n\\C[6]_desc1",
+        "_actorは「\\I[_icon]_name」\\C[2]Forgotten...\\n\\C[6]_desc1",
       "Exp Up Text":
         "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
       "Exp Down Text":

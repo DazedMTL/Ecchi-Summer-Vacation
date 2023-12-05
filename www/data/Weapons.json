@@ -2,164 +2,66 @@
   null,
   {
     "id": 1,
-    "animationId": 0,
-    "description": "A magical sword that can only be wielded by the\nchosen one, capable of dispelling the void.",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 31, "dataId": 6, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 528,
-    "name": "Prism Sword",
-    "note": "<skill_id:10>\n<atk_variables:231>\n<def_variables:232>\n<mat_variables:233>\n<mdf_variables:234>\n<agi_variables:235>\n<luk_variables:236>\n■以下、「SceneGlossary」設定\n<SG説明:\\iw[1]\n-------------------------------------------------------------\n\\DATA[description]\n価格：―>\n<SGカテゴリ:Weapon> ",
-    "params": [0, 0, 12, 0, 6, 10, 0, 0],
-    "price": 0,
-    "wtypeId": 1
-  },
-  {
-    "id": 2,
-    "animationId": 0,
+    "animationId": 6,
     "description": "",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
-    "iconIndex": 0,
-    "name": "",
+    "iconIndex": 97,
+    "name": "Sword",
     "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
-  },
-  {
-    "id": 3,
-    "animationId": 0,
-    "description": "",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
-  },
-  {
-    "id": 4,
-    "animationId": 0,
-    "description": "",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
-  },
-  {
-    "id": 5,
-    "animationId": 0,
-    "description": "A magical staff for the Priestess of Light.",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 31, "dataId": 6, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 529,
-    "name": "Prism Rod",
-    "note": "<skill_id:11>\n<atk_variables:237>\n<def_variables:238>\n<mat_variables:239>\n<mdf_variables:240>\n<agi_variables:241>\n<luk_variables:242>\n■以下、「SceneGlossary」設定\n<SG説明:\\iw[5]\n-------------------------------------------------------------\n\\DATA[description]\n価格：―>\n<SGカテゴリ:Weapon> ",
-    "params": [0, 0, 6, 0, 10, 8, 0, 0],
-    "price": 0,
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
     "wtypeId": 2
   },
   {
-    "id": 6,
-    "animationId": 0,
+    "id": 2,
+    "animationId": 6,
     "description": "",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
-    "iconIndex": 0,
-    "name": "",
+    "iconIndex": 99,
+    "name": "Axe",
     "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 4
   },
   {
-    "id": 7,
-    "animationId": 0,
+    "id": 3,
+    "animationId": 1,
     "description": "",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
-    "iconIndex": 0,
-    "name": "",
+    "iconIndex": 101,
+    "name": "Staff",
     "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 6
   },
   {
-    "id": 8,
-    "animationId": 0,
+    "id": 4,
+    "animationId": 11,
     "description": "",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
-    "iconIndex": 0,
-    "name": "",
+    "iconIndex": 102,
+    "name": "Bow",
     "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
-  },
-  {
-    "id": 9,
-    "animationId": 0,
-    "description": "",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
-  },
-  {
-    "id": 10,
-    "animationId": 0,
-    "description": "",
-    "etypeId": 1,
-    "traits": [
-      { "code": 31, "dataId": 1, "value": 0 },
-      { "code": 22, "dataId": 0, "value": 0 }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [0, 0, 0, 0, 0, 0, 0, 0],
-    "price": 0,
-    "wtypeId": 0
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 7
   }
 ]
