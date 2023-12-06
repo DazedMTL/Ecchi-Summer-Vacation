@@ -1323,7 +1323,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Yuki's \\v[59] has increased! (Current Yuki \\v[58])"]
+        "parameters": ["Yuki's affection level has increased by \\v[59]\n(Current Affection \\v[58])"]
       },
       { "code": 111, "indent": 0, "parameters": [1, 58, 0, 30, 1] },
       {
