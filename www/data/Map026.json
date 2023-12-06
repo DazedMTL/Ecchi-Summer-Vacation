@@ -780,7 +780,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (She seems troubled, maybe I should offer to\nhelp?)"
+                "Frank: (She seems troubled, maybe I should offer to\nhelp?)"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -809,7 +809,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Clerk: \"You're going to help out, Boku-kun!?\nThat's a relief!\""
+                "Clerk: \"You're going to help out, Frank-kun!?\nThat's a relief!\""
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -833,7 +833,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku worked hard to help out."]
+              "parameters": ["Frank worked hard to help out."]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -864,7 +864,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -1267,7 +1267,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"This is the girls' changing room!\""]
+              "parameters": ["Frank: \"This is the girls' changing room!\""]
             },
             {
               "code": 205,
@@ -1359,7 +1359,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Baseball...? The sport with a bat, ball,\nand glove...?\""
+                "Frank: \"Baseball...? The sport with a bat, ball,\nand glove...?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1382,7 +1382,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"C-clothes off...!?\""]
+              "parameters": ["Frank: \"C-clothes off...!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1396,7 +1396,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"N-naked...\""]
+              "parameters": ["Frank: \"N-naked...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1411,7 +1411,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (I guess no one would want to play that kind\nof game...)"
+                "Frank: (I guess no one would want to play that kind\nof game...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1419,7 +1419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (But there's a game called 'Strip Rock-\nPaper-Scissors'...)"
+                "Frank: (But there's a game called 'Strip Rock-\nPaper-Scissors'...)"
               ]
             },
             {
@@ -1433,7 +1433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku learned about 'Strip Rock-Paper-Scissors'"]
+              "parameters": ["Frank learned about 'Strip Rock-Paper-Scissors'"]
             },
             { "code": 121, "indent": 0, "parameters": [151, 151, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

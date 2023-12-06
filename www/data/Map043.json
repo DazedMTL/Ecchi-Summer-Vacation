@@ -724,19 +724,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (It's Miyabi-chan... surrounded by girls.)"]
+              "parameters": ["Frank: (It's Miyabi-chan... surrounded by girls.)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Miyabi\\se[0]: \"Ah, if it isn't Boku-chan♪\""]
+              "parameters": ["Miyabi\\se[0]: \"Ah, if it isn't Frank-chan♪\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (She noticed me...!)"]
+              "parameters": ["Frank: (She noticed me...!)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -756,13 +756,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Miyabi: \"Hey there, Boku-chan, doing well?\""]
+              "parameters": ["Miyabi: \"Hey there, Frank-chan, doing well?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Yeah! Who were those people just now?\""]
+              "parameters": ["Frank: \"Yeah! Who were those people just now?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -776,7 +776,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Little angel...?\""]
+              "parameters": ["Frank: \"Little angel...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -795,7 +795,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["Boku: \"I see...!\""] },
+            { "code": 401, "indent": 0, "parameters": ["Frank: \"I see...!\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -817,7 +817,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Miyabi\\se[0]: \"Boku-chan, you should also aim to\nbe a man who can live up to expectations♪\""
+                "Miyabi\\se[0]: \"Frank-chan, you should also aim to\nbe a man who can live up to expectations♪\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -825,7 +825,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Live up to expectations... Yeah, I'll try\nmy best!\""
+                "Frank: \"Live up to expectations... Yeah, I'll try\nmy best!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1227,7 +1227,7 @@
             },
             { "code": 230, "indent": 0, "parameters": [15] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Boku: \"Wah!?\""] },
+            { "code": 401, "indent": 0, "parameters": ["Frank: \"Wah!?\""] },
             {
               "code": 205,
               "indent": 0,
@@ -1574,7 +1574,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"I-I was surprised...\""]
+              "parameters": ["Frank: \"I-I was surprised...\""]
             },
             { "code": 122, "indent": 0, "parameters": [59, 59, 0, 2, 1, 2] },
             { "code": 117, "indent": 0, "parameters": [17] },
@@ -1634,7 +1634,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (I should keep my distance...)"]
+              "parameters": ["Frank: (I should keep my distance...)"]
             },
             {
               "code": 205,
@@ -1711,14 +1711,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"The dog from this house... It always chases\nafter me and it's scary...\""
+                "Frank: \"The dog from this house... It always chases\nafter me and it's scary...\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"I should stay away from it.\""]
+              "parameters": ["Frank: \"I should stay away from it.\""]
             },
             {
               "code": 205,

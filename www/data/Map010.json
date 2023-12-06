@@ -1121,7 +1121,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku\\se[3]: \"This is the girls' bathroom...!\""]
+              "parameters": ["Frank\\se[3]: \"This is the girls' bathroom...!\""]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -1397,7 +1397,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Girl: \"Oh, Boku-kun, you're here for supplementary\nlessons too? No, that can't be right...\""
+                "Girl: \"Oh, Frank-kun, you're here for supplementary\nlessons too? No, that can't be right...\""
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

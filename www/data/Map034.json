@@ -229,7 +229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (She seems to be in trouble, maybe I should\noffer to help?)"
+                "Frank: (She seems to be in trouble, maybe I should\noffer to help?)"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -268,7 +268,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku worked hard to help."]
+              "parameters": ["Frank worked hard to help."]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -276,7 +276,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Woman: \"Thank you, Boku-kun, you've been a big\nhelp. Here's some pocket money for you.\""
+                "Woman: \"Thank you, Frank-kun, you've been a big\nhelp. Here's some pocket money for you.\""
               ]
             },
             { "code": 122, "indent": 1, "parameters": [47, 47, 0, 2, 65, 90] },
@@ -299,7 +299,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },

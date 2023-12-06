@@ -809,7 +809,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[6]: \"Yeah, that's right...\""]
+              "parameters": ["Frank\\se[6]: \"Yeah, that's right...\""]
             },
             {
               "code": 250,
@@ -880,14 +880,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[0]: (My dream for the future, huh... I...)"
+                "Frank\\se[0]: (My dream for the future, huh... I...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (...might not really know yet.)"]
+              "parameters": ["Frank: (...might not really know yet.)"]
             },
             {
               "code": 250,
@@ -910,7 +910,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (Takeru-kun wants to be a soccer player,\nhuh. He does go to soccer club after all.)"
+                "Frank: (Takeru-kun wants to be a soccer player,\nhuh. He does go to soccer club after all.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -931,7 +931,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"Yes ma'am!\""]
+              "parameters": ["Frank\\se[4]: \"Yes ma'am!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },

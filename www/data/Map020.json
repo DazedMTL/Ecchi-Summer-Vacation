@@ -852,7 +852,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yui: \"Ah, Boku-kun, you're with someone else,\naren't you?\""
+                "Yui: \"Ah, Frank-kun, you're with someone else,\naren't you?\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1190,7 +1190,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },

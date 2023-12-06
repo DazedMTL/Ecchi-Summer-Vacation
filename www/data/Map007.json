@@ -385,13 +385,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Riri\\se[4]: \"Ah-! It's Boku!\""]
+              "parameters": ["Riri\\se[4]: \"Ah-! It's Frank!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"Ah...!?\""]
+              "parameters": ["Frank\\se[3]: \"Ah...!?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 122, "indent": 0, "parameters": [43, 43, 0, 0, 6] },
@@ -405,7 +405,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[3]: (To think I'd run into Riri-chan...\nShe's always playing pranks on me.)"
+                "Frank\\se[3]: (To think I'd run into Riri-chan...\nShe's always playing pranks on me.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -413,7 +413,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[2]: (I wonder what she's going to do to me\nthis time...)"
+                "Frank\\se[2]: (I wonder what she's going to do to me\nthis time...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -446,7 +446,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"Lala-chan too...!?\""]
+              "parameters": ["Frank\\se[3]: \"Lala-chan too...!?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 122, "indent": 0, "parameters": [43, 43, 0, 0, 7] },
@@ -462,7 +462,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[3]: (Ugh, when these twins are together,\nthere's no escaping...)"
+                "Frank\\se[3]: (Ugh, when these twins are together,\nthere's no escaping...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -470,7 +470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lala\\se[3]: \"Boku-kun is just a toy. I wonder how\nwe should play with him today.\""
+                "Lala\\se[3]: \"Frank-kun is just a toy. I wonder how\nwe should play with him today.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -517,14 +517,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[1]: \"...\""]
+              "parameters": ["Frank\\se[1]: \"...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (If I'm going to escape, now's my chance...)"
+                "Frank: (If I'm going to escape, now's my chance...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -532,7 +532,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[3]: \"So, then I'll be taking my leave...\""
+                "Frank\\se[3]: \"So, then I'll be taking my leave...\""
               ]
             },
             {
@@ -545,7 +545,7 @@
             {
               "code": 356,
               "indent": 0,
-              "parameters": ["skit slideOut boku t"]
+              "parameters": ["skit slideOut Frank t"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1286,7 +1286,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku\\se[3]: \"This is the ladies' restroom...!\""
+                "Frank\\se[3]: \"This is the ladies' restroom...!\""
               ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -1436,7 +1436,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Rara: \"Ah, Boku-kun is with a girl—\""]
+              "parameters": ["Rara: \"Ah, Frank-kun is with a girl—\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1528,7 +1528,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Rara: \"Ah, Boku-kun is with a girl--\""]
+              "parameters": ["Rara: \"Ah, Frank-kun is with a girl--\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1635,7 +1635,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Riri: \"Ah, look, Boku is walking with a woman—♪\""
+                "Riri: \"Ah, look, Frank is walking with a woman—♪\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1729,7 +1729,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Riri: \"Ah, look, Boku is walking with a woman—♪\""
+                "Riri: \"Ah, look, Frank is walking with a woman—♪\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1837,7 +1837,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Girl: \"Did you come to play too, Boku-kun?\""]
+              "parameters": ["Girl: \"Did you come to play too, Frank-kun?\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

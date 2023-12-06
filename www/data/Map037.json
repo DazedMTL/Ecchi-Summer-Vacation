@@ -1241,7 +1241,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"It's been a while since we've come here,\nhuh~\""
+                "Frank: \"It's been a while since we've come here,\nhuh~\""
               ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 101] },
@@ -1266,7 +1266,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"O-okay...\""]
+              "parameters": ["Frank\\se[3]: \"O-okay...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1280,7 +1280,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[1]: \"The park?\""]
+              "parameters": ["Frank\\se[1]: \"The park?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1294,7 +1294,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"Ah, Riri-chan and Lala-chan...\""]
+              "parameters": ["Frank\\se[3]: \"Ah, Riri-chan and Lala-chan...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1307,14 +1307,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (Those two are always at the park, and they\nplay pranks on me whenever they find me...)"
+                "Frank: (Those two are always at the park, and they\nplay pranks on me whenever they find me...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[1]: \"Yeah, well...\""]
+              "parameters": ["Frank\\se[1]: \"Yeah, well...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1336,7 +1336,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[0]: \"Right!\""]
+              "parameters": ["Frank\\se[0]: \"Right!\""]
             },
             {
               "code": 250,
@@ -1376,13 +1376,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[0]: \"Good luck!\""]
+              "parameters": ["Frank\\se[0]: \"Good luck!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Takeru\\se[1]: \"You bet! See you later, Boku!\""]
+              "parameters": ["Takeru\\se[1]: \"You bet! See you later, Frank!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             {
@@ -1478,7 +1478,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"He's already gone...\""]
+              "parameters": ["Frank: \"He's already gone...\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 121, "indent": 0, "parameters": [3, 3, 0] },
@@ -1589,7 +1589,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"What's this on the ground...? What could it\nbe?\""
+                "Frank: \"What's this on the ground...? What could it\nbe?\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1604,12 +1604,12 @@
               "parameters": [1, 0, 0, 0, 0, 0, 100, 100, 255, 0, 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["Boku: \"!!!!\""] },
+            { "code": 401, "indent": 0, "parameters": ["Frank: \"!!!!\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Th-This is... an erotic book!?\""]
+              "parameters": ["Frank: \"Th-This is... an erotic book!?\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1621,20 +1621,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Why is there an erotic book in a place like\nthis...\""
+                "Frank: \"Why is there an erotic book in a place like\nthis...\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Did someone throw it away, I wonder?\""]
+              "parameters": ["Frank: \"Did someone throw it away, I wonder?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku picks up the erotic book."]
+              "parameters": ["Frank picks up the erotic book."]
             },
             {
               "code": 102,
@@ -1647,7 +1647,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"...Somehow, looking at this is making my\ndick itch...\""
+                "Frank: \"...Somehow, looking at this is making my\ndick itch...\""
               ]
             },
             {
@@ -1673,7 +1673,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"M-My dick is getting hard...!? What's going\non...\""
+                "Frank: \"M-My dick is getting hard...!? What's going\non...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1681,7 +1681,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (Maybe if I touch it, it'll settle down...?)"
+                "Frank: (Maybe if I touch it, it'll settle down...?)"
               ]
             },
             {
@@ -1698,33 +1698,33 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Wh-When I rub it, it feels strange...\""]
+              "parameters": ["Frank: \"Wh-When I rub it, it feels strange...\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Haa, haa...!\""]
+              "parameters": ["Frank: \"Haa, haa...!\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (It feels like something's about to come\nout...! Is it pee...!?)"
+                "Frank: (It feels like something's about to come\nout...! Is it pee...!?)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (But, I can't stop it...!)"]
+              "parameters": ["Frank: (But, I can't stop it...!)"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Ah, aahh...!\""]
+              "parameters": ["Frank: \"Ah, aahh...!\""]
             },
             {
               "code": 231,
@@ -1745,7 +1745,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Uuuuuh...!\""]
+              "parameters": ["Frank: \"Uuuuuh...!\""]
             },
             {
               "code": 231,
@@ -1762,7 +1762,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"Wh-What's this... It's white... Doesn't\nseem like pee...\""
+                "Frank: \"Wh-What's this... It's white... Doesn't\nseem like pee...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1770,7 +1770,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (Could this be the white liquid I saw in\nvideos...? I'm not sure but...)"
+                "Frank: (Could this be the white liquid I saw in\nvideos...? I'm not sure but...)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1778,7 +1778,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"I ended up splashing it all over the\nbook...\""
+                "Frank: \"I ended up splashing it all over the\nbook...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1786,7 +1786,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"A-Anyway, since I've dirtied this book, I\nshould discreetly throw it away...\""
+                "Frank: \"A-Anyway, since I've dirtied this book, I\nshould discreetly throw it away...\""
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -1796,7 +1796,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku throws away the erotic book in a trash can\nlocated in a deserted corner of town."
+                "Frank throws away the erotic book in a trash can\nlocated in a deserted corner of town."
               ]
             },
             { "code": 121, "indent": 1, "parameters": [2, 2, 0] },
@@ -1808,7 +1808,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"The teacher said so too, it's bad to look\nat stuff like this...\""
+                "Frank: \"The teacher said so too, it's bad to look\nat stuff like this...\""
               ]
             },
             {
@@ -1854,7 +1854,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"I'll hide it here\""]
+              "parameters": ["Frank: \"I'll hide it here\""]
             },
             { "code": 121, "indent": 1, "parameters": [22, 22, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2056,7 +2056,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"...Somehow, looking at this makes my dick\ntingle...\""
+                "Frank: \"...Somehow, looking at this makes my dick\ntingle...\""
               ]
             },
             {
@@ -2082,7 +2082,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"My, my dick is getting hard...!? What's\nhappening...?\""
+                "Frank: \"My, my dick is getting hard...!? What's\nhappening...?\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2090,7 +2090,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (Maybe it'll settle down if I touch it...?)"
+                "Frank: (Maybe it'll settle down if I touch it...?)"
               ]
             },
             {
@@ -2108,34 +2108,34 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"When I, when I rub it, it feels strange...\""
+                "Frank: \"When I, when I rub it, it feels strange...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Haa, haa...!\""]
+              "parameters": ["Frank: \"Haa, haa...!\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (It feels like something's going to come\nout...! Is it pee...!?)"
+                "Frank: (It feels like something's going to come\nout...! Is it pee...!?)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (But, but I can't stop it...!)"]
+              "parameters": ["Frank: (But, but I can't stop it...!)"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Ah, aahh...!\""]
+              "parameters": ["Frank: \"Ah, aahh...!\""]
             },
             {
               "code": 231,
@@ -2156,7 +2156,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Uuuuuh...!\""]
+              "parameters": ["Frank: \"Uuuuuh...!\""]
             },
             {
               "code": 231,
@@ -2173,7 +2173,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"What is this... It's white... Doesn't seem\nlike pee...\""
+                "Frank: \"What is this... It's white... Doesn't seem\nlike pee...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2181,7 +2181,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"I ended up splashing it all over the\nbook...\""
+                "Frank: \"I ended up splashing it all over the\nbook...\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -2189,7 +2189,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"Anyway, since I've dirtied this book, I\nshould secretly throw it away...\""
+                "Frank: \"Anyway, since I've dirtied this book, I\nshould secretly throw it away...\""
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -2199,7 +2199,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku threw the erotic book into a trash can in a\ndeserted corner of town."
+                "Frank threw the erotic book into a trash can in a\ndeserted corner of town."
               ]
             },
             { "code": 121, "indent": 1, "parameters": [2, 2, 0] },
@@ -2210,7 +2210,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Maybe I should just stop this...\""]
+              "parameters": ["Frank: \"Maybe I should just stop this...\""]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -2369,7 +2369,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Hiromi: \"Oh my, Boku-kun... you've learned such a\nnaughty game♡ Sure, I'll play with you♡\""
+                "Hiromi: \"Oh my, Frank-kun... you've learned such a\nnaughty game♡ Sure, I'll play with you♡\""
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2468,7 +2468,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Boku: \"I have to go back home already...\""]
+              "parameters": ["Frank: \"I have to go back home already...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },

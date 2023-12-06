@@ -635,7 +635,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"...Yeah!\""]
+              "parameters": ["Frank\\se[4]: \"...Yeah!\""]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -663,7 +663,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[2]: \"That's true...\""]
+              "parameters": ["Frank\\se[2]: \"That's true...\""]
             },
             {
               "code": 205,
@@ -917,7 +917,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Ah, is that Shoko-chan?\""]
+              "parameters": ["Frank: \"Ah, is that Shoko-chan?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
@@ -926,7 +926,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"Oh, what's this, Boku? What brings you to\nthe shrine, you pious fellow?\""
+                "Shoko: \"Oh, what's this, Frank? What brings you to\nthe shrine, you pious fellow?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -934,7 +934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Pious...? What are you doing here, Shoko-\nchan?\""
+                "Frank: \"Pious...? What are you doing here, Shoko-\nchan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -950,7 +950,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Preparations for the summer festival... by\nShoko-chan?\""
+                "Frank: \"Preparations for the summer festival... by\nShoko-chan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -965,7 +965,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"I see... that's amazing.\""]
+              "parameters": ["Frank: \"I see... that's amazing.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -981,14 +981,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"Hmm, that's right... Boku! I shall treat\nyou to some tea!\""
+                "Shoko: \"Hmm, that's right... Frank! I shall treat\nyou to some tea!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"S-Suddenly!? \""]
+              "parameters": ["Frank: \"S-Suddenly!? \""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -1002,7 +1002,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Y-Yeah...!\""]
+              "parameters": ["Frank: \"Y-Yeah...!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1030,7 +1030,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
+                "Frank: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1046,7 +1046,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
+                "Frank: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -1054,7 +1054,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Is it because you get an allowance or\nsomething...?\""
+                "Frank: \"Is it because you get an allowance or\nsomething...?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1069,7 +1069,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"A bribe...?\""]
+              "parameters": ["Frank: \"A bribe...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1091,7 +1091,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Feeling happy... I see...\""]
+              "parameters": ["Frank: \"Feeling happy... I see...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1114,7 +1114,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
+                "Frank: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1135,7 +1135,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Yeah, see you later!\""]
+              "parameters": ["Frank: \"Yeah, see you later!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1288,7 +1288,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Ah, is that Shoko-chan?\""]
+              "parameters": ["Frank: \"Ah, is that Shoko-chan?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
@@ -1297,7 +1297,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"Oh, what's this, Boku? What brings you to\nthe shrine, you devout fellow?\""
+                "Shoko: \"Oh, what's this, Frank? What brings you to\nthe shrine, you devout fellow?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -1305,7 +1305,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Devout...? What are you doing here, Shoko-\nchan?\""
+                "Frank: \"Devout...? What are you doing here, Shoko-\nchan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -1321,7 +1321,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Preparations for the summer festival... by\nShoko-chan?\""
+                "Frank: \"Preparations for the summer festival... by\nShoko-chan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1336,7 +1336,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"I see... that's amazing.\""]
+              "parameters": ["Frank: \"I see... that's amazing.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1352,14 +1352,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"Hmm, that's right... Boku! I shall treat\nyou to some tea!\""
+                "Shoko: \"Hmm, that's right... Frank! I shall treat\nyou to some tea!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"S-suddenly!?\""]
+              "parameters": ["Frank: \"S-suddenly!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -1373,7 +1373,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Y-yeah...!\""]
+              "parameters": ["Frank: \"Y-yeah...!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1401,7 +1401,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
+                "Frank: \"Yeah, it's tasty! Thank you, Shoko-chan!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1415,7 +1415,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
+                "Frank: \"...By the way, why does Shoko-chan help out\nwith so many things?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -1423,7 +1423,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Is it because you get an allowance or\nsomething...?\""
+                "Frank: \"Is it because you get an allowance or\nsomething...?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1438,7 +1438,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"A bribe...\""]
+              "parameters": ["Frank: \"A bribe...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1460,14 +1460,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Feeling happy... I see...\""]
+              "parameters": ["Frank: \"Feeling happy... I see...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko\\se[2]: \"Yes! That's right! So Boku should\nalso be kind to others.\""
+                "Shoko\\se[2]: \"Yes! That's right! So Frank should\nalso be kind to others.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1483,7 +1483,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
+                "Frank: \"Yeah! I'll try to be as kind to others as\nShoko-chan is...!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1504,7 +1504,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Yeah, see you later!\""]
+              "parameters": ["Frank: \"Yeah, see you later!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },

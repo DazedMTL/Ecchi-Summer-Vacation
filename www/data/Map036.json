@@ -351,7 +351,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Akane\\se[1]: \"Bo-Bo-Bo, Boku!? Why are you here!?\""
+                "Akane\\se[1]: \"Bo-Bo-Bo, Frank!? Why are you here!?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -366,7 +366,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Re-research...?\""]
+              "parameters": ["Frank: \"Re-research...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -393,7 +393,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (She was in such a hurry, but what was that\nall about...?)"
+                "Frank: (She was in such a hurry, but what was that\nall about...?)"
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

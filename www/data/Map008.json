@@ -574,7 +574,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Girl: \"Oh, did you come to play too, Boku-kun?\""
+                "Girl: \"Oh, did you come to play too, Frank-kun?\""
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -873,7 +873,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"What's this, Boku? Are you trying to\narrange a secret rendezvous?\""
+                "Shoko: \"What's this, Frank? Are you trying to\narrange a secret rendezvous?\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -967,7 +967,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko: \"What's this, Boku? Trying to arrange a\nsecret rendezvous?\""
+                "Shoko: \"What's this, Frank? Trying to arrange a\nsecret rendezvous?\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1034,7 +1034,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boy: \"Hey Boku, do you know?\""]
+              "parameters": ["Boy: \"Hey Frank, do you know?\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 13] },
             { "code": 117, "indent": 0, "parameters": [2] },
@@ -1042,7 +1042,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"What are you talking about?\""]
+              "parameters": ["Frank: \"What are you talking about?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1057,20 +1057,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[3]: \"Peeking...!? If we do that, we'll get\nin trouble with the adults...\""
+                "Frank\\se[3]: \"Peeking...!? If we do that, we'll get\nin trouble with the adults...\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boy: \"But aren't you curious, Boku?\""]
+              "parameters": ["Boy: \"But aren't you curious, Frank?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"I'm not really that interested...\""]
+              "parameters": ["Frank: \"I'm not really that interested...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1084,14 +1084,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Good luck with that...\""]
+              "parameters": ["Frank: \"Good luck with that...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[2]: (A place in the beach house where you\ncan peek at changing... Does such a place really\nexist...?)"
+                "Frank\\se[2]: (A place in the beach house where you\ncan peek at changing... Does such a place really\nexist...?)"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },

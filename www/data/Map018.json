@@ -543,7 +543,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (I wonder what that voice is...)"]
+              "parameters": ["Frank: (I wonder what that voice is...)"]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }

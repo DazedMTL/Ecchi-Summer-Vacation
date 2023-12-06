@@ -1012,7 +1012,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku (Summer vacation starts tomorrow, huh... What\nshould I do for a whole month? Having a lot of\nhomework is a bit depressing, but...)"
+                "Frank (Summer vacation starts tomorrow, huh... What\nshould I do for a whole month? Having a lot of\nhomework is a bit depressing, but...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1020,7 +1020,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku (But somehow, I have a feeling it's going to\nbe fun!)"
+                "Frank (But somehow, I have a feeling it's going to\nbe fun!)"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -1146,7 +1146,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[6]: \"Whoa, \\n[10]-kun! What's the rush?\""
+                "Frank\\se[6]: \"Whoa, \\n[10]-kun! What's the rush?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1170,7 +1170,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[4]: \"Eh, something cool? Show me, show\nme!\""
+                "Frank\\se[4]: \"Eh, something cool? Show me, show\nme!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1178,7 +1178,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[1]: \"But this... it's a smartphone! You\nknow we're not allowed to bring these to school!\""
+                "Frank\\se[1]: \"But this... it's a smartphone! You\nknow we're not allowed to bring these to school!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1213,7 +1213,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[6]: \"Wowww!\""]
+              "parameters": ["Frank\\se[6]: \"Wowww!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1227,7 +1227,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[0]: \"\\n[10]-kun...! This is...\""]
+              "parameters": ["Frank\\se[0]: \"\\n[10]-kun...! This is...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1241,14 +1241,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"Whoa...\""]
+              "parameters": ["Frank\\se[4]: \"Whoa...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku (Incredible... There's a woman straddling a\nman... I don't quite understand, but it's\nsomehow...)"
+                "Frank (Incredible... There's a woman straddling a\nman... I don't quite understand, but it's\nsomehow...)"
               ]
             },
             {
@@ -1269,7 +1269,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"Ahhh!\""]
+              "parameters": ["Frank\\se[3]: \"Ahhh!\""]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 101] },
             { "code": 117, "indent": 0, "parameters": [2] },
@@ -1362,7 +1362,7 @@
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 11] },
             { "code": 117, "indent": 0, "parameters": [2] },
-            { "code": 356, "indent": 0, "parameters": ["skit exp boku t 3"] },
+            { "code": 356, "indent": 0, "parameters": ["skit exp Frank t 3"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
@@ -1408,7 +1408,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[6] (Naughty...!)"]
+              "parameters": ["Frank\\se[6] (Naughty...!)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1447,7 +1447,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[1] (The woman in that video... was really\nnaughty... That was naughty...)"
+                "Frank\\se[1] (The woman in that video... was really\nnaughty... That was naughty...)"
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },

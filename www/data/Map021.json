@@ -256,7 +256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Takeru: \"Yo Boku! Are you enjoying the summer\nbreak?\""
+                "Takeru: \"Yo Frank! Are you enjoying the summer\nbreak?\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -421,7 +421,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },

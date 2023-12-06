@@ -399,7 +399,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku\\se[3]: \"This is the ladies' restroom...!\""
+                "Frank\\se[3]: \"This is the ladies' restroom...!\""
               ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -723,20 +723,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Ah, Miyabi-chan.\""]
+              "parameters": ["Frank: \"Ah, Miyabi-chan.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Miyabi\\se[2]: \"Yaho-, it's Boku-chin♪\""]
+              "parameters": ["Miyabi\\se[2]: \"Yaho-, it's Frank-chin♪\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Hello, what are you doing, Miyabi-chan?\""
+                "Frank: \"Hello, what are you doing, Miyabi-chan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -759,7 +759,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"I see.\""]
+              "parameters": ["Frank\\se[4]: \"I see.\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -780,7 +780,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Miyabi\\se[default]: \"Have you decided who you're\ngoing to go around with, Boku-chin? Maybe you'll\nhave a festival date with some girl?\""
+                "Miyabi\\se[default]: \"Have you decided who you're\ngoing to go around with, Frank-chin? Maybe you'll\nhave a festival date with some girl?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -788,7 +788,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[3]: \"No, nothing like that! I always go to\nthe festival with Takeru-kun.\""
+                "Frank\\se[3]: \"No, nothing like that! I always go to\nthe festival with Takeru-kun.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -796,7 +796,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Miyabi: \"Hmm, I see... Well, I guess that's about\nright for someone like Boku-chin.\""
+                "Miyabi: \"Hmm, I see... Well, I guess that's about\nright for someone like Frank-chin.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -811,21 +811,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"I-I hope you find someone...?\""]
+              "parameters": ["Frank\\se[4]: \"I-I hope you find someone...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Miyabi\\se[2]: \"Hehe, or maybe Boku-chin will\nbecome my boyfriend?\""
+                "Miyabi\\se[2]: \"Hehe, or maybe Frank-chin will\nbecome my boyfriend?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[3]: \"Bo-bo-bo-Boku as...!?\""]
+              "parameters": ["Frank\\se[3]: \"Fr-fr-fr-Frank as...!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -839,7 +839,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Yeah... me too...\""]
+              "parameters": ["Frank: \"Yeah... me too...\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },

@@ -1124,7 +1124,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nagisa: \"Oh, Boku-kun! You have just the right\nswimsuit there, I've been looking for a design\nlike that.\""
+                "Nagisa: \"Oh, Frank-kun! You have just the right\nswimsuit there, I've been looking for a design\nlike that.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1228,7 +1228,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nagisa: \"Oh, Boku-kun, is this a date?\""]
+              "parameters": ["Nagisa: \"Oh, Frank-kun, is this a date?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1320,7 +1320,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Nagisa: \"Oh, Boku-kun, is this a date?\""]
+              "parameters": ["Nagisa: \"Oh, Frank-kun, is this a date?\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -3256,14 +3256,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (There's a hole in the wall. I wonder if I\ncan see something if I peek...?)"
+                "Frank: (There's a hole in the wall. I wonder if I\ncan see something if I peek...?)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (I just can't help but be curious...!)"]
+              "parameters": ["Frank: (I just can't help but be curious...!)"]
             },
             { "code": 117, "indent": 1, "parameters": [16] },
             { "code": 242, "indent": 1, "parameters": [1] },
@@ -3289,19 +3289,19 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["Boku: \"!!!!\""] },
+            { "code": 401, "indent": 1, "parameters": ["Frank: \"!!!!\""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (Is this... a changing room, maybe?)"]
+              "parameters": ["Frank: (Is this... a changing room, maybe?)"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (Could it possibly be the girls' changing\nroom?)"
+                "Frank: (Could it possibly be the girls' changing\nroom?)"
               ]
             },
             {
@@ -3324,7 +3324,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (Someone's coming...!?)"]
+              "parameters": ["Frank: (Someone's coming...!?)"]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 230, "indent": 1, "parameters": [30] },
@@ -3332,28 +3332,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Whoa...!!?\""]
+              "parameters": ["Frank: \"Whoa...!!?\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (This is bad, if I make a sound, I'll be\nfound out)"
+                "Frank: (This is bad, if I make a sound, I'll be\nfound out)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (But, this is... amazing...)"]
+              "parameters": ["Frank: (But, this is... amazing...)"]
             },
             { "code": 111, "indent": 1, "parameters": [1, 48, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Boku: (Th-That's a naked... woman's breasts...!)"]
+              "parameters": ["Frank: (Th-That's a naked... woman's breasts...!)"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -3374,20 +3374,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (If I stay too long, someone might come. I\nshould get away from here quickly...)"
+                "Frank: (If I stay too long, someone might come. I\nshould get away from here quickly...)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (I should get away from here quickly...)"]
+              "parameters": ["Frank: (I should get away from here quickly...)"]
             },
             { "code": 122, "indent": 1, "parameters": [59, 59, 0, 2, 1, 2] },
             { "code": 117, "indent": 1, "parameters": [17] },
@@ -3451,7 +3451,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 2, "parameters": ["skit end"] },
             { "code": 117, "indent": 2, "parameters": [4] },
@@ -3524,7 +3524,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Maybe I should put some spirit into picking\nup trash on this beach...\""
+                "Frank: \"Maybe I should put some spirit into picking\nup trash on this beach...\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
@@ -3595,7 +3595,7 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["Boku: \"I have to go back home now...\""]
+              "parameters": ["Frank: \"I have to go back home now...\""]
             },
             { "code": 356, "indent": 3, "parameters": ["skit end"] },
             { "code": 117, "indent": 3, "parameters": [4] },
@@ -3880,21 +3880,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Shoko-chan, hello!\""]
+              "parameters": ["Frank: \"Shoko-chan, hello!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko\\se[1]: \"Oh, what is it? It's you, Boku.\""
+                "Shoko\\se[1]: \"Oh, what is it? It's you, Frank.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"What are you doing?\""]
+              "parameters": ["Frank: \"What are you doing?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -3908,13 +3908,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Shoko: \"You don't litter, do you, Boku?\""]
+              "parameters": ["Shoko: \"You don't litter, do you, Frank?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"No, I don't!\""]
+              "parameters": ["Frank: \"No, I don't!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -3928,7 +3928,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"Yeah, sure!\""]
+              "parameters": ["Frank: \"Yeah, sure!\""]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3941,7 +3941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (Just like Shoko-chan said, there really is\na lot of litter...)"
+                "Frank: (Just like Shoko-chan said, there really is\na lot of litter...)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -3949,14 +3949,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: (I even saw someone throw away a can right\nin front of me earlier.)"
+                "Frank: (I even saw someone throw away a can right\nin front of me earlier.)"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (Shoko-chan was angry about it...)"]
+              "parameters": ["Frank: (Shoko-chan was angry about it...)"]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 51] },
             { "code": 117, "indent": 0, "parameters": [2] },
@@ -3965,14 +3965,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shoko\\se[1]: \"Phew... We've picked up quite a bit.\nI'm grateful for your help, Boku!\""
+                "Shoko\\se[1]: \"Phew... We've picked up quite a bit.\nI'm grateful for your help, Frank!\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"You're welcome!\""]
+              "parameters": ["Frank: \"You're welcome!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -3995,7 +3995,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Sho, Shoko-chan is probably not wrong...!\nIt's the people who litter that are bad...\""
+                "Frank: \"Sho, Shoko-chan is probably not wrong...!\nIt's the people who litter that are bad...\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -4016,14 +4016,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"That's right...!\""]
+              "parameters": ["Frank: \"That's right...!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"...By the way, since we're at the beach,\naren't you going to swim, Shoko-chan?\""
+                "Frank: \"...By the way, since we're at the beach,\naren't you going to swim, Shoko-chan?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
@@ -4033,7 +4033,7 @@
               "parameters": ["Shoko\\se[4]: \"Wha...!?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["Boku: \"Eh...?\""] },
+            { "code": 401, "indent": 0, "parameters": ["Frank: \"Eh...?\""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
               "code": 401,
@@ -4046,7 +4046,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"...You mean you can't swim?\""]
+              "parameters": ["Frank: \"...You mean you can't swim?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
             {
@@ -4055,7 +4055,7 @@
               "parameters": ["Shoko\\se[2]: \"Yes, yes! That's it!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2, ""] },
-            { "code": 401, "indent": 0, "parameters": ["Boku: \"I see...\""] },
+            { "code": 401, "indent": 0, "parameters": ["Frank: \"I see...\""] },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },

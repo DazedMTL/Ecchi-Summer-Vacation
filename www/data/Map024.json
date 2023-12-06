@@ -535,7 +535,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Card Shop Owner: \"Hey, welcome. Takeru-kun, Boku-\nkun.\""
+                "Card Shop Owner: \"Hey, welcome. Takeru-kun, Frank-\nkun.\""
               ]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 102] },
@@ -562,7 +562,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[1]: \"Korema...?\""]
+              "parameters": ["Frank\\se[1]: \"Korema...?\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -593,7 +593,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku\\se[0]: \"It might be kind of interesting...?\""
+                "Frank\\se[0]: \"It might be kind of interesting...?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -601,7 +601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Card Shop Owner: \"Boku-kun seems interested, huh?\nThen I'll give you this.\""
+                "Card Shop Owner: \"Frank-kun seems interested, huh?\nThen I'll give you this.\""
               ]
             },
             {
@@ -626,7 +626,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"Wow, thank you so much!\""]
+              "parameters": ["Frank\\se[4]: \"Wow, thank you so much!\""]
             },
             { "code": 213, "indent": 0, "parameters": [0, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -649,7 +649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[6]: \"Yeah, that's true...\""]
+              "parameters": ["Frank\\se[6]: \"Yeah, that's true...\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -680,7 +680,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku\\se[4]: \"Really? Good luck!\""]
+              "parameters": ["Frank\\se[4]: \"Really? Good luck!\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {

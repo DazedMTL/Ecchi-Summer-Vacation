@@ -218,7 +218,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Akane: \"Whether it's me or Boku, I'm too busy with\nthe manuscript for the summer 'ComiMart', so I\ncan't play games.\""
+                "Akane: \"Whether it's me or Frank, I'm too busy with\nthe manuscript for the summer 'ComiMart', so I\ncan't play games.\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -263,7 +263,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (It's Akane Onee-san... We don't meet\noutside much, but she always seems to be drawing\nat home.)"
+                "Frank: (It's Akane Onee-san... We don't meet\noutside much, but she always seems to be drawing\nat home.)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -271,14 +271,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: (But whenever I visit her house, she always\nlets me play games.)"
+                "Frank: (But whenever I visit her house, she always\nlets me play games.)"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: (It seems like she's busy right now...)"]
+              "parameters": ["Frank: (It seems like she's busy right now...)"]
             },
             { "code": 122, "indent": 1, "parameters": [57, 57, 0, 0, 100] },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -369,7 +369,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Akane: \"Whether it's Boku or me, I'm busy with the\nmanuscript for the summer 'ComiMart,' so I can't\nplay games with you.\""
+                "Akane: \"Whether it's Frank or me, I'm busy with the\nmanuscript for the summer 'ComiMart,' so I can't\nplay games with you.\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -554,7 +554,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Akane\\se[1]: \"Boku!? Since when have you been\nthere!?\""
+                "Akane\\se[1]: \"Frank!? Since when have you been\nthere!?\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -571,7 +571,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Boku: \"Understood!\""]
+              "parameters": ["Frank: \"Understood!\""]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
             {
@@ -672,7 +672,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Akane: \"Haa, haa...♪ Oh, is that you, Boku...♪\nWhat's up?\""
+                "Akane: \"Haa, haa...♪ Oh, is that you, Frank...♪\nWhat's up?\""
               ]
             },
             { "code": 356, "indent": 1, "parameters": ["skit end"] },
@@ -880,7 +880,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Akane\\se[1]: \"Boku!? Were you here!?\""]
+              "parameters": ["Akane\\se[1]: \"Frank!? Were you here!?\""]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -1021,7 +1021,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Akane: \"Haa, haa...♪ Oh, it's you, Boku...♪ What's\nup?\""
+                "Akane: \"Haa, haa...♪ Oh, it's you, Frank...♪ What's\nup?\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1233,13 +1233,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (Eh, it's an ecchi poster...!)"]
+              "parameters": ["Frank: (Eh, it's an ecchi poster...!)"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: (So there are posters like this...)"]
+              "parameters": ["Frank: (So there are posters like this...)"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1296,7 +1296,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Boku: \"There's a poster of some anime up...\""]
+              "parameters": ["Frank: \"There's a poster of some anime up...\""]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1362,7 +1362,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Boku: \"Is this some kind of massage device...?\nMaybe my shoulders are stiff?\""
+                "Frank: \"Is this some kind of massage device...?\nMaybe my shoulders are stiff?\""
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1430,7 +1430,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Boku: \"There are so many thin books lined up...\""
+                "Frank: \"There are so many thin books lined up...\""
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
