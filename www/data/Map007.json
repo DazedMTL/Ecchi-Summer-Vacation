@@ -470,7 +470,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lala\\se[3]: \"Boku-kun is just a toy. I wonder how\nwe should play with him today.\""
+                "Rara\\se[3]: \"Boku-kun is just a toy. I wonder how\nwe should play with him today.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -494,7 +494,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lala\\se[4]: \"Eh...? Isn't there something more\ninteresting we could do?\""
+                "Rara\\se[4]: \"Eh...? Isn't there something more\ninteresting we could do?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -510,7 +510,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lala\\se[default]: \"I'm thinking about it right\nnow.\""
+                "Rara\\se[default]: \"I'm thinking about it right\nnow.\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -558,7 +558,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lala\\se[7]: \"Ah-ah... Well, we'll just have to\nplay with our toy next time we meet.\""
+                "Rara\\se[7]: \"Ah-ah... Well, we'll just have to\nplay with our toy next time we meet.\""
               ]
             },
             { "code": 356, "indent": 0, "parameters": ["skit end"] },

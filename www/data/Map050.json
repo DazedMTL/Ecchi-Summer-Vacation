@@ -2865,7 +2865,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Lala\\se[4]: \"What is this place, it's pitch\nblack... Hey, Boku-kun, can you see anything?\""
+                "Rara\\se[4]: \"What is this place, it's pitch\nblack... Hey, Boku-kun, can you see anything?\""
               ]
             },
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
@@ -2881,7 +2881,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Lala\\se[0]: \"It's strange how we can't see even\nwith the light on...\""
+                "Rara\\se[0]: \"It's strange how we can't see even\nwith the light on...\""
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -2903,7 +2903,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Lala\\se[2]: \"I didn't hear anything, okay? It must\nbe your imagination♪\""
+                "Rara\\se[2]: \"I didn't hear anything, okay? It must\nbe your imagination♪\""
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
@@ -3781,7 +3781,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Lala\\se[1]: \"It's cold and feels nice~♪ Here, let\nme share some with you, Boku-kun~\""
+                "Rara\\se[1]: \"It's cold and feels nice~♪ Here, let\nme share some with you, Boku-kun~\""
               ]
             },
             { "code": 122, "indent": 2, "parameters": [6, 6, 0, 0, 10] },
@@ -3798,7 +3798,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Lala\\se[4]: \"Ahaha♪ What a funny face~♪\""]
+              "parameters": ["Rara\\se[4]: \"Ahaha♪ What a funny face~♪\""]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
