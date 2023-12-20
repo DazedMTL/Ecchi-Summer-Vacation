@@ -2873,7 +2873,7 @@
       {
         "code": 401,
         "indent": 3,
-        "parameters": ["Lala\\se[3]: \"Hmm...? Were you bullied by Riri...?\""]
+        "parameters": ["Rara\\se[3]: \"Hmm...? Were you bullied by Riri...?\""]
       },
       { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
       {
@@ -24176,7 +24176,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Lala\\se[4] \"You're bored?\""]
+        "parameters": ["Rara\\se[4] \"You're bored?\""]
       },
       {
         "code": 250,
@@ -24202,7 +24202,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Lala\\se[3] \"Fufufu♪ I found you...♪\""]
+        "parameters": ["Rara\\se[3] \"Fufufu♪ I found you...♪\""]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
@@ -24229,7 +24229,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "Lala\\se[5] \"We were wondering where you were\nplaying~ so we followed you here~\""
+          "Rara\\se[5] \"We were wondering where you were\nplaying~ so we followed you here~\""
         ]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -24253,7 +24253,7 @@
         "code": 401,
         "indent": 0,
         "parameters": [
-          "Lala\\se[7] \"Frank-kun is our toy, and if he's not\nplayed with properly, that's no good...?\""
+          "Rara\\se[7] \"Frank-kun is our toy, and if he's not\nplayed with properly, that's no good...?\""
         ]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -24282,7 +24282,7 @@
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["Lala\\se[8] \"Yeah... Riri♪\""]
+        "parameters": ["Rara\\se[8] \"Yeah... Riri♪\""]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
       {
@@ -24989,7 +24989,7 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["Lala\\se[2]: \"Frank-kun, sorry for the wait.\""]
+        "parameters": ["Rara\\se[2]: \"Frank-kun, sorry for the wait.\""]
       },
       { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
       {
@@ -25004,7 +25004,7 @@
         "code": 401,
         "indent": 1,
         "parameters": [
-          "Lala\\se[3]: \"Really? Thank goodness, I made it in\ntime for the test of courage... I'm excited...♪\""
+          "Rara\\se[3]: \"Really? Thank goodness, I made it in\ntime for the test of courage... I'm excited...♪\""
         ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
